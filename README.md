@@ -38,16 +38,6 @@
     🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
   </p>
 
-  <!-- 邮箱按钮 -->
-  <div style="margin-top: 1rem;">
-    <a href="mailto:849997616@qq.com">
-      <img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail" alt="Email QQ">
-    </a>
-    <a href="mailto:weihouzeng@gmail.com">
-      <img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail" alt="Email Gmail">
-    </a>
-  </div>
-
 </div>
 
 ---
@@ -74,9 +64,10 @@
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
-  <!-- 动态贡献图表 -->
+  <!-- 动态贡献图表替代 3D GitHub Profile Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=radical" alt="GitHub Streak Stats"/>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
@@ -87,9 +78,9 @@
 
 ## 🔗 Connect with Me | 联系我的方式
 <p align="center">
-  <a href="https://github.com/WZ_Crypt"><img src="https://img.shields.io/badge/GitHub-WZ__Crypt-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
-  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/WZ_Crypt"><img src="https://img.shields.io/badge/github-wz__crypt-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <!-- 访客计数器 -->
