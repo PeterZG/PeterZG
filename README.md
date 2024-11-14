@@ -1,6 +1,6 @@
 <!-- Top Cyberpunk Dynamic Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Cyberpunk+Profile!+👾" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Profile!+👾" alt="Typing SVG" />
 </div>
 
 <!-- Cool Cyberpunk Animation -->
