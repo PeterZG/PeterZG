@@ -1,14 +1,5 @@
 <!-- 顶部波浪效果 -->
-<div align="center">
-  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <path d="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" fill="#0072ff" opacity="0.8">
-      <animate attributeName="d" values="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z; 
-                                         M0 30 Q 300 0 600 30 T 1200 30 V60 H0 Z; 
-                                         M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" 
-               dur="5s" repeatCount="indefinite"/>
-    </path>
-  </svg>
-</div>
+![Wave](assets/wave_top.svg)
 
 <!-- 动态效果 (英文) -->
 <div align="center">
@@ -130,14 +121,5 @@
 ---
 
 <!-- 底部波浪效果 -->
-<div align="center">
-  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-    <path d="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" fill="#0072ff" opacity="0.8">
-      <animate attributeName="d" values="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z; 
-                                         M0 30 Q 300 0 600 30 T 1200 30 V60 H0 Z; 
-                                         M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" 
-               dur="5s" repeatCount="indefinite"/>
-    </path>
-  </svg>
-</div>
+![Wave](assets/wave_bottom.svg)
 
