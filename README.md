@@ -13,7 +13,6 @@
   <img src="./giphy.gif" alt="Cyberpunk GIF" width="600" />
 </div>
 
-
 ---
 
 <div align="center">
@@ -61,12 +60,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=03DAC5&center=true&vCenter=true&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Profile!;💻+Full-Stack+Developer+%7C+Web3+Enthusiast;🌐+Exploring+the+intersection+of+Tech+and+Creativity" alt="Typing Animation"/>
-</div>
-
----
-
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
@@ -104,7 +97,6 @@
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/email-weihouzeng@gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
-
 <!-- 访客计数器 -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://komarev.com/ghpvc/?username=PeterZG&label=Visitors&color=blue&style=flat" alt="Profile visitor count" />
@@ -115,3 +107,4 @@
 <div align="center" style="padding: 10px;">
   <p>✨ Empowering technology, one step at a time. Made with 💖 by WZ_Crypt. ✨</p>
 </div>
+
