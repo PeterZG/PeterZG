@@ -1,30 +1,39 @@
-<!-- Top Dynamic Wave Effect -->
+<!-- Top Sparkling Wave Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20WZ_Crypt's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<!-- Welcome Text with Cyberpunk Gradient Style -->
+<!-- Cool Coding GIF -->
 <div align="center">
-  <svg width="100%" height="100">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#ff00cc; stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#3333ff; stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="36" font-family="'Press Start 2P', cursive" fill="url(#gradient)">
-      👈😎 Welcome to WZ_Crypt's Profile! 😎👉
-    </text>
-  </svg>
+  <img src="./giphy.gif" alt="Cool Coding GIF" width="600"/>
+</div>
+
+<!-- Welcome Text with Cyberpunk Gradient Style and Typing Animation -->
+<div align="center">
+  <h1 style="font-size: 50px; font-family: 'Press Start 2P', cursive; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
+    👈😎 Welcome to WZ_Crypt's Profile! 😎👉
+  </h1>
+</div>
+
+<div align="center">
+  **A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
+
+  🎓 Graduate from UNSW with a Bachelor of Computer Science.  
+  🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.  
+  💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.  
+  🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.  
+
+  [![Email](https://img.shields.io/badge/Email-849997616%40qq.com-yellow)](mailto:849997616@qq.com)
+  [![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow)](mailto:weihouzeng@gmail.com)
 </div>
 
 ---
 
-**A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
+## ⚡ About Me
 
-🎓 Graduate from UNSW with a Bachelor of Computer Science.  
-💻 Currently working on Web3 and AI technologies.  
-🌏 Based in Shenzhen, China.
+- 🔭 I’m currently working on Web3.0 projects.
+- 🌱 I’m exploring AI basics for backend integration.
+- 💬 Ask me about full-stack development and backend technologies.
 
 ---
 
@@ -38,26 +47,23 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- 🔹 **Web3.0 Development**: Exploring blockchain technologies and dApps.
-- 🔹 **AI Basics**: Building foundational knowledge for backend integration.
-- 🔹 **Full-stack Optimization**: Focusing on scalable application architecture.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  ![WZ_Crypt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WZ_Crypt&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WZ_Crypt&layout=compact&theme=radical)
-
+  ![PeterZG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical)
 </div>
 
 ---
 
-<!-- Bottom Dynamic Wave Effect -->
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/WZ_Crypt"><img src="https://img.shields.io/badge/GitHub-WZ__Crypt-181717?style=for-the-badge&logo=github"></a>
+  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
+</p>
+
+<!-- Bottom Sparkling Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&animation=fadeIn" />
 </div>
