@@ -1,18 +1,18 @@
-<!-- Top Transparent Wave Effect -->
+<!-- Top Cyberpunk Style Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=150&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20WZ_Crypt's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
 
-<!-- Welcome Gradient Text with Cyberpunk Style -->
+<!-- Welcome Text with Typing Animation -->
 <div align="center">
-  <h1 style="font-size: 60px; font-family: 'Press Start 2P', cursive; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; animation: fadeIn 3s;">
-    👈😎 Welcome to WZ_Crypt's Profile! 😎👉
-  </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=00FFCC&background=000000&width=600&lines=👋+Welcome+to+WZ_Crypt's+Cyberpunk+Profile!;🎮+Coding+is+a+new+form+of+artistry.;💡+Let's+explore+the+world+of+tech!;✨+Empowering+the+future+with+Web3.0+and+AI." alt="Typing SVG" />
+  </a>
 </div>
 
-<!-- Cool GIF Animation -->
+<!-- Cyberpunk GIF -->
 <div align="center">
-  <img src="./giphy.gif" alt="Cool Coding GIF" width="600"/>
+  <img src="./cyberpunk-scene.gif" alt="Cyberpunk GIF" width="600"/>
 </div>
 
 ---
@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WZ_Crypt&show_icons=true&theme=radical" alt="WZ_Crypt's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WZ_Crypt&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -65,7 +65,7 @@
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- Bottom Transparent Wave Effect -->
+<!-- Bottom Cyberpunk Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </div>
