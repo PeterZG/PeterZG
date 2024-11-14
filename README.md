@@ -1,19 +1,21 @@
-<!-- Top Sparkling Wave Effect -->
+<!-- Top Transparent Wave Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Welcome%20to%20WZ_Crypt's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=150&section=header"/>
 </div>
 
-<!-- Cool Coding GIF -->
+<!-- Welcome Gradient Text with Cyberpunk Style -->
+<div align="center">
+  <h1 style="font-size: 60px; font-family: 'Press Start 2P', cursive; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent; animation: fadeIn 3s;">
+    👈😎 Welcome to WZ_Crypt's Profile! 😎👉
+  </h1>
+</div>
+
+<!-- Cool GIF Animation -->
 <div align="center">
   <img src="./giphy.gif" alt="Cool Coding GIF" width="600"/>
 </div>
 
-<!-- Welcome Text with Cyberpunk Gradient Style and Typing Animation -->
-<div align="center">
-  <h1 style="font-size: 50px; font-family: 'Press Start 2P', cursive; background: linear-gradient(to right, #ff00cc, #3333ff); -webkit-background-clip: text; color: transparent;">
-    👈😎 Welcome to WZ_Crypt's Profile! 😎👉
-  </h1>
-</div>
+---
 
 <div align="center">
   **A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
@@ -50,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  ![PeterZG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---
@@ -63,7 +65,7 @@
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- Bottom Sparkling Effect -->
+<!-- Bottom Transparent Wave Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=transparent&height=150&section=footer"/>
 </div>
