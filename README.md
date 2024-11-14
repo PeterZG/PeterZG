@@ -1,5 +1,11 @@
 # 👈😎 Welcome to WZ_Crypt's Profile! 😎👉
 
+<div align="center">
+  <img src="./giphy.gif" alt="Cool Coding GIF" width="600"/>
+</div>
+
+---
+
 **A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
 
 🎓 Graduate from UNSW with a Bachelor of Computer Science. Planning to pursue a Master's program in 2025, focusing on AI and database systems.  
@@ -25,6 +31,3 @@
 - Optimizing full-stack architectures for scalable applications.
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WZ_Crypt.WZ_Crypt)
-
