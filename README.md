@@ -82,11 +82,18 @@
 
 ## 💬 Inspiring Quote of the Day | 每日一句
 
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=I’m+not+interested+in+technology+itself.+I’m+interested+in+what+it+can+do.&author=Hideo+Kojima&theme=radical" alt="Quote by Hideo Kojima" style="border-radius: 8px;"/>
-  <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1rem; color: #FF6347;">
-  </p>
-</div>
+<table align="center">
+  <tr>
+    <!-- 左侧：小岛秀夫的头像图片 -->
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="./hideo_kojima.png" alt="Hideo Kojima" width="150" height="150" style="border-radius: 50%;"/>
+    </td>
+    <!-- 右侧：名人名言 -->
+    <td align="center" valign="top" style="padding: 10px;">
+      <img src="https://quotes-github-readme.vercel.app/api?quote=I’m+not+interested+in+technology+itself.+I’m+interested+in+what+it+can+do.&author=Hideo+Kojima&theme=radical" alt="Quote by Hideo Kojima" style="border-radius: 8px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
