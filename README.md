@@ -1,14 +1,11 @@
 <!-- 顶部波浪效果 -->
 <div align="center">
-  <svg width="100%" height="60">
-    <defs>
-      <linearGradient id="waveGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4D9DE0;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFC857;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0 30 Q30 10 60 30 T120 30 T180 30 T240 30 T300 30 T360 30 T420 30 T480 30 T540 30 T600 30 V60 H0 Z" fill="url(#waveGradient)">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="60,0" dur="3s" repeatCount="indefinite"/>
+  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path d="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" fill="#0072ff" opacity="0.8">
+      <animate attributeName="d" values="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z; 
+                                         M0 30 Q 300 0 600 30 T 1200 30 V60 H0 Z; 
+                                         M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" 
+               dur="5s" repeatCount="indefinite"/>
     </path>
   </svg>
 </div>
@@ -134,15 +131,12 @@
 
 <!-- 底部波浪效果 -->
 <div align="center">
-  <svg width="100%" height="60">
-    <defs>
-      <linearGradient id="waveGradientBottom" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#4D9DE0;stop-opacity:1" />
-        <stop offset="100%" style="stop-color:#FFC857;stop-opacity:1" />
-      </linearGradient>
-    </defs>
-    <path d="M0 30 Q30 10 60 30 T120 30 T180 30 T240 30 T300 30 T360 30 T420 30 T480 30 T540 30 T600 30 V60 H0 Z" fill="url(#waveGradientBottom)">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0,0" to="-60,0" dur="3s" repeatCount="indefinite"/>
+  <svg width="100%" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+    <path d="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" fill="#0072ff" opacity="0.8">
+      <animate attributeName="d" values="M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z; 
+                                         M0 30 Q 300 0 600 30 T 1200 30 V60 H0 Z; 
+                                         M0 30 Q 300 60 600 30 T 1200 30 V60 H0 Z" 
+               dur="5s" repeatCount="indefinite"/>
     </path>
   </svg>
 </div>
