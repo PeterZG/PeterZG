@@ -1,16 +1,13 @@
-<!-- 顶部光环效果 -->
+<!-- 顶部渐变条 -->
 <div align="center">
-  <svg width="100%" height="60">
+  <svg width="100%" height="10">
+    <rect width="100%" height="10" fill="url(#gradient)" />
     <defs>
-      <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" style="stop-color:rgba(255,255,255,0.8);stop-opacity:1" />
-        <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
-      </radialGradient>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00c6ff;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0072ff;stop-opacity:1" />
+      </linearGradient>
     </defs>
-    <circle cx="50%" cy="50%" r="25" fill="url(#glow)">
-      <animate attributeName="r" from="20" to="35" dur="1.5s" repeatCount="indefinite" />
-      <animate attributeName="opacity" values="1;0" dur="1.5s" repeatCount="indefinite" />
-    </circle>
   </svg>
 </div>
 
@@ -133,17 +130,18 @@
 
 ---
 
-<!-- 底部波浪效果 -->
+<!-- 底部分割线条 -->
 <div align="center">
-  <svg width="100%" height="60">
-    <path fill="#00d4ff" opacity="0.6">
-      <animate attributeName="d" values="
-        M0 20 Q 25 40, 50 20 T 100 20 V60 H0 Z;
-        M0 30 Q 25 10, 50 30 T 100 30 V60 H0 Z;
-        M0 20 Q 25 40, 50 20 T 100 20 V60 H0 Z"
-        dur="5s" repeatCount="indefinite" />
-    </path>
+  <svg width="100%" height="10">
+    <rect width="100%" height="10" fill="url(#footer-gradient)" />
+    <defs>
+      <linearGradient id="footer-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#f7971e;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#ffd200;stop-opacity:1" />
+      </linearGradient>
+    </defs>
   </svg>
 </div>
+
 
 
