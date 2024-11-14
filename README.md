@@ -18,19 +18,22 @@
 
   <h3 style="font-size: 2rem; margin-bottom: 0.75rem;">🎓 Graduate from UNSW with a Bachelor of Computer Science.</h3>
   <h4 style="font-size: 1.5rem; margin-bottom: 0.75rem;">🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.</h4>
-  <p style="font-size: 1.25rem; margin-bottom: 1rem;">
+  <p style="font-size: 1.25rem; margin-bottom: 0.5rem;">
     💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.<br>
     🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
   </p>
 
-  <!-- Email buttons -->
+  <!-- Email buttons with restored logos -->
   <div style="margin-top: 1rem;">
-    [![Email](https://img.shields.io/badge/Email-849997616%40qq.com-yellow)](mailto:849997616@qq.com)
-    [![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow)](mailto:weihouzeng@gmail.com)
+    <a href="mailto:849997616@qq.com">
+      <img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail" alt="Email QQ">
+    </a>
+    <a href="mailto:weihouzeng@gmail.com">
+      <img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail" alt="Email Gmail">
+    </a>
   </div>
 
 </div>
-
 
 ---
 
