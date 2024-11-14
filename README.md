@@ -1,33 +1,34 @@
+<!-- Top Dynamic Wave Effect -->
 <div align="center">
-  
-  # 👈😎 Welcome to WZ_Crypt's Profile! 😎👉
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+</div>
 
-  <img src="./giphy.gif" alt="Cool Coding GIF" width="600"/>
-
-  **A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
-
-  🎓 Graduate from UNSW with a Bachelor of Computer Science.  
-  🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.  
-  💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.  
-  🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.  
-
-  [![Email](https://img.shields.io/badge/Email-849997616%40qq.com-yellow)](mailto:849997616@qq.com)
-  [![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow)](mailto:weihouzeng@gmail.com)
-
-  ---
-  
-  ## ⚡ About Me
-  
-  - 🔭 I’m currently working on Web3.0 projects.
-  - 🌱 I’m exploring AI basics for backend integration.
-  - 💬 Ask me about full-stack development and backend technologies.
-
+<!-- Welcome Text with Cyberpunk Gradient Style -->
+<div align="center">
+  <svg width="100%" height="100">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff00cc; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#3333ff; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="36" font-family="'Press Start 2P', cursive" fill="url(#gradient)">
+      👈😎 Welcome to WZ_Crypt's Profile! 😎👉
+    </text>
+  </svg>
 </div>
 
 ---
 
-## 🛠 Skills
+**A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
 
+🎓 Graduate from UNSW with a Bachelor of Computer Science.  
+💻 Currently working on Web3 and AI technologies.  
+🌏 Based in Shenzhen, China.
+
+---
+
+## 🛠 Skills
 | **Category**   | **Technologies**                                                                                       |
 |----------------|-------------------------------------------------------------------------------------------------------|
 | **Backend**    | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) |
@@ -49,17 +50,14 @@
 
 <div align="center">
 
-  ![PeterZG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical)
+  ![WZ_Crypt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WZ_Crypt&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WZ_Crypt&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/WZ_Crypt"><img src="https://img.shields.io/badge/GitHub-WZ__Crypt-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
-  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
-</p>
+<!-- Bottom Dynamic Wave Effect -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
