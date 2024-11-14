@@ -1,1 +1,52 @@
-<svg id="visual" viewBox="0 0 960 540" width="960" height="540" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"><rect x="0" y="0" width="960" height="540" fill="#140021"></rect><path d="M0 274L137 274L137 252L274 252L274 228L411 228L411 306L549 306L549 292L686 292L686 224L823 224L823 286L960 286L960 343L960 541L960 541L823 541L823 541L686 541L686 541L549 541L549 541L411 541L411 541L274 541L274 541L137 541L137 541L0 541Z" fill="#560090"></path><path d="M0 322L137 322L137 405L274 405L274 413L411 413L411 403L549 403L549 349L686 349L686 386L823 386L823 335L960 335L960 359L960 541L960 541L823 541L823 541L686 541L686 541L549 541L549 541L411 541L411 541L274 541L274 541L137 541L137 541L0 541Z" fill="#7700c6"></path><path d="M0 469L137 469L137 429L274 429L274 398L411 398L411 421L549 421L549 410L686 410L686 398L823 398L823 462L960 462L960 410L960 541L960 541L823 541L823 541L686 541L686 541L549 541L549 541L411 541L411 541L274 541L274 541L137 541L137 541L0 541Z" fill="#9900ff"></path></svg>
+<svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <style>
+    svg {
+      width:110vw;
+      position:fixed;
+      top:-5px;
+      transform: rotate(360deg);
+      overflow:visible;
+    }
+    
+    .wave {
+      animation: wave 3s linear;
+      animation-iteration-count:infinite;
+      fill: #8000FF;  /* 紫色赛博风颜色 */
+    }
+    
+    .wave:hover {
+      fill: #FF00FF; /* 紫色亮度变化 */
+    }
+    
+    #wave2 {
+      animation-duration:6s;
+      animation-direction: reverse;
+      opacity: .9;
+    }
+    
+    #wave3 {
+      animation-duration: 3s;
+      opacity:.6;
+    }
+    
+    @keyframes wave {
+      to {transform: translateX(-100%);}
+    }
+    </style>
+    
+    <defs> 
+      <filter id="anim">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
+        <feColorMatrix in="blur" mode="matrix" values="
+             1 0 0 0 0  
+             0 1 0 0 0  
+             0 0 1 0 0  
+             0 0 0 13 -9" result="anim" />
+        <xfeBlend in="SourceGraphic" in2="anim" />
+      </filter>
+      <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
+    </defs> 
+    <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
+    <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
+    </svg>
+    
