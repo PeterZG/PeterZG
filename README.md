@@ -5,7 +5,7 @@
 
 <!-- 顶部动态效果 (中文) -->
 <div align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=👾+欢迎来到WZ_Crypt的个人主页!+👾" alt="Chinese Typing SVG with Chinese Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=🧧+欢迎来到WZ_Crypt的个人主页!+🏮" alt="Chinese Typing SVG with Chinese Style" />
 </div>
 
 <!-- gif图 -->
