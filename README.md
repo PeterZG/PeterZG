@@ -61,6 +61,17 @@
 
 ---
 
+## 🌤️ Today's Weather | 今日天气
+
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <img src="https://weather-icon.journeyad.repl.co/@shenzhen" alt="Weather in Shenzhen" width="60" height="60"/>
+  <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1.2rem; color: #FF6347;">
+    Shenzhen | 深圳
+  </p>
+</div>
+
+---
+
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
@@ -77,6 +88,17 @@
 <div align="center">
   <!-- GitHub 动态贡献图 -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 💬 Inspiring Quote of the Day | 每日一句
+
+<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" style="border-radius: 8px;"/>
+  <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1rem; color: #FF6347;">
+    Embrace inspiration | 拥抱灵感
+  </p>
 </div>
 
 ---
