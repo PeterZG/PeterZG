@@ -5,9 +5,8 @@
     "main": "generate-readme.js",
     "dependencies": {},
     "scripts": {
-      "generate": "node generate-readme.js"
+        "generate": "node generate-readme.js"
     },
     "author": "",
     "license": "ISC"
-  }
-  
+    }

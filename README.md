@@ -1,16 +1,6 @@
 <!-- 顶部动态星空效果 -->
 <div align="center">
-  <svg width="100%" height="60" style="background: #000;">
-    <circle cx="10" cy="20" r="2" fill="white" opacity="0.8">
-      <animate attributeName="cx" from="0" to="100%" dur="4s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="60" cy="40" r="3" fill="white" opacity="0.8">
-      <animate attributeName="cx" from="100%" to="0" dur="3s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="120" cy="20" r="2" fill="white" opacity="0.8">
-      <animate attributeName="cx" from="0" to="100%" dur="5s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+    <img src="https://assets7.lottiefiles.com/packages/lf20_JimYhQ.json" alt="Top Starry Sky Animation" width="100%" height="100" />
 </div>
 
 <!-- 动态效果 (英文) -->
@@ -134,14 +124,6 @@
 
 <!-- 底部流星效果 -->
 <div align="center">
-  <svg width="100%" height="60" style="background: #000;">
-    <circle cx="90%" cy="0" r="2" fill="white" opacity="0.8">
-      <animate attributeName="cx" from="90%" to="0" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="cy" from="0" to="100%" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="70%" cy="0" r="3" fill="white" opacity="0.8">
-      <animate attributeName="cx" from="70%" to="0" dur="2.5s" repeatCount="indefinite"/>
-      <animate attributeName="cy" from="0" to="100%" dur="2.5s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+    <img src="https://assets10.lottiefiles.com/packages/lf20_kexikb.json" alt="Bottom Meteor Animation" width="100%" height="100" />
 </div>
+
