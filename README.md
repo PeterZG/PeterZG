@@ -1,7 +1,25 @@
 <!-- 顶部动态星空效果 -->
 <div align="center">
-    <img src="https://assets7.lottiefiles.com/packages/lf20_JimYhQ.json" alt="Top Starry Sky Animation" width="100%" height="100" />
+  <svg width="100%" height="100" style="background-color:#000;">
+    <!-- 使用小圆点模拟星星闪烁 -->
+    <circle cx="10%" cy="20" r="2" fill="white" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="30%" cy="40" r="3" fill="white" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="50%" cy="30" r="2" fill="white" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="70%" cy="50" r="3" fill="white" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="90%" cy="20" r="2" fill="white" opacity="0.8">
+      <animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </div>
+
 
 <!-- 动态效果 (英文) -->
 <div align="center">
@@ -124,6 +142,18 @@
 
 <!-- 底部流星效果 -->
 <div align="center">
-    <img src="https://assets10.lottiefiles.com/packages/lf20_kexikb.json" alt="Bottom Meteor Animation" width="100%" height="100" />
+  <svg width="100%" height="100" style="background-color:#000;">
+    <!-- 模拟流星下坠 -->
+    <line x1="90%" y1="0" x2="85%" y2="5%" stroke="white" stroke-width="2" opacity="0.6">
+      <animate attributeName="x1" from="90%" to="50%" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="y1" from="0" to="100" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="70%" y1="10" x2="65%" y2="15%" stroke="white" stroke-width="2" opacity="0.6">
+      <animate attributeName="x1" from="70%" to="40%" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="y1" from="10" to="100" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/>
+    </line>
+  </svg>
 </div>
 
