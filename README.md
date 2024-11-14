@@ -61,13 +61,8 @@
 
 ---
 
-## 🌤️ Today's Weather | 今日天气
-
-<div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen" alt="Weather in Shenzhen" width="60" height="60"/>
-  <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1.2rem; color: #FF6347;">
-    Shenzhen | 深圳
-  </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=03DAC5&center=true&vCenter=true&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Profile!;💻+Full-Stack+Developer+%7C+Web3+Enthusiast;🌐+Exploring+the+intersection+of+Tech+and+Creativity" alt="Typing Animation"/>
 </div>
 
 ---
@@ -95,9 +90,9 @@
 ## 💬 Inspiring Quote of the Day | 每日一句
 
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" style="border-radius: 8px;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?quote=I’m+not+interested+in+technology+itself.+I’m+interested+in+what+it+can+do.&author=Hideo+Kojima&theme=radical" alt="Quote by Hideo Kojima" style="border-radius: 8px;"/>
   <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1rem; color: #FF6347;">
-    Embrace inspiration | 拥抱灵感
+    I’m not interested in technology itself. I’m interested in what it can do. — Hideo Kojima
   </p>
 </div>
 
