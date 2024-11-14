@@ -1,34 +1,17 @@
 <!-- 顶部动态星空效果 -->
-<div align="center" style="position: relative; height: 60px; overflow: hidden;">
-  <!-- Add twinkling stars using CSS -->
-  <style>
-    .star {
-      position: absolute;
-      width: 2px;
-      height: 2px;
-      background: white;
-      border-radius: 50%;
-      animation: twinkle 1.5s infinite ease-in-out alternate;
-    }
-    @keyframes twinkle {
-      from { opacity: 0.2; }
-      to { opacity: 1; }
-    }
-    /* Random star positions */
-    .star:nth-child(1) { top: 10px; left: 20px; }
-    .star:nth-child(2) { top: 30px; left: 150px; }
-    .star:nth-child(3) { top: 5px; left: 300px; }
-    .star:nth-child(4) { top: 40px; left: 500px; }
-    .star:nth-child(5) { top: 20px; left: 700px; }
-  </style>
-  <!-- Stars -->
-  <div class="star"></div>
-  <div class="star"></div>
-  <div class="star"></div>
-  <div class="star"></div>
-  <div class="star"></div>
+<div align="center">
+  <svg width="100%" height="60" style="background: #000;">
+    <circle cx="10" cy="20" r="2" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="0" to="100%" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="60" cy="40" r="3" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="100%" to="0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="20" r="2" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="0" to="100%" dur="5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </div>
-
 
 <!-- 动态效果 (英文) -->
 <div align="center">
@@ -79,6 +62,11 @@
 - 🔭 Diving into full-stack development, with a backend twist.
 - 🌱 Exploring the basics of Web3.0, AI, and blockchain tech.
 - 💬 Always up for a chat on backend optimization and innovative tech.
+
+---
+
+## 📈 修仙系列 GitHub 统计卡片
+![PeterZG's 修仙系列 GitHub 统计](https://github-immortality.vercel.app/api?username=PeterZG)
 
 ---
 
@@ -142,33 +130,18 @@
   <p>✨ Empowering technology, one step at a time. Made with 💖 by WZ_Crypt. ✨</p>
 </div>
 
-<!-- 底部流星效果 -->
-<div align="center" style="position: relative; height: 60px; overflow: hidden; margin-top: 20px;">
-  <!-- Add falling stars with CSS -->
-  <style>
-    .meteor {
-      position: absolute;
-      width: 2px;
-      height: 2px;
-      background: white;
-      border-radius: 50%;
-      box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
-      animation: shoot 2s linear infinite;
-    }
-    @keyframes shoot {
-      0% { transform: translate(0, 0); opacity: 1; }
-      100% { transform: translate(-400px, 400px); opacity: 0; }
-    }
-    /* Random meteor starting points */
-    .meteor:nth-child(1) { top: 0px; left: 20px; }
-    .meteor:nth-child(2) { top: 10px; left: 200px; }
-    .meteor:nth-child(3) { top: -10px; left: 400px; }
-    .meteor:nth-child(4) { top: -20px; left: 600px; }
-  </style>
-  <!-- Meteors -->
-  <div class="meteor"></div>
-  <div class="meteor"></div>
-  <div class="meteor"></div>
-  <div class="meteor"></div>
-</div>
+---
 
+<!-- 底部流星效果 -->
+<div align="center">
+  <svg width="100%" height="60" style="background: #000;">
+    <circle cx="90%" cy="0" r="2" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="90%" to="0" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="cy" from="0" to="100%" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="70%" cy="0" r="3" fill="white" opacity="0.8">
+      <animate attributeName="cx" from="70%" to="0" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="cy" from="0" to="100%" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</div>
