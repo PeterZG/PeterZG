@@ -49,8 +49,8 @@
 
 <div align="center">
 
-  ![WZ_Crypt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WZ_Crypt&show_icons=true&theme=radical)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WZ_Crypt&layout=compact&theme=radical)
+  ![PeterZG's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical)
 
 </div>
 
