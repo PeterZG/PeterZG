@@ -64,10 +64,14 @@
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
-  <!-- 动态贡献图表替代 3D GitHub Profile Card -->
+  <!-- 动态贡献图表 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=radical" alt="GitHub Streak Stats"/>
 </div>
 
+<div align="center">
+  <!-- GitHub 活动图 -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
@@ -76,12 +80,14 @@
 
 ---
 
+
 ## 🔗 Connect with Me | 联系我的方式
 <p align="center">
   <a href="https://github.com/WZ_Crypt"><img src="https://img.shields.io/badge/github-wz__crypt-181717?style=for-the-badge&logo=github"></a>
-  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
-  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/email-849997616@qq.com-yellow?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/email-weihouzeng@gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
+
 
 <!-- 访客计数器 -->
 <div align="center" style="margin-top: 10px;">
