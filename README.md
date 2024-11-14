@@ -5,22 +5,26 @@
 
 <!-- Cool Cyberpunk Animation -->
 <div align="center">
-  <!-- Replace with the correct path of your GIF -->
   <img src="./giphy.gif" alt="Cyberpunk GIF" width="600" />
 </div>
 
 ---
 
 <div align="center">
-  A Full-Stack Developer focused on Backend and Web3 Enthusiast.
 
-  🎓 Graduate from UNSW with a Bachelor of Computer Science.  
-  🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.  
-  💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.  
-  🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
+  <h1 style="font-size: 2.5rem;">A Full-Stack Developer</h1>
+  <h2 style="font-size: 2rem;">Focusing on Backend and Web3 Enthusiast</h2>
+  
+  <p style="font-size: 1.25rem;">
+    🎓 Graduate from UNSW with a Bachelor of Computer Science.<br>
+    🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.<br>
+    💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.<br>
+    🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
+  </p>
 
   [![Email](https://img.shields.io/badge/Email-849997616%40qq.com-yellow)](mailto:849997616@qq.com)
   [![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow)](mailto:weihouzeng@gmail.com)
+
 </div>
 
 ---
@@ -59,7 +63,8 @@
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- Bottom Wave Effect -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
+---
+
+<div align="center" style="padding: 10px;">
+  <p>✨ Empowering technology, one step at a time. Made with 💖 by WZ_Crypt. ✨</p>
 </div>
