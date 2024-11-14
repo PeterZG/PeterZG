@@ -1,29 +1,23 @@
-<!-- Top Cyberpunk Style Effect -->
+<!-- Top Cyberpunk Dynamic Effect -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20WZ_Crypt's%20Profile!&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Cyberpunk+Profile!+👾" alt="Typing SVG" />
 </div>
 
-<!-- Welcome Text with Typing Animation -->
+<!-- Cool Cyberpunk Animation -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=500&color=00FFCC&background=000000&width=600&lines=👋+Welcome+to+WZ_Crypt's+Cyberpunk+Profile!;🎮+Coding+is+a+new+form+of+artistry.;💡+Let's+explore+the+world+of+tech!;✨+Empowering+the+future+with+Web3.0+and+AI." alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- Cyberpunk GIF -->
-<div align="center">
-  <img src="./cyberpunk-scene.gif" alt="Cyberpunk GIF" width="600"/>
+  <!-- Replace with the correct path of your GIF -->
+  <img src="./giphy.gif" alt="Cyberpunk GIF" width="600" />
 </div>
 
 ---
 
 <div align="center">
-  **A Full-Stack Developer with a focus on Backend and Web3 Enthusiast.**
+  A Full-Stack Developer focused on Backend and Web3 Enthusiast.
 
   🎓 Graduate from UNSW with a Bachelor of Computer Science.  
   🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.  
   💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.  
-  🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.  
+  🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
 
   [![Email](https://img.shields.io/badge/Email-849997616%40qq.com-yellow)](mailto:849997616@qq.com)
   [![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow)](mailto:weihouzeng@gmail.com)
@@ -33,9 +27,9 @@
 
 ## ⚡ About Me
 
-- 🔭 I’m currently working on Web3.0 projects.
-- 🌱 I’m exploring AI basics for backend integration.
-- 💬 Ask me about full-stack development and backend technologies.
+- 🔭 Working on Web3.0 and backend optimization projects.
+- 🌱 Exploring AI basics and blockchain technologies.
+- 💬 Let's discuss full-stack development and innovative tech.
 
 ---
 
@@ -65,7 +59,7 @@
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
 
-<!-- Bottom Cyberpunk Effect -->
+<!-- Bottom Wave Effect -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </div>
