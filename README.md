@@ -64,23 +64,31 @@
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=radical" alt="GitHub Streak Stats"/>
+  <!-- GitHub Contribution Snake 动态图 -->
+  <img src="https://github.com/PeterZG/PeterZG/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </div>
 
 <div align="center">
-  <!-- GitHub 活动图 (如果继续显示 not found，可以删除此模块) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
+  <!-- GitHub Profile Trophy 奖杯展示 -->
+  <img src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=radical" alt="GitHub Profile Trophy"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- GitHub 个人统计数据 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&count_private=true&hide=contribs&theme=radical" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <!-- GitHub 活动图 -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <!-- 最近项目展示 -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PeterZG&repo=你的仓库名称&theme=radical" alt="Pinned Repo"/>
 </div>
 
 ---
-
-
 
 ## 🔗 Connect with Me | 联系我的方式
 <p align="center">
