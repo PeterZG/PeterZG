@@ -46,7 +46,7 @@
 
 ---
 
-## ⚡ About Me
+## ♑ About Me
 
 - 🧑🏻 My name is Weihou Zeng, but you can call me Peter Parker! (Or Spider-Man 🕸️)
 - 🔭 Diving into full-stack development, with a backend twist.
