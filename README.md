@@ -92,7 +92,6 @@
 <div align="center" style="margin-top: 10px; margin-bottom: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?quote=I’m+not+interested+in+technology+itself.+I’m+interested+in+what+it+can+do.&author=Hideo+Kojima&theme=radical" alt="Quote by Hideo Kojima" style="border-radius: 8px;"/>
   <p style="font-family: 'Press Start 2P', sans-serif; font-size: 1rem; color: #FF6347;">
-    I’m not interested in technology itself. I’m interested in what it can do. — Hideo Kojima
   </p>
 </div>
 
