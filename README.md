@@ -48,10 +48,10 @@
 
 ## ⚡ About Me
 
-- 🧑🏻 My name is Weihou Zeng, you can also call me Peter Parker！Spider Man!
-- 🔭 Working on Web3.0 and backend optimization projects.
-- 🌱 Exploring AI basics and blockchain technologies.
-- 💬 Let's discuss full-stack development and innovative tech.
+- 🧑🏻 My name is Weihou Zeng, but you can call me Peter Parker! (Or Spider-Man 🕸️)
+- 🔭 Diving into full-stack development, with a backend twist.
+- 🌱 Exploring the basics of Web3.0, AI, and blockchain tech.
+- 💬 Always up for a chat on backend optimization and innovative tech.
 
 ---
 
