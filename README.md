@@ -1,25 +1,18 @@
-<!-- 顶部动态星空效果 -->
+<!-- 顶部光环效果 -->
 <div align="center">
-  <svg width="100%" height="100" style="background-color:#000;">
-    <!-- 使用小圆点模拟星星闪烁 -->
-    <circle cx="10%" cy="20" r="2" fill="white" opacity="0.8">
-      <animate attributeName="opacity" values="0;1;0" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="30%" cy="40" r="3" fill="white" opacity="0.8">
-      <animate attributeName="opacity" values="0;1;0" dur="1.8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="50%" cy="30" r="2" fill="white" opacity="0.8">
-      <animate attributeName="opacity" values="0;1;0" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="70%" cy="50" r="3" fill="white" opacity="0.8">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="90%" cy="20" r="2" fill="white" opacity="0.8">
-      <animate attributeName="opacity" values="0;1;0" dur="1.6s" repeatCount="indefinite"/>
+  <svg width="100%" height="60">
+    <defs>
+      <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" style="stop-color:rgba(255,255,255,0.8);stop-opacity:1" />
+        <stop offset="100%" style="stop-color:rgba(255,255,255,0);stop-opacity:0" />
+      </radialGradient>
+    </defs>
+    <circle cx="50%" cy="50%" r="25" fill="url(#glow)">
+      <animate attributeName="r" from="20" to="35" dur="1.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0" dur="1.5s" repeatCount="indefinite" />
     </circle>
   </svg>
 </div>
-
 
 <!-- 动态效果 (英文) -->
 <div align="center">
@@ -140,20 +133,17 @@
 
 ---
 
-<!-- 底部流星效果 -->
+<!-- 底部波浪效果 -->
 <div align="center">
-  <svg width="100%" height="100" style="background-color:#000;">
-    <!-- 模拟流星下坠 -->
-    <line x1="90%" y1="0" x2="85%" y2="5%" stroke="white" stroke-width="2" opacity="0.6">
-      <animate attributeName="x1" from="90%" to="50%" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="y1" from="0" to="100" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/>
-    </line>
-    <line x1="70%" y1="10" x2="65%" y2="15%" stroke="white" stroke-width="2" opacity="0.6">
-      <animate attributeName="x1" from="70%" to="40%" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="y1" from="10" to="100" dur="2s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" from="0.6" to="0" dur="2s" repeatCount="indefinite"/>
-    </line>
+  <svg width="100%" height="60">
+    <path fill="#00d4ff" opacity="0.6">
+      <animate attributeName="d" values="
+        M0 20 Q 25 40, 50 20 T 100 20 V60 H0 Z;
+        M0 30 Q 25 10, 50 30 T 100 30 V60 H0 Z;
+        M0 20 Q 25 40, 50 20 T 100 20 V60 H0 Z"
+        dur="5s" repeatCount="indefinite" />
+    </path>
   </svg>
 </div>
+
 
