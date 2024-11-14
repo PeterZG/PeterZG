@@ -1,9 +1,33 @@
-<!-- 顶部动态效果 (英文) -->
+<!-- 顶部动态星空效果 -->
+<div style="position: relative; width: 100%; height: 150px; background: black; overflow: hidden;">
+  <!-- 星星 -->
+  <div class="star" style="top: 20px; left: 80%;"></div>
+  <div class="star" style="top: 50px; left: 50%;"></div>
+  <div class="star" style="top: 80px; left: 20%;"></div>
+  <!-- 更多星星可以复制添加 -->
+</div>
+
+<style>
+  .star {
+    width: 2px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    border-radius: 50%;
+    animation: twinkle 1.5s infinite ease-in-out alternate;
+  }
+  @keyframes twinkle {
+    from { opacity: 0.2; }
+    to { opacity: 1; }
+  }
+</style>
+
+<!-- 动态效果 (英文) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Profile!+👾" alt="Typing SVG in English" />
 </div>
 
-<!-- 顶部动态效果 (中文) -->
+<!-- 动态效果 (中文) -->
 <div align="center" style="margin-top: 10px;">
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=🏮+欢迎来到WZ_Crypt的个人主页!+🏮" alt="Chinese Typing SVG with Chinese Style" />
 </div>
@@ -110,3 +134,23 @@
   <p>✨ Empowering technology, one step at a time. Made with 💖 by WZ_Crypt. ✨</p>
 </div>
 
+<!-- 底部流星效果 -->
+<div style="position: relative; width: 100%; height: 150px; background: black; overflow: hidden;">
+  <div class="meteor" style="top: 10px; left: 90%;"></div>
+</div>
+
+<style>
+  .meteor {
+    width: 2px;
+    height: 2px;
+    background: white;
+    position: absolute;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.6);
+    animation: shoot 2s linear infinite;
+  }
+  @keyframes shoot {
+    0% { transform: translate(0, 0); opacity: 1; }
+    100% { transform: translate(-400px, 400px); opacity: 0; }
+  }
+</style>
