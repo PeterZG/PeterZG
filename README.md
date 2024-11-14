@@ -71,6 +71,13 @@
 
 ---
 
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PeterZG&label=Visitors&color=blue&style=flat" alt="Profile visitor count" />
+</div>
+
+---
+
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
