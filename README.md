@@ -71,14 +71,12 @@
 
 ---
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeterZG&label=Visitors&color=blue&style=flat" alt="Profile visitor count" />
-</div>
-
----
-
 ## 📊 GitHub Stats | Github 数据
+
+<div align="center">
+  <!-- 动态贡献图表 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=radical" alt="GitHub Streak Stats"/>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=radical" alt="PeterZG's GitHub Stats"/>
@@ -93,6 +91,11 @@
   <a href="mailto:849997616@qq.com"><img src="https://img.shields.io/badge/Email-849997616%40qq.com-yellow?style=for-the-badge&logo=gmail"></a>
   <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-yellow?style=for-the-badge&logo=gmail"></a>
 </p>
+
+<!-- 访客计数器 -->
+<div align="center" style="margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=PeterZG&label=Visitors&color=blue&style=flat" alt="Profile visitor count" />
+</div>
 
 ---
 
