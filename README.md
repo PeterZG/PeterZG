@@ -64,13 +64,13 @@
 ## 📊 GitHub Stats | Github 数据
 
 <div align="center">
-  <!-- 动态贡献图表 -->
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=radical" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <!-- GitHub 活动图 -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
+  <!-- GitHub 活动图 (如果继续显示 not found，可以删除此模块) -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
@@ -79,6 +79,7 @@
 </div>
 
 ---
+
 
 
 ## 🔗 Connect with Me | 联系我的方式
