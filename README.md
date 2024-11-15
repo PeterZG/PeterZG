@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 修仙系列 GitHub 统计卡片
+## 📈 GitHub 修仙统计卡片
 ![PeterZG's 修仙系列 GitHub 统计](https://github-immortality.vercel.app/api?username=PeterZG)
 
 ---
