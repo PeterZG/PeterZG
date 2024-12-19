@@ -22,10 +22,10 @@
   <div style="flex: 1; text-align: center;">
     <!-- 英文和中文标题 -->
     <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
-      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
+      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 3rem; margin-right: 1rem;">
         A Full-Stack Developer
       </h1>
-      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
+      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem;">
         全栈开发者
       </h2>
     </div>
@@ -47,19 +47,19 @@
 
   <!-- 右侧: 关于我 -->
   <div style="flex: 1; text-align: center;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
       🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
       🔭 Passionate about full-stack development with a focus on backend.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
       🌱 Exploring Web3.0, AI, and blockchain.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
       💬 Enjoy discussing tech and optimization.
     </p>
   </div>
