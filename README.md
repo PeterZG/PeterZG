@@ -18,9 +18,10 @@
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1200px; margin: 0 auto; padding: 1rem 0;">
 
-  <!-- 英文和中文标题（左侧） -->
+  <!-- 左侧部分：英文和中文标题 -->
   <div style="flex: 1; text-align: left;">
-    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
+
+    <div style="display: flex; justify-content: flex-start; align-items: center; margin-bottom: 1rem;">
       <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
         A Full-Stack Developer
       </h1>
@@ -29,8 +30,8 @@
       </h2>
     </div>
 
-    <!-- 英文内容 -->
-    <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 1.5rem;">
+    <!-- 英文内容部分 -->
+    <div style="text-align: left;">
       <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
         🎓 Graduate in Computer Science from UNSW.
       </h3>
@@ -44,9 +45,9 @@
     </div>
   </div>
 
-  <!-- About Me (右侧) -->
+  <!-- 右侧部分：关于我 -->
   <div style="flex: 1; text-align: left; margin-left: 2rem;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem;">♑ About Me | 关于我</h3>
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">♑ About Me | 关于我</h3>
     <ul style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; padding-left: 1.25rem;">
       <li>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</li>
       <li>🔭 Passionate about full-stack development with a focus on backend.</li>
@@ -58,6 +59,7 @@
 </div>
 
 <hr style="width: 100%; margin: 1.5rem 0;" />
+
 
 ---
 
