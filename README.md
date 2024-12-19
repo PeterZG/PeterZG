@@ -30,19 +30,19 @@
       </h2>
     </div>
 
-  <!-- English Content -->
-  <div>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
-      🎓 Graduate in Computer Science from UNSW.
-    </h3>
-    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
-      🎓 Starting a Master's in AI & Databases in 2025.
-    </h4>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
-      💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
-      🌏 Shenzhen-based, with academic roots in Sydney.
-    </p>
-  </div>
+    <!-- English Content -->
+    <div>
+      <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
+        🎓 Graduate in Computer Science from UNSW.
+      </h3>
+      <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
+        🎓 Starting a Master's in AI & Databases in 2025.
+      </h4>
+      <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+        💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+        🌏 Shenzhen-based, with academic roots in Sydney.
+      </p>
+    </div>
   </div>
 
   <!-- Divider (horizontal line) -->
@@ -68,6 +68,7 @@
   </div>
 
 </div>
+
 
 
 
