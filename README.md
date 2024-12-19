@@ -21,11 +21,11 @@
   <!-- 左侧部分：英文和中文标题 -->
   <div style="flex: 1; text-align: left;">
 
-    <div style="display: flex; justify-content: flex-start; align-items: center; margin-bottom: 1rem;">
-      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
+    <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem; margin-bottom: 0;">
         A Full-Stack Developer
       </h1>
-      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
+      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 0;">
         全栈开发者
       </h2>
     </div>
