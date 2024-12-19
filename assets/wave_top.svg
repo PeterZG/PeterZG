@@ -1,16 +1,16 @@
 <svg viewBox="0 0 115 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <style>
     svg {
-      width:110vw;
-      position:fixed;
-      bottom:-5px;
+      width: 110vw;
+      position: fixed;
+      bottom: -5px;
       transform: rotate(180deg); /* 倒置波浪 */
-      overflow:visible;
+      overflow: visible;
     }
     
     .wave {
       animation: wave 3s linear;
-      animation-iteration-count:infinite;
+      animation-iteration-count: infinite;
       fill: url(#gradient);  /* 使用灰色渐变 */
     }
     
@@ -19,14 +19,14 @@
     }
     
     #wave2 {
-      animation-duration:6s;
+      animation-duration: 6s;
       animation-direction: reverse;
       opacity: .9;
     }
     
     #wave3 {
       animation-duration: 3s;
-      opacity:.6;
+      opacity: .6;
     }
     
     @keyframes wave {
@@ -35,16 +35,16 @@
     </style>
     
     <defs>
-      <!-- 灰色渐变定义 -->
+      <!-- 更黑暗的灰色渐变定义 -->
       <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color: #B0B0B0; stop-opacity: 1" /> <!-- 浅灰色 -->
-        <stop offset="100%" style="stop-color: #404040; stop-opacity: 1" /> <!-- 深灰色 -->
+        <stop offset="0%" style="stop-color: #4a4a4a; stop-opacity: 1" /> <!-- 中等深灰色 -->
+        <stop offset="100%" style="stop-color: #1d1d1d; stop-opacity: 1" /> <!-- 很深的灰色 -->
       </linearGradient>
       
-      <!-- 悬停时的灰色渐变 -->
+      <!-- 悬停时的更深灰色渐变 -->
       <linearGradient id="gradient-hover" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color: #A0A0A0; stop-opacity: 1" /> <!-- 更亮的灰色 -->
-        <stop offset="100%" style="stop-color: #303030; stop-opacity: 1" /> <!-- 更暗的灰色 -->
+        <stop offset="0%" style="stop-color: #616161; stop-opacity: 1" /> <!-- 较浅的深灰 -->
+        <stop offset="100%" style="stop-color: #121212; stop-opacity: 1" /> <!-- 更暗的灰色 -->
       </linearGradient>
       
       <filter id="anim">
