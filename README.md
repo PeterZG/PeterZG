@@ -113,7 +113,7 @@
 ---
 
 <div align="center" style="padding: 10px;">
-  <p>✨ Empowering technology, one step at a time. Made with 💖 by WZ_Crypt. ✨</p>
+  <p>Making progress every day. Built by WZ_Crypt.</p>
 </div>
 
 ---
