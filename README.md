@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+<div align="center">
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; max-width: 1200px; margin: 0 auto; padding: 1rem 0;">
 
   <!-- 左侧部分：英文和中文标题 -->
