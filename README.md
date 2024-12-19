@@ -16,13 +16,13 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; padding: 2rem;">
+<div style="display: flex; justify-content: space-evenly; align-items: center; padding: 2rem;">
 
   <!-- 左侧: 英文和中文标题 + 英文内容 -->
-  <div style="flex: 1; text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <!-- 英文和中文标题 -->
-    <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
-      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
+    <div style="margin-bottom: 1rem;">
+      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-right: 1rem;">
         A Full-Stack Developer
       </h1>
       <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
@@ -32,7 +32,7 @@
 
   <!-- 英文内容 -->
   <div>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
       🎓 Graduate in Computer Science from UNSW.
     </h3>
     <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
@@ -46,8 +46,8 @@
   </div>
 
   <!-- 右侧: 关于我 -->
-  <div style="flex: 1; text-align: center;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-bottom: 1rem;">
+  <div style="text-align: center; flex: 1;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
     <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
@@ -64,7 +64,6 @@
     </p>
   </div>
 </div>
-
 
 
 ---
