@@ -16,29 +16,29 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; padding: 2rem; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; padding: 3rem; background: linear-gradient(to right, #4e54c8, #8f94fb); border-radius: 10px;">
 
   <!-- 左侧: 英文和中文标题 + 英文内容 -->
-  <div style="text-align: center; flex: 1; padding-right: 1rem;">
+  <div style="text-align: center; flex: 1; margin-right: 2rem; border-right: 2px solid white; padding-right: 2rem;">
     <!-- 英文和中文标题 -->
     <div style="margin-bottom: 1rem;">
-      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-right: 1rem;">
+      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.2rem; color: white; margin-right: 1rem;">
         A Full-Stack Developer
       </h1>
-      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
+      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2.2rem; color: white;">
         全栈开发者
       </h2>
     </div>
 
   <!-- 英文内容 -->
   <div>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 0.75rem;">
       🎓 Graduate in Computer Science from UNSW.
     </h3>
-    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
+    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 0.75rem;">
       🎓 Starting a Master's in AI & Databases in 2025.
     </h4>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: white; margin-bottom: 1rem;">
       💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
       🌏 Shenzhen-based, with academic roots in Sydney.
     </p>
@@ -46,24 +46,25 @@
   </div>
 
   <!-- 右侧: 关于我 -->
-  <div style="text-align: center; flex: 1; padding-left: 1rem;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
+  <div style="text-align: center; flex: 1; margin-left: 2rem; padding-left: 2rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2.2rem; color: white; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 1rem;">
       🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 1rem;">
       🔭 Passionate about full-stack development with a focus on backend.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 1rem;">
       🌱 Exploring Web3.0, AI, and blockchain.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: white; margin-bottom: 1rem;">
       💬 Enjoy discussing tech and optimization.
     </p>
   </div>
 </div>
+
 
 
 ---
