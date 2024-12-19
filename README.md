@@ -16,10 +16,10 @@
 
 ---
 
-<div style="display: flex; justify-content: space-evenly; align-items: center; padding: 2rem;">
+<div style="display: flex; justify-content: space-between; padding: 2rem; width: 100%;">
 
   <!-- 左侧: 英文和中文标题 + 英文内容 -->
-  <div style="text-align: center; flex: 1;">
+  <div style="text-align: center; flex: 1; padding-right: 1rem;">
     <!-- 英文和中文标题 -->
     <div style="margin-bottom: 1rem;">
       <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-right: 1rem;">
@@ -46,7 +46,7 @@
   </div>
 
   <!-- 右侧: 关于我 -->
-  <div style="text-align: center; flex: 1;">
+  <div style="text-align: center; flex: 1; padding-left: 1rem;">
     <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
