@@ -19,33 +19,48 @@
 <div align="center">
 
   <!-- 英文和中文标题 -->
-  <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-bottom: 0.5rem;">
-    A Full-Stack Developer
-  </h1>
-  <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
-    全栈开发者
-  </h2>
+  <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
+      A Full-Stack Developer
+    </h1>
+    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
+      全栈开发者
+    </h2>
+  </div>
 
-<!-- 英文内容 -->
-<h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
-  🎓 Graduate in Computer Science from UNSW.
-</h3>
-<h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
-  🎓 Starting a Master's in AI & Databases in 2025.
-</h4>
-<p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-  💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
-  🌏 Shenzhen-based, with academic roots in Sydney.
-</p>
+  <!-- 英文内容 -->
+  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 1.5rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
+      🎓 Graduate in Computer Science from UNSW.
+    </h3>
+    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
+      🎓 Starting a Master's in AI & Databases in 2025.
+    </h4>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+      🌏 Shenzhen-based, with academic roots in Sydney.
+    </p>
+  </div>
 
----
+  <hr style="width: 100%; margin: 1.5rem 0;" />
 
-## ♑ About Me | 关于我
+  <!-- About Me (左右布局) -->
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 1200px; margin: 0 auto;">
+    <div style="flex: 1; text-align: left; margin-right: 2rem;">
+      <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem;">♑ About Me | 关于我</h3>
+      <ul style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; padding-left: 1.25rem;">
+        <li>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</li>
+        <li>🔭 Passionate about full-stack development with a focus on backend.</li>
+        <li>🌱 Exploring Web3.0, AI, and blockchain.</li>
+        <li>💬 Enjoy discussing tech and optimization.</li>
+      </ul>
+    </div>
+    <div style="flex: 1; text-align: left;">
+      <!-- 可以添加更多内容或图像，另一个侧边内容 -->
+    </div>
+  </div>
 
-- 🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
-- 🔭 Passionate about full-stack development with a focus on backend.
-- 🌱 Exploring Web3.0, AI, and blockchain.
-- 💬 Enjoy discussing tech and optimization.
+</div>
 
 
 ## 📈 GitHub 修仙统计卡片
