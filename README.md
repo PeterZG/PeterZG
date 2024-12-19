@@ -2,13 +2,13 @@
 ![Wave](assets/wave_top.svg)
 
 <!-- 动态效果 (英文) -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=Welcome+to+WZ_Crypt's+Profile" alt="Typing SVG in English" />
+<div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=600&height=60&lines=Welcome+to+WZ_Crypt's+Profile" alt="Typing SVG in English" />
 </div>
 
 <!-- 动态效果 (中文) -->
-<div align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=1000&height=60&lines=欢迎来到WZ_Crypt的主页" alt="Chinese Typing SVG" />
+<div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&height=60&lines=欢迎来到WZ_Crypt的主页" alt="Chinese Typing SVG" />
 </div>
 
 
