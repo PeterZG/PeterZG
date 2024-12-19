@@ -19,7 +19,7 @@
 <div style="display: flex; width: 100%; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
 
   <!-- Left Side: Title and English Content -->
-  <div style="flex: 1; text-align: center; padding-right: 2rem;">
+  <div style="flex: 1; text-align: center; padding-right: 2rem; border-right: 2px solid #ccc;">
     <!-- Title (Chinese and English) -->
     <div style="margin-bottom: 1rem;">
       <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333;">
@@ -45,9 +45,6 @@
     </div>
   </div>
 
-  <!-- Divider (horizontal line) -->
-  <div style="border-left: 2px solid #ccc; height: 100%; margin: 0 1rem;"></div>
-
   <!-- Right Side: About Me -->
   <div style="flex: 1; text-align: center; padding-left: 2rem;">
     <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
@@ -68,6 +65,7 @@
   </div>
 
 </div>
+
 
 
 
