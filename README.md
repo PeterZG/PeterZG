@@ -16,10 +16,10 @@
 
 ---
 <!-- 整体布局 -->
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 2rem;">
 
   <!-- 左侧: 英文和中文标题与英文内容 -->
-  <div style="display: flex; flex-direction: column; align-items: center; margin-right: 2rem;">
+  <div style="flex: 1; text-align: center;">
     <!-- 英文和中文标题 -->
     <div style="display: flex; justify-content: center; align-items: center; margin-bottom: 1rem;">
       <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2.5rem; margin-right: 1rem;">
@@ -31,7 +31,7 @@
     </div>
 
     <!-- 英文内容 -->
-    <div style="text-align: center;">
+    <div>
       <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
         🎓 Graduate in Computer Science from UNSW.
       </h3>
@@ -46,7 +46,7 @@
   </div>
 
   <!-- 右侧: 关于我 -->
-  <div style="text-align: center; flex-shrink: 0;">
+  <div style="flex: 1; text-align: center;">
     <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
