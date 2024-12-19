@@ -1,5 +1,3 @@
-<!-- 顶部波浪效果 -->
-![Wave](assets/wave_top.svg)
 
 <!-- 动态效果 (英文) -->
 <div align="center" style="width: 100%; display: flex; justify-content: center; align-items: center;">
