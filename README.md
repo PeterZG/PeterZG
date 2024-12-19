@@ -16,53 +16,54 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
 
   <!-- 左侧: 英文和中文标题 + 英文内容 -->
   <div style="text-align: center; flex: 1; padding-right: 2rem; border-right: 2px solid #ccc;">
     <!-- 英文和中文标题 -->
     <div style="margin-bottom: 1rem;">
-      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-right: 1rem;">
+      <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333;">
         A Full-Stack Developer
       </h1>
-      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem;">
+      <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333;">
         全栈开发者
       </h2>
     </div>
 
-  <!-- 英文内容 -->
-  <div>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
-      🎓 Graduate in Computer Science from UNSW.
-    </h3>
-    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
-      🎓 Starting a Master's in AI & Databases in 2025.
-    </h4>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-      💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
-      🌏 Shenzhen-based, with academic roots in Sydney.
-    </p>
-  </div>
+    <!-- 英文内容 -->
+    <div>
+      <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
+        🎓 Graduate in Computer Science from UNSW.
+      </h3>
+      <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
+        🎓 Starting a Master's in AI & Databases in 2025.
+      </h4>
+      <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+        💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+        🌏 Shenzhen-based, with academic roots in Sydney.
+      </p>
+    </div>
   </div>
 
   <!-- 右侧: 关于我 -->
   <div style="text-align: center; flex: 1; padding-left: 2rem;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; margin-bottom: 1rem;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
       🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
       🔭 Passionate about full-stack development with a focus on backend.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
       🌱 Exploring Web3.0, AI, and blockchain.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
       💬 Enjoy discussing tech and optimization.
     </p>
   </div>
+
 </div>
 
 
