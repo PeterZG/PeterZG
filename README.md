@@ -11,10 +11,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=800&height=60&lines=欢迎来到WZ_Crypt的主页" alt="Chinese Typing SVG" />
 </div>
 
-
 <!-- gif图 -->
 <div align="center">
-  <img src="./giphy.gif" alt="Cyberpunk GIF" width="600" />
+  <img src="./giphy.gif" alt="Cyberpunk GIF" style="width: 100vw; height: 100vh; object-fit: cover;" />
 </div>
 
 ---
