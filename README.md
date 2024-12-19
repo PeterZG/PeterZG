@@ -3,12 +3,12 @@
 
 <!-- 动态效果 (英文) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=👾+Welcome+to+WZ_Crypt's+Profile!+👾" alt="Typing SVG in English" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&pause=1000&color=03DAC5&width=1000&height=60&lines=✨+Welcome+to+WZ_Crypt's+Profile+Space!+✨" alt="Typing SVG in English" />
 </div>
 
 <!-- 动态效果 (中文) -->
 <div align="center" style="margin-top: 10px;">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&height=60&lines=🏮+欢迎来到WZ_Crypt的个人主页!+🏮" alt="Chinese Typing SVG with Chinese Style" />
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+XiaoWei&size=30&pause=1000&color=FF6F61&center=true&vCenter=true&width=1000&height=60&lines=🦋+欢迎进入WZ_Crypt的世界+🌟" alt="Chinese Typing SVG with a Modern Touch" />
 </div>
 
 <!-- gif图 -->
@@ -28,30 +28,27 @@
     全栈开发者
   </h2>
 
-  <!-- 英文内容 -->
-  <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
-    🎓 Graduate from UNSW with a Bachelor of Computer Science.
-  </h3>
-  <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
-    🎓 Pursuing a Master's program in 2025, focusing on AI and Database Systems.
-  </h4>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-    💻 Specializing in full-stack development with experience in Java, Python, and JavaScript.<br>
-    🌏 Based in Shenzhen, China, but spent most of my academic journey in Sydney, Australia.
-  </p>
-
-</div>
+<!-- 英文内容 -->
+<h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
+  🎓 Graduate in Computer Science from UNSW.
+</h3>
+<h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
+  🎓 Starting a Master's in AI & Databases in 2025.
+</h4>
+<p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+  💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+  🌏 Shenzhen-based, with academic roots in Sydney.
+</p>
 
 ---
 
 ## ♑ About Me | 关于我
 
-- 🧑🏻 My name is Weihou Zeng, but you can also call me Peter Parker! (Or Spider-Man 🕸️)
-- 🔭 Diving into full-stack development, with a backend twist.
-- 🌱 Exploring the basics of Web3.0, AI, and blockchain tech.
-- 💬 Always up for a chat on backend optimization and innovative tech.
+- 🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
+- 🔭 Passionate about full-stack development with a focus on backend.
+- 🌱 Exploring Web3.0, AI, and blockchain.
+- 💬 Enjoy discussing tech and optimization.
 
----
 
 ## 📈 GitHub 修仙统计卡片
 ![PeterZG's 修仙系列 GitHub 统计](https://github-immortality.vercel.app/api?username=PeterZG)
