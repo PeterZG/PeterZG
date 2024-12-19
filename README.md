@@ -13,7 +13,7 @@
 
 <!-- gif图 -->
 <div align="center">
-  <img src="./chill.gif" alt="Cyberpunk GIF" style="width: 100vw; height: 100vh; object-fit: cover;" />
+  <img src="./chill.gif" alt="Cyberpunk GIF" style="width: 100vw; height: auto; max-height: 100vh; object-fit: cover;" />
 </div>
 
 ---
