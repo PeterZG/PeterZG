@@ -15,8 +15,9 @@
 </div>
 
 ---
-<!-- 整体布局 -->
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 2rem;">
+
+<!-- 左侧部分: 英文和中文标题与英文内容 -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; padding: 2rem;">
 
   <!-- 左侧: 英文和中文标题与英文内容 -->
   <div style="flex: 1; text-align: center;">
@@ -31,7 +32,7 @@
     </div>
 
     <!-- 英文内容 -->
-    <div>
+    <div style="text-align: center;">
       <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
         🎓 Graduate in Computer Science from UNSW.
       </h3>
