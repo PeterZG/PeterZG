@@ -11,11 +11,11 @@
     .wave {
       animation: wave 3s linear;
       animation-iteration-count:infinite;
-      fill: #8000FF;  /* 紫色赛博风颜色 */
+      fill: url(#gradient);  /* 使用灰色渐变 */
     }
     
     .wave:hover {
-      fill: #FF00FF; /* 紫色亮度变化 */
+      fill: url(#gradient-hover); /* 鼠标悬停时改变渐变 */
     }
     
     #wave2 {
@@ -34,7 +34,19 @@
     }
     </style>
     
-    <defs> 
+    <defs>
+      <!-- 灰色渐变定义 -->
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #B0B0B0; stop-opacity: 1" /> <!-- 浅灰色 -->
+        <stop offset="100%" style="stop-color: #404040; stop-opacity: 1" /> <!-- 深灰色 -->
+      </linearGradient>
+      
+      <!-- 悬停时的灰色渐变 -->
+      <linearGradient id="gradient-hover" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color: #A0A0A0; stop-opacity: 1" /> <!-- 更亮的灰色 -->
+        <stop offset="100%" style="stop-color: #303030; stop-opacity: 1" /> <!-- 更暗的灰色 -->
+      </linearGradient>
+      
       <filter id="anim">
         <feGaussianBlur in="SourceGraphic" stdDeviation="1" result="blur" />
         <feColorMatrix in="blur" mode="matrix" values="
@@ -44,9 +56,10 @@
              0 0 0 13 -9" result="anim" />
         <xfeBlend in="SourceGraphic" in2="anim" />
       </filter>
+      
       <path id="wave" d="M 0,10 C 30,10 30,15 60,15 90,15 90,10 120,10 150,10 150,15 180,15 210,15 210,10 240,10 v 28 h -240 z" />
     </defs> 
-    <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0" ></use>
-    <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2" ></use> 
-    </svg>
     
+    <use id="wave2" class="wave" xlink:href="#wave" x="0" y="0"></use>
+    <use id="wave3" class="wave" xlink:href="#wave" x="0" y="-2"></use> 
+</svg>
