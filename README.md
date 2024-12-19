@@ -30,19 +30,19 @@
       </h2>
     </div>
 
-    <!-- 英文内容 -->
-    <div>
-      <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
-        🎓 Graduate in Computer Science from UNSW.
-      </h3>
-      <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
-        🎓 Starting a Master's in AI & Databases in 2025.
-      </h4>
-      <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-        💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
-        🌏 Shenzhen-based, with academic roots in Sydney.
-      </p>
-    </div>
+  <!-- 英文内容 -->
+  <div>
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.75rem; margin-bottom: 0.75rem;">
+      🎓 Graduate in Computer Science from UNSW.
+    </h3>
+    <h4 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; margin-bottom: 0.75rem;">
+      🎓 Starting a Master's in AI & Databases in 2025.
+    </h4>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+      🌏 Shenzhen-based, with academic roots in Sydney.
+    </p>
+  </div>
   </div>
 
   <!-- 右侧: 关于我 -->
