@@ -16,11 +16,10 @@
 
 ---
 
-
 <div style="display: flex; justify-content: space-between; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
 
   <!-- Left Side: Title and English Content -->
-  <div style="flex: 1; text-align: left; padding-right: 2rem; max-width: 45%;">
+  <div style="flex: 1; text-align: left; padding-right: 2rem;">
 
   <!-- Title (Chinese and English) -->
   <div style="margin-bottom: 1rem;">
@@ -50,7 +49,7 @@
   </div>
 
   <!-- Right Side: About Me -->
-  <div style="flex: 1; text-align: right; padding-left: 2rem; max-width: 45%;">
+  <div style="flex: 1; text-align: right; padding-left: 2rem;">
 
   <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
     ♑ About Me | 关于我
@@ -70,6 +69,7 @@
 
   </div>
 </div>
+
 
 
 ---
