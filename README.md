@@ -15,6 +15,8 @@
 </div>
 
 ---
+
+
 <div style="display: flex; width: 100%; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
 
   <!-- Left Side: Title and English Content -->
@@ -29,16 +31,18 @@
       </h2>
     </div>
 
-  <!-- English Content with Same Font Size -->
+  <!-- English Content (formatted similarly to About Me) -->
   <div>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
-      🎓 Graduate in Computer Science from UNSW.
-    </h3>
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 0.75rem;">
-      🎓 Starting a Master's in AI & Databases in 2025.
-    </h3>
     <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-      💻 Full-stack developer with experience in Java, Python, and JavaScript.<br>
+      🎓 Graduate in Computer Science from UNSW.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
+      🎓 Starting a Master's in AI & Databases in 2025.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
+      💻 Full-stack developer with experience in Java, Python, and JavaScript.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
       🌏 Shenzhen-based, with academic roots in Sydney.
     </p>
   </div>
@@ -64,11 +68,6 @@
   </div>
 
 </div>
-
-
-
-
-
 
 
 ---
