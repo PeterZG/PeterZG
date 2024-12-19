@@ -16,60 +16,52 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; padding: 2rem; background-color: #f4f4f4; border-radius: 8px;">
+<div style="display: flex; height: 400px;">
 
-  <!-- Left Side: Title and English Content -->
-  <div style="flex: 1; text-align: left; padding-right: 2rem;">
-
-  <!-- Title (Chinese and English) -->
-  <div style="margin-bottom: 1rem;">
-    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333;">
+  <!-- Left Side: English Title and Content -->
+  <div style="flex: 1; padding: 2rem; border-right: 2px solid #333; box-sizing: border-box;">
+    <!-- Title -->
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
       A Full-Stack Developer
     </h1>
-    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333;">
+    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1.5rem;">
       全栈开发者
     </h2>
-  </div>
 
-  <!-- English Content -->
-  <div>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-      🎓 Graduate in Computer Science from UNSW.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-      🎓 Starting a Master's in AI & Databases in 2025.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-      💻 Full-stack developer with experience in Java, Python, and JavaScript.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-      🌏 Shenzhen-based, with academic roots in Sydney.
-    </p>
-  </div>
+  <!-- Content -->
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    🎓 Graduate in Computer Science from UNSW.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    🎓 Starting a Master's in AI & Databases in 2025.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    💻 Full-stack developer with experience in Java, Python, and JavaScript.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    🌏 Shenzhen-based, with academic roots in Sydney.
+  </p>
   </div>
 
   <!-- Right Side: About Me -->
-  <div style="flex: 1; text-align: right; padding-left: 2rem;">
-
-  <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
-    ♑ About Me | 关于我
-  </h3>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-    🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-    🔭 Passionate about full-stack development with a focus on backend.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-    🌱 Exploring Web3.0, AI, and blockchain.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1rem;">
-    💬 Enjoy discussing tech and optimization.
-  </p>
-
+  <div style="flex: 1; padding: 2rem; box-sizing: border-box;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
+      ♑ About Me | 关于我
+    </h3>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+      🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+      🔭 Passionate about full-stack development with a focus on backend.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+      🌱 Exploring Web3.0, AI, and blockchain.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+      💬 Enjoy discussing tech and optimization.
+    </p>
   </div>
 </div>
-
 
 
 ---
