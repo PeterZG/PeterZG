@@ -15,7 +15,6 @@
 </div>
 
 ---
-
 # Full-Stack Developer  
 **全栈开发者**  
 🎓 Graduate in Computer Science from UNSW.  
@@ -25,23 +24,25 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h3>♑ About Me | 关于我</h3>
-        <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
-        <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
-        <p>🌱 Exploring Web3.0, AI, and blockchain.</p>
-        <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
-    </div>
-    <div style="text-align: center;">
-        <h2>
-            <span style="background: linear-gradient(to left, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-                Visit My GitHub!
-            </span>
-        </h2>
-        <p><a href="https://github.com/yourusername" target="_blank">My GitHub Homepage</a></p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+      <h3>♑ About Me | 关于我</h3>
+      <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
+      <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
+      <p>🌱 Exploring Web3.0, AI, and blockchain.</p>
+      <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
+    </td>
+    <td style="text-align: center;">
+      <h2>
+        <span style="background: linear-gradient(to left, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+          Visit My GitHub!
+        </span>
+      </h2>
+      <p><a href="https://github.com/yourusername" target="_blank">My GitHub Homepage</a></p>
+    </td>
+  </tr>
+</table>
 
 
 ---
