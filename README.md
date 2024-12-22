@@ -18,24 +18,25 @@
 
 
 
-<table>
+<table style="width: 100%; border-collapse: collapse; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 15px; background: linear-gradient(135deg, #6e7fdb, #a8c0ff);">
   <tr>
-    <td style="padding-right: 20px; text-align: center;">
-      <h3>♑ About Me | 关于我</h3>
-      <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
-      <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
-      <p>🌱 Exploring Web3.0, AI, and blockchain.</p>
-      <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
+    <td style="padding-right: 20px; text-align: center; border-right: 2px solid #fff; padding: 20px;">
+      <h3 style="color: white; font-size: 1.8em; margin-bottom: 15px;">♑ About Me | 关于我</h3>
+      <p style="color: white; font-size: 1.2em;">🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
+      <p style="color: white; font-size: 1.2em;">🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
+      <p style="color: white; font-size: 1.2em;">🌱 Exploring Web3.0, AI, and blockchain.</p>
+      <p style="color: white; font-size: 1.2em;">💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
     </td>
-    <td style="text-align: center;">
-      <h3>Full-Stack Developer | 全栈开发者</h3>
-      <p>🎓 Graduate in Computer Science from UNSW.</p>
-      <p>🎓 Starting a Master's in AI & Databases in 2025.</p>
-      <p>💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
-      <p>🌏 Shenzhen-based, with academic roots in Sydney.</p>
+    <td style="text-align: center; padding: 20px;">
+      <h3 style="color: white; font-size: 1.8em; margin-bottom: 15px;">Full-Stack Developer | 全栈开发者</h3>
+      <p style="color: white; font-size: 1.2em;">🎓 Graduate in Computer Science from UNSW.</p>
+      <p style="color: white; font-size: 1.2em;">🎓 Starting a Master's in AI & Databases in 2025.</p>
+      <p style="color: white; font-size: 1.2em;">💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
+      <p style="color: white; font-size: 1.2em;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
     </td>
   </tr>
 </table>
+
 
 
 
