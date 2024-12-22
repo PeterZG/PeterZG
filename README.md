@@ -15,46 +15,28 @@
 </div>
 
 ---
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h1>Full-Stack Developer</h1>
-        <p>**全栈开发者**</p>
-        <p>🎓 Graduate in Computer Science from UNSW.</p>
-        <p>🎓 Starting a Master's in AI & Databases in 2025.</p>
-        <p>💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
-        <p>🌏 Shenzhen-based, with academic roots in Sydney.</p>
-    </div>
 
-  <div style="text-align: center;">
-      <h2>
-          <span style="background: linear-gradient(to left, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-              Visit My GitHub!
-          </span>
-      </h2>
-      <p><a href="https://github.com/yourusername" target="_blank">My GitHub Homepage</a></p>
-  </div>
-</div>
 
----
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h3>♑ About Me | 关于我</h3>
-        <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
-        <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
-        <p>🌱 Exploring Web3.0, AI, and blockchain.</p>
-        <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
-    </div>
-    <div style="text-align: center;">
-        <h2>
-            <span style="background: linear-gradient(to left, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
-                Visit My GitHub!
-            </span>
-        </h2>
-        <p><a href="https://github.com/yourusername" target="_blank">My GitHub Homepage</a></p>
-    </div>
-</div>
-
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+      <h3>♑ About Me | 关于我</h3>
+      <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
+      <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
+      <p>🌱 Exploring Web3.0, AI, and blockchain.</p>
+      <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
+    </td>
+    <td style="text-align: center;">
+      <h1>Full-Stack Developer</h1>
+      <p><strong>全栈开发者</strong></p>
+      <p>🎓 Graduate in Computer Science from UNSW.</p>
+      <p>🎓 Starting a Master's in AI & Databases in 2025.</p>
+      <p>💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
+      <p>🌏 Shenzhen-based, with academic roots in Sydney.</p>
+    </td>
+  </tr>
+</table>
 
 
 ---
