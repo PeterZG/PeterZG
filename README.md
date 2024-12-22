@@ -14,59 +14,31 @@
   <img src="./chill.gif" alt="Cyberpunk GIF" style="width: 100vw; height: auto; max-height: 100vh; object-fit: cover;" />
 </div>
 
+# Full-Stack Developer  
+**全栈开发者**  
+🎓 Graduate in Computer Science from UNSW.  
+🎓 Starting a Master's in AI & Databases in 2025.  
+💻 Full-stack developer with experience in Java, Python, and JavaScript.  
+🌏 Shenzhen-based, with academic roots in Sydney.
 
 ---
 
-<div style="display: flex; height: 400px;">
-
-  <!-- Left Side: English Title and Content -->
-  <div style="flex: 1; padding: 2rem; border-right: 2px solid #333; box-sizing: border-box; background: linear-gradient(to right, #8e44ad, #3498db); color: white;">
-    <!-- Title -->
-    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
-      A Full-Stack Developer
-    </h1>
-    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1.5rem;">
-      全栈开发者
-    </h2>
-
-  <!-- Content -->
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #3498db, #1abc9c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    🎓 Graduate in Computer Science from UNSW.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    🎓 Starting a Master's in AI & Databases in 2025.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    💻 Full-stack developer with experience in Java, Python, and JavaScript.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #8e44ad, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    🌏 Shenzhen-based, with academic roots in Sydney.
-  </p>
-  </div>
-
-  <!-- Right Side: About Me -->
-  <div style="flex: 1; padding: 2rem; box-sizing: border-box; background: linear-gradient(to left, #1abc9c, #16a085); color: white;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; background: linear-gradient(to right, #3498db, #2980b9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
-      ♑ About Me | 关于我
-    </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🔭 Passionate about full-stack development with a focus on backend.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #3498db, #1abc9c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      🌱 Exploring Web3.0, AI, and blockchain.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #8e44ad, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      💬 Enjoy discussing tech and optimization.
-    </p>
-  </div>
-
-</div>
-
+### ♑ About Me | 关于我
+🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).  
+🔭 Passionate about full-stack development, with a focus on backend technologies.  
+🌱 Exploring Web3.0, AI, and blockchain.  
+💬 Enjoy discussing tech, optimization, and cutting-edge innovations.
 
 ---
+
+<h2 align="center">
+    <span style="background: linear-gradient(to left, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+        Visit My GitHub!
+    </span>
+</h2>
+
+[My GitHub Homepage](https://github.com/yourusername)
+
 
 
 ## 📈 GitHub 修仙统计卡片
