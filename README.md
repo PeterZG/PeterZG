@@ -16,13 +16,11 @@
 
 ---
 
-
-
 <table style="width: 100%; border-collapse: collapse; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 15px; background-color: #f0f8ff;">
   <tr>
     <td style="padding-right: 20px; text-align: center; padding: 20px;">
       <h3 style="color: #333; font-size: 1.8em; margin-bottom: 15px;">♑ About Me | 关于我</h3>
-      <p style="color: #333; font-size: 1.2em;">🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
+      <p style="color: #333; font-size: 1.2em;">🧑🏻 I'm Weihou Zeng (Call me Peter Parker, if you like!).</p>
       <p style="color: #333; font-size: 1.2em;">🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
       <p style="color: #333; font-size: 1.2em;">🌱 Exploring Web3.0, AI, and blockchain.</p>
       <p style="color: #333; font-size: 1.2em;">💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
@@ -36,12 +34,6 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
 
 ---
 
