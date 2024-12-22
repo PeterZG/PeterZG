@@ -30,16 +30,16 @@
     </h2>
 
   <!-- Content -->
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #3498db, #1abc9c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     🎓 Graduate in Computer Science from UNSW.
   </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     🎓 Starting a Master's in AI & Databases in 2025.
   </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     💻 Full-stack developer with experience in Java, Python, and JavaScript.
   </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #8e44ad, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     🌏 Shenzhen-based, with academic roots in Sydney.
   </p>
   </div>
@@ -49,20 +49,22 @@
     <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; background: linear-gradient(to right, #3498db, #2980b9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       🔭 Passionate about full-stack development with a focus on backend.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #3498db, #1abc9c); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       🌱 Exploring Web3.0, AI, and blockchain.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem; background: linear-gradient(to right, #8e44ad, #3498db); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
       💬 Enjoy discussing tech and optimization.
     </p>
   </div>
+
 </div>
+
 
 ---
 
