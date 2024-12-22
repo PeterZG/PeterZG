@@ -14,57 +14,59 @@
   <img src="./chill.gif" alt="Cyberpunk GIF" style="width: 100vw; height: auto; max-height: 100vh; object-fit: cover;" />
 </div>
 
+# Full-Stack Developer
+
 ---
 
 <div style="display: flex; height: 400px;">
 
   <!-- Left Side: English Title and Content -->
-  <div style="flex: 1; padding: 2rem; border-right: 2px solid #333; box-sizing: border-box;">
+  <div style="flex: 1; padding: 2rem; border-right: 2px solid #333; box-sizing: border-box; background: linear-gradient(to right, #8e44ad, #3498db); color: white;">
     <!-- Title -->
-    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
+    <h1 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; background: linear-gradient(to right, #f39c12, #f1c40f); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
       A Full-Stack Developer
     </h1>
-    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; color: #333; margin-bottom: 1.5rem;">
+    <h2 style="font-family: 'Press Start 2P', cursive; font-size: 1.5rem; background: linear-gradient(to right, #e74c3c, #c0392b); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1.5rem;">
       全栈开发者
     </h2>
 
-  <!-- Content -->
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
-    🎓 Graduate in Computer Science from UNSW.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
-    🎓 Starting a Master's in AI & Databases in 2025.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
-    💻 Full-stack developer with experience in Java, Python, and JavaScript.
-  </p>
-  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
-    🌏 Shenzhen-based, with academic roots in Sydney.
-  </p>
+    <!-- Content -->
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      🎓 Graduate in Computer Science from UNSW.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      🎓 Starting a Master's in AI & Databases in 2025.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      💻 Full-stack developer with experience in Java, Python, and JavaScript.
+    </p>
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+      🌏 Shenzhen-based, with academic roots in Sydney.
+    </p>
   </div>
 
   <!-- Right Side: About Me -->
-  <div style="flex: 1; padding: 2rem; box-sizing: border-box;">
-    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; color: #333; margin-bottom: 1rem;">
+  <div style="flex: 1; padding: 2rem; box-sizing: border-box; background: linear-gradient(to left, #1abc9c, #16a085); color: white;">
+    <h3 style="font-family: 'Press Start 2P', cursive; font-size: 2rem; background: linear-gradient(to right, #3498db, #2980b9); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 1rem;">
       ♑ About Me | 关于我
     </h3>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
       🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
       🔭 Passionate about full-stack development with a focus on backend.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
       🌱 Exploring Web3.0, AI, and blockchain.
     </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; color: #333; margin-bottom: 1rem;">
+    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
       💬 Enjoy discussing tech and optimization.
     </p>
   </div>
 </div>
 
-
 ---
+
 
 ## 📈 GitHub 修仙统计卡片
 ![PeterZG's 修仙系列 GitHub 统计](https://github-immortality.vercel.app/api?username=PeterZG)
