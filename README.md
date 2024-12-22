@@ -14,7 +14,6 @@
   <img src="./chill.gif" alt="Cyberpunk GIF" style="width: 100vw; height: auto; max-height: 100vh; object-fit: cover;" />
 </div>
 
-# Full-Stack Developer
 
 ---
 
@@ -30,19 +29,19 @@
       全栈开发者
     </h2>
 
-    <!-- Content -->
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-      🎓 Graduate in Computer Science from UNSW.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-      🎓 Starting a Master's in AI & Databases in 2025.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-      💻 Full-stack developer with experience in Java, Python, and JavaScript.
-    </p>
-    <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
-      🌏 Shenzhen-based, with academic roots in Sydney.
-    </p>
+  <!-- Content -->
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    🎓 Graduate in Computer Science from UNSW.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    🎓 Starting a Master's in AI & Databases in 2025.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    💻 Full-stack developer with experience in Java, Python, and JavaScript.
+  </p>
+  <p style="font-family: 'Press Start 2P', cursive; font-size: 1.25rem; margin-bottom: 1rem;">
+    🌏 Shenzhen-based, with academic roots in Sydney.
+  </p>
   </div>
 
   <!-- Right Side: About Me -->
