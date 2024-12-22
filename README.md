@@ -28,8 +28,8 @@
       <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
     </td>
     <td style="text-align: center;">
-      <h1>Full-Stack Developer</h1>
-      <p><strong>全栈开发者</strong></p>
+      <h1 style="font-size: 2.5em; margin-bottom: 0;">Full-Stack Developer</h1>
+      <p style="font-size: 1.5em; margin-top: 0; font-weight: bold;">全栈开发者</p>
       <p>🎓 Graduate in Computer Science from UNSW.</p>
       <p>🎓 Starting a Master's in AI & Databases in 2025.</p>
       <p>💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
@@ -37,6 +37,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
