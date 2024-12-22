@@ -16,29 +16,31 @@
 
 ---
 
-<table style="width: 100%; border-collapse: collapse; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); border-radius: 15px; background-color: #f0f8ff;">
+<table style="width: 100%; border-collapse: collapse; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); border-radius: 15px; background-color: #f0f8ff;">
   <tr>
-    <td style="padding-right: 20px; text-align: center; padding: 20px;">
-      <h3 style="font-size: 1.8em; margin-bottom: 15px; background: linear-gradient(135deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent;">
+    <td style="padding-right: 30px; text-align: center; padding: 30px;">
+      <!-- 轻微的渐变效果 -->
+      <h3 style="font-size: 2em; margin-bottom: 15px; background: linear-gradient(45deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         ♑ About Me | 关于我
       </h3>
-      <p style="color: #333; font-size: 1.2em;">🧑🏻 I'm Weihou Zeng (Call me Peter Parker, if you like!).</p>
-      <p style="color: #333; font-size: 1.2em;">🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
-      <p style="color: #333; font-size: 1.2em;">🌱 Exploring Web3.0, AI, and blockchain.</p>
-      <p style="color: #333; font-size: 1.2em;">💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🧑🏻 I'm Weihou Zeng (Call me Peter Parker, if you like!).</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🌱 Exploring Web3.0, AI, and blockchain.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
     </td>
-    <td style="text-align: center; padding: 20px;">
-      <h3 style="font-size: 1.8em; margin-bottom: 15px; background: linear-gradient(135deg, #6e7fdb, #a8c0ff); -webkit-background-clip: text; color: transparent;">
+    <td style="text-align: center; padding: 30px;">
+      <!-- 轻微渐变效果 -->
+      <h3 style="font-size: 2em; margin-bottom: 15px; background: linear-gradient(45deg, #6e7fdb, #a8c0ff); -webkit-background-clip: text; color: transparent; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         Full-Stack Developer | 全栈开发者
       </h3>
-      <p style="color: #333; font-size: 1.2em;">🎓 Graduate in Computer Science from UNSW.</p>
-      <p style="color: #333; font-size: 1.2em;">🎓 Starting a Master's in AI & Databases in 2025.</p>
-      <p style="color: #333; font-size: 1.2em;">💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
-      <p style="color: #333; font-size: 1.2em;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🎓 Graduate in Computer Science from UNSW.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🎓 Starting a Master's in AI & Databases in 2025.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
       <!-- 强制换行 -->
-      <p style="color: #333; font-size: 1.2em;">📍 Location: Shenzhen <br> 🎓 Master's Program in AI & Databases</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">📍 Location: Shenzhen <br> 🎓 Master's Program in AI & Databases</p>
       <!-- 添加额外换行符 -->
-      <p style="color: #333; font-size: 1.2em;">💻 Interested in Web3.0, AI, and Blockchain Technologies.</p>
+      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💻 Interested in Web3.0, AI, and Blockchain Technologies.</p>
     </td>
   </tr>
 </table>
