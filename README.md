@@ -37,6 +37,8 @@
       <p style="color: #333; font-size: 1.2em;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
       <!-- 强制换行 -->
       <p style="color: #333; font-size: 1.2em;">📍 Location: Shenzhen <br> 🎓 Master's Program in AI & Databases</p>
+      <!-- 添加额外换行符 -->
+      <p style="color: #333; font-size: 1.2em;">💻 Interested in Web3.0, AI, and Blockchain Technologies.</p>
     </td>
   </tr>
 </table>
