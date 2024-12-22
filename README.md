@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td style="padding-right: 20px;">
+    <td style="padding-right: 20px; text-align: center;">
       <h3>♑ About Me | 关于我</h3>
       <p>🧑🏻 I'm Weihou Zeng (Peter Parker, if you like!).</p>
       <p>🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
@@ -28,11 +28,7 @@
       <p>💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
     </td>
     <td style="text-align: center;">
-      <!-- Flexbox Container to Center the Text -->
-      <div style="display: flex; flex-direction: column; align-items: center;">
-        <h1 style="font-size: 2.5em; margin-bottom: 0;">Full-Stack Developer</h1>
-        <p style="font-size: 1.5em; margin-top: 0; font-weight: bold;">全栈开发者</p>
-      </div>
+      <h3>Full-Stack Developer | 全栈开发者</h3>
       <p>🎓 Graduate in Computer Science from UNSW.</p>
       <p>🎓 Starting a Master's in AI & Databases in 2025.</p>
       <p>💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
@@ -40,6 +36,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
