@@ -35,11 +35,12 @@
       <p style="color: #333; font-size: 1.2em;">🎓 Starting a Master's in AI & Databases in 2025.</p>
       <p style="color: #333; font-size: 1.2em;">💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
       <p style="color: #333; font-size: 1.2em;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
-      <!-- Add <br> here to force line break -->
+      <!-- 强制换行 -->
       <p style="color: #333; font-size: 1.2em;">📍 Location: Shenzhen <br> 🎓 Master's Program in AI & Databases</p>
     </td>
   </tr>
 </table>
+
 
 ---
 
