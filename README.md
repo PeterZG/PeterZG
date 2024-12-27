@@ -16,34 +16,29 @@
 
 ---
 
-<table style="width: 100%; border-collapse: collapse; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); border-radius: 15px; background-color: #f0f8ff;">
-  <tr>
-    <td style="padding-right: 30px; text-align: center; padding: 30px;">
-      <!-- 轻微的渐变效果 -->
-      <h3 style="font-size: 2em; margin-bottom: 15px; background: linear-gradient(45deg, #ff7e5f, #feb47b); -webkit-background-clip: text; color: transparent; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        ♑ About Me | 关于我
-      </h3>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🧑🏻 I'm Weihou Zeng (Call me Peter Parker, if you like!).</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🔭 Passionate about full-stack development, with a focus on backend technologies.</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🌱 Exploring Web3.0, AI, and blockchain.</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💬 Enjoy discussing tech, optimization, and cutting-edge innovations.</p>
-    </td>
-    <td style="text-align: center; padding: 30px;">
-      <!-- 轻微渐变效果 -->
-      <h3 style="font-size: 2em; margin-bottom: 15px; background: linear-gradient(45deg, #6e7fdb, #a8c0ff); -webkit-background-clip: text; color: transparent; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-        Full-Stack Developer | 全栈开发者
-      </h3>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🎓 Graduate in Computer Science from UNSW.</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🎓 Starting a Master's in AI & Databases in 2025.</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💻 Full-stack developer with experience in Java, Python, and JavaScript.</p>
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">🌏 Shenzhen-based, with academic roots in Sydney.</p>
-      <!-- 强制换行 -->
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">📍 Location: Shenzhen <br> 🎓 Master's Program in AI & Databases</p>
-      <!-- 添加额外换行符 -->
-      <p style="color: #555; font-size: 1.2em; line-height: 1.6em; margin-bottom: 15px;">💻 Interested in Web3.0, AI, and Blockchain Technologies.</p>
-    </td>
-  </tr>
-</table>
+<!-- 加入装饰性排版 -->
+<div align="center" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); padding: 20px; background-color: #f0f8ff;">
+
+# About Me | 关于我  
+
+👋 **I'm Weihou Zeng** (Call me Peter Parker, if you like!)  
+🔭 Passionate about **full-stack development**, with a focus on backend technologies  
+🌱 Exploring **Web3.0, AI, and blockchain**  
+💬 Enjoy discussing tech, optimization, and cutting-edge innovations  
+
+</div>
+
+---
+
+<!-- 插入更多样式 -->
+<div align="center">
+  <h2 style="color: #6e7fdb; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Full-Stack Developer | 全栈开发者</h2>
+  <p>🎓 <strong>Graduate in Computer Science from UNSW</strong></p>
+  <p>🎓 Starting a <strong>Master's in AI & Databases</strong> in 2025</p>
+  <p>💻 Experienced in <strong>Java</strong>, <strong>Python</strong>, and <strong>JavaScript</strong></p>
+  <p>🌏 Based in <strong>Shenzhen</strong>, with academic roots in <strong>Sydney</strong></p>
+  <p>📍 Interested in <strong>Web3.0, AI, and Blockchain Technologies</strong></p>
+</div>
 
 
 ---
