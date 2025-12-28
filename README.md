@@ -62,7 +62,7 @@
 <div align="center">
   
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=git-lab&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=git-lab&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
   </a>
 
   <br/><br/>
@@ -70,21 +70,18 @@
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  </div>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=react&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
+
+</div>
 
 ---
 
