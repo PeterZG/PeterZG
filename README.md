@@ -61,9 +61,9 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterZG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" height="150" />
 
   <br/><br/>
 
