@@ -57,23 +57,34 @@
 
 ---
 
-## 📊 GitHub Stats | Github 数据
+## ⚡ Cyberpunk Dashboard | 数据中枢
 
 <div align="center">
-  <!-- GitHub Profile Trophy 奖杯展示 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=radical&margin-w=15&margin-h=15" alt="GitHub Profile Trophy"/>
-</div>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=你的用户名&theme=git-lab&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  </a>
 
-<div align="center">
-  <!-- GitHub 个人统计数据 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
+  <br/><br/>
 
-<div align="center">
-  <!-- GitHub 动态贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=github" alt="GitHub Activity Graph"/>
-</div>
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/你的用户名/你的用户名/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  </div>
 
 ---
 
@@ -111,4 +122,3 @@
 
 <!-- 底部波浪效果 -->
 ![Wave](assets/wave_bottom.svg)
-帮我优化一下这个
