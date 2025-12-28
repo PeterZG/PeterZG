@@ -67,7 +67,7 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=PeterZG&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 
   <br/><br/>
 
