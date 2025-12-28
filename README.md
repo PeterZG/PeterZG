@@ -61,24 +61,16 @@
 
 <div align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=git-lab&no-bg=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" height="150" />
 
   <br/><br/>
 
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&count_private=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PeterZG&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
 
-  <br/>
+  <br/><br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=react&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 </div>
