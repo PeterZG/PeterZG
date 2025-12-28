@@ -61,13 +61,14 @@
 
 <div align="center">
   
+  <img src="https://img.shields.io/badge/MASTER-WZ__Crypt-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-ONLINE-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mode-CYBERPUNK-00e5ff?style=for-the-badge" />
+  <br/><br/>
+
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterZG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
   
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" height="150" />
-
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=PeterZG&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 
   <br/><br/>
 
