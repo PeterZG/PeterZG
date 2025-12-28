@@ -1,107 +1,143 @@
-<!-- HEADER: 动态打字效果，配色锁定 Cyan (#03DAC5) -->
+<!-- =========================================================================
+WZ_CRYPT CYBERPUNK TERMINAL README v3.0
+使用方法：直接复制此文件内容到您的 GitHub Profile 仓库的 README.md 中。
+注意事项：确保您的仓库根目录下有 'chill.gif' 图片。
+========================================================================== -->
+
+<!-- 1. 顶部动态终端 Banner (SVG 动画) -->
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=03DAC5&width=435&lines=SYSTEM+ONLINE...;INITIATING+WZ_CRYPT;WELCOME+TO+CYBERSPACE" alt="Typing SVG" />
-  </a>
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DPress%2BStart%2B2P%26size%3D20%26duration%3D4000%26pause%3D1000%26color%3D03DAC5%26background%3D00000000%26vCenter%3Dtrue%26multiline%3Dtrue%26width%3D800%26height%3D80%26lines%3DSYSTEM%2BBOOT_SEQUENCE_INIT...%3BUSER:%2BWZ_CRYPT%2B%252F%252F%2BACCESS_GRANTED%3BPROTOCOL:%2BFULL-STACK%2B%252B%2BWEB3%2B%252B%2BAI" alt="Cyberpunk Header" />
 </div>
 
-<!-- GIF 展示区: 务必确保 chill.gif 在仓库根目录，否则会裂图 -->
+<!-- 2. 氛围 GIF (请确保 chill.gif 在仓库根目录，或者替换为网络链接) -->
+
 <div align="center">
-  <img src="./chill.gif" width="100%" style="border-radius: 10px;" />
+<img src="./chill.gif" width="100%" style="border-radius: 6px;" />
 </div>
 
 <br />
 
-<!-- 核心数据面板: 使用无边框表格进行左右布局 -->
+<!-- 3. 核心双屏布局：左侧身份屏 + 右侧修仙屏 -->
+
+<!-- 使用 HTML 表格进行无边框布局，依靠 SVG 自带的黑底背景营造终端感 -->
+
 <table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- 左侧: 个人情报终端 -->
-    <td width="55%" valign="top">
-      <h2><code>👨‍💻 IDENTITY_MATRIX</code></h2>
-      <br>
-      <code>> UNAME: Weihou Zeng (Peter)</code><br>
-      <code>> CLASS: Full-Stack Dev</code><br>
-      <code>> LOC: Shenzhen <-> Sydney</code><br>
-      <code>> EDU: UNSW Grad / Master's Incoming</code><br>
-      <code>> STATUS: Building Web3 & AI </code>
-      <br><br>
-      <!-- 社交链接: 统一使用 flat-square 风格 -->
-      <a href="https://github.com/WZ_Crypt">
-        <img src="https://img.shields.io/badge/GitHub-NET_LINK-181717?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-      <a href="mailto:weihouzeng@gmail.com">
-        <img src="https://img.shields.io/badge/Email-SECURE_SEND-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-      </a>
-    </td>
-    <!-- 右侧: 修仙统计 (视觉核心) -->
-    <td width="45%" valign="center" align="center">
-        <img src="https://github-immortality.vercel.app/api?username=PeterZG" alt="Cultivation" width="100%"/>
-    </td>
-  </tr>
+<tr>
+<!-- 左屏：身份矩阵 -->
+<!-- 原理：使用 readme-typing-svg 动态生成一张包含您信息的图片，背景设为 GitHub 深色模式背景色 #0D1117 -->
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/WZ_Crypt">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DShare%2BTech%2BMono%26size%3D16%26duration%3D1000%26pause%3D1000%26color%3D03DAC5%26background%3D0D1117%26vCenter%3Dtrue%26multiline%3Dtrue%26width%3D400%26height%3D260%26lines%3D%25E2%2595%2594%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%255B%2BIDENTITY_GRID%2B%255D%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2597%3B%25E2%2595%2591%2BID%2B:%2BPeterZG%2B(WZ_Crypt)%2B%3B%25E2%2595%2591%2BLOC:%2BShenzhen%2B%253C-%253E%2BSydney%2B%3B%25E2%2595%2591%2BCLS:%2BFull-Stack%2BDev%2B%2B%2B%2B%2B%3B%25E2%2595%2591%2BEDU:%2BUNSW%2BCS%2BGraduate%2B%2B%2B%3B%25E2%2595%2591%2BLVL:%2BMaster%27s%2BLoading...%2B%3B%25E2%2595%2591%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B%3B%25E2%2595%2591%2B%253E_Connect_Uplink:%2B%2B%2B%2B%2B%2B%3B%25E2%2595%259A%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%2590%25E2%2595%259D" alt="Identity Terminal" />
+</a>
+</td>
+<!-- 右屏：修仙数据 -->
+<td width="50%" align="center" valign="middle">
+<a href="https://github.com/WZ_Crypt">
+<img src="https://github-immortality.vercel.app/api?username=PeterZG" alt="Cultivation Stats" width="100%" />
+</a>
+</td>
+</tr>
 </table>
 
-<br />
-
-<!-- 装饰性分割线 -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<!-- 技能武器库: 居中网格 -->
-<h2 align="center"><code>🛠️ TECH_ARSENAL // LOADOUT</code></h2>
+<!-- 4. 社交按钮补丁 (放在屏幕下方，黑色背景) -->
 
 <div align="center">
-  
-| **CORE** | **STACK** |
-| :---: | :--- |
-| **BACKEND** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) |
-| **FRONTEND** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| **DATA** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **OPS** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-
+<a href="https://github.com/WZ_Crypt">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-UPLINK-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D03DAC5%26color%3D0D1117%26labelColor%3D03DAC5"/>
+</a>
+<a href="mailto:weihouzeng@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/MAIL-SEND-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dd500f9%26color%3D0D1117%26labelColor%3Dd500f9"/>
+</a>
 </div>
 
 <br />
 
-<!-- GitHub 统计数据: 强制使用 radical 主题以统一赛博风格 -->
-<h2 align="center"><code>📊 DATA_STREAMS // ANALYTICS</code></h2>
+<!-- 5. 分割线：赛博故障条 -->
 
 <div align="center">
-  <!-- 奖杯栏 -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" alt="trophy" />
-  </a>
-  <br/><br/>
-  
-  <!-- 统计卡片并排 -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=000000" alt="Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-  <!-- 动态贡献图: 自定义颜色匹配 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=react&bg_color=000000&color=ff00cc&line=03DAC5&point=ffffff&hide_border=true" width="100%"/>
+<!-- 6. 武器库：使用黑色背景的 Badge 营造统一感 -->
+
+<h3 align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DShare%2BTech%2BMono%26size%3D20%26pause%3D1000%26color%3Dd500f9%26width%3D300%26lines%3DLOAD_WEAPON_ARSENAL..." alt="Tech Header" />
+</h3>
+
+<div align="center">
+
+Core
+
+Modules
+
+Backend
+
+
+
+Frontend
+
+
+
+Database
+
+
+
+Tools
+
+
+
 </div>
 
 <br />
 
-<!-- 每日名言区 -->
-<h2 align="center"><code>💬 NEURAL_FEED // QUOTE</code></h2>
+<!-- 7. 统计数据区：强制黑色背景 + Radical 配色 -->
+
+<h3 align="center">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DShare%2BTech%2BMono%26size%3D20%26pause%3D1000%26color%3Dd500f9%26width%3D300%26lines%3DANALYZE_DATA_STREAMS..." alt="Stats Header" />
+</h3>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=I’m+not+interested+in+technology+itself.+I’m+interested+in+what+it+can+do.&author=Hideo+Kojima&theme=radical&bg_color=000000" />
+<!-- 奖杯 -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DPeterZG%26theme%3Dradical%26no-frame%3Dtrue%26margin-w%3D10%26margin-h%3D10%26row%3D1" alt="trophy" />
+</a>
+
+
+
+
+
+
+<!-- 统计图并排 (使用 HTML 表格强制一行显示) -->
+
+<table border="0">
+<tr>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DPeterZG%26show_icons%3Dtrue%26count_private%3Dtrue%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D03DAC5%26icon_color%3Dd500f9" alt="Stats" />
+</td>
+<td>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DPeterZG%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D03DAC5%26langs_count%3D6" alt="Languages" />
+</td>
+</tr>
+</table>
+
+<!-- 贡献图 -->
+
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DPeterZG%26theme%3Dreact%26bg_color%3D0D1117%26color%3Dd500f9%26line%3D03DAC5%26point%3Dffffff%26hide_border%3Dtrue" width="100%"/>
 </div>
 
 <br />
 
-<!-- 页脚 -->
+<!-- 8. 底部访客统计 -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PeterZG&label=VISITORS&color=03DAC5&style=flat-square" alt="Visitors" />
-  <br>
-  <code>[ END OF LINE ]</code>
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DPeterZG%26label%3DNEURAL_LINK_VISITS%26color%3D03DAC5%26style%3Dflat-square" alt="Visitors" />
+
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DPress%2BStart%2B2P%26size%3D12%26pause%3D1000%26color%3D586069%26width%3D300%26lines%3DEND_OF_TRANSMISSION" alt="Footer" />
 </div>
