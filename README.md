@@ -1,150 +1,130 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&pause=1200&color=03DAC5&center=true&vCenter=true&width=850&height=70&lines=Welcome+to+WZ_Crypt's+Profile;Building.+Learning.+Iterating." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&lines=Welcome+to+WZ_Crypt;Full-Stack+Developer;Build+%E2%86%92+Learn+%E2%86%92+Iterate" alt="Typing SVG" />
 
-<br/>
+<br>
 
-<img src="./chill.gif" alt="Cyberpunk Banner" width="100%" />
+<img src="./chill.gif" width="900" alt="Cyberpunk Banner">
 
-<br/><br/>
+<br><br>
 
-# 👋 Weihou Zeng
+# Weihou Zeng
 
-### Full-Stack Developer · Computer Science · Information Technology
+### `WZ_Crypt` · Full-Stack Developer
 
-**Peter** · `WZ_Crypt`
+Computer Science @ UNSW  
+Master of Information Technology @ Monash University
 
-[![GitHub](https://img.shields.io/badge/GitHub-PeterZG-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PeterZG)
-[![Email](https://img.shields.io/badge/Email-weihouzeng%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:weihouzeng@gmail.com)
+<br>
+
+<a href="https://github.com/PeterZG">
+  <img src="https://img.shields.io/badge/GitHub-PeterZG-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="mailto:weihouzeng@gmail.com">
+  <img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 </div>
 
----
+<br>
 
-## 🧑‍💻 About Me
+## 01 / About
 
-```text
-> Computer Science graduate from UNSW
-> Master of Information Technology at Monash University
-> Interested in full-stack development and backend systems
-> Exploring AI, Web3 and emerging technologies
-> Always learning, building and improving
-```
+I'm a developer with a background in **Computer Science** and **Information Technology**, interested in building practical software systems from frontend interfaces to backend services.
 
-I enjoy turning ideas into working software, with particular interest in **backend development, system integration and full-stack applications**.
+My current interests include:
 
-My current focus is on building practical applications with modern web technologies while continuing to explore **AI, distributed systems and emerging technology**.
+`Full-Stack Development` · `Backend Systems` · `AI` · `Web Technologies` · `System Integration`
 
----
+I enjoy learning new technologies, experimenting with ideas and turning them into working applications.
 
-## 🛠 Tech Stack
+<br>
+
+## 02 / Stack
+
+<div align="center">
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
 
-### Frontend
+<br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+### Frameworks & Backend
 
-### Backend
+<img src="https://skillicons.dev/icons?i=react,vue,nodejs,fastapi&theme=dark" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
+<br>
 
-### Databases
+### Data
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+
+<br>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-
----
-
-## 🧬 GitHub Cultivation Record | 修仙记录
-
-<div align="center">
-
-<img src="https://github-immortality.vercel.app/api?username=PeterZG" alt="GitHub Immortality Stats" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode&theme=dark" />
 
 </div>
 
----
+<br>
 
-## ⚡ System Dashboard
-
-<div align="center">
-
-![Status](https://img.shields.io/badge/SYSTEM-ONLINE-00C853?style=for-the-badge)
-![Mode](https://img.shields.io/badge/MODE-CYBERPUNK-00E5FF?style=for-the-badge)
-![Identity](https://img.shields.io/badge/IDENTITY-WZ__CRYPT-FF00FF?style=for-the-badge)
-
-<br/><br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=PeterZG&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="165" />
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PeterZG&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=jupyter%20notebook" alt="Top Languages" height="165" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&theme=react&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🎮 Philosophy
+## 03 / GitHub
 
 <div align="center">
 
-<img src="./hideo_kojima.png" alt="Hideo Kojima" height="230" />
+<img src="https://github-immortality.vercel.app/api?username=PeterZG" width="850" alt="GitHub Immortality">
 
-<br/><br/>
+<br><br>
 
-> **“I'm not interested in technology itself. I'm interested in what it can do.”**
-> — Hideo Kojima
+<img src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&hide_border=true&theme=transparent&title_color=00E5FF&icon_color=00E5FF&text_color=8B949E" height="165">
+
+<img src="https://streak-stats.demolab.com?user=PeterZG&theme=transparent&hide_border=true&ring=00E5FF&fire=FF00AA&currStreakLabel=00E5FF&sideLabels=8B949E&dates=8B949E" height="165">
 
 </div>
 
----
+<br>
 
-## 🌐 Connect
+## 04 / Philosophy
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-PeterZG-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/PeterZG)
-[![Gmail](https://img.shields.io/badge/Gmail-weihouzeng%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:weihouzeng@gmail.com)
+### “I'm not interested in technology itself.  
+### I'm interested in what it can do.”
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE+VIEWS&color=00bfa5&style=flat-square" alt="Profile Views" />
+— **Hideo Kojima**
 
 </div>
 
----
+<br>
+
+## 05 / Connect
 
 <div align="center">
 
-### `BUILD → TEST → LEARN → ITERATE`
+<a href="https://github.com/PeterZG">
+  <img src="https://img.shields.io/badge/GITHUB-PETERZG-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-**Making progress every day.**
+<a href="mailto:weihouzeng@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-<sub>Built by WZ_Crypt.</sub>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE+VIEWS&color=00bcd4&style=flat-square">
 
 </div>
 
-<br/>
+<br><br>
 
-![Wave](assets/wave_bottom.svg)
+<div align="center">
+
+`BUILD` → `TEST` → `LEARN` → `ITERATE`
+
+<br>
+
+<sub>WZ_Crypt // SYSTEM ONLINE</sub>
+
+</div>
