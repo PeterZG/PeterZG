@@ -1,8 +1,13 @@
+<!-- ===================================================== -->
+<!--                     WZ_CRYPT                          -->
+<!--        Systems · Software · Artificial Intelligence  -->
+<!-- ===================================================== -->
+
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&duration=2600&pause=950&color=03DAC5&center=true&vCenter=true&width=900&height=68&lines=WZ_CRYPT+%2F%2F+SYSTEMS+%26+INTELLIGENCE;DESIGN+%C2%B7+COMPUTATION+%C2%B7+AI;BUILD+%E2%86%92+UNDERSTAND+%E2%86%92+ITERATE"
-  alt="WZ Crypt"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=29&duration=2600&pause=900&color=03DAC5&center=true&vCenter=true&width=920&height=70&lines=WZ_CRYPT+%2F%2F+SYSTEMS+%26+INTELLIGENCE;DESIGN+%C2%B7+COMPUTATION+%C2%B7+AI;ARCHITECTURE+%E2%86%92+CS+%E2%86%92+AI+%E2%86%92+IT"
+  alt="WZ Crypt Typing Header"
 />
 
 <img src="./chill.gif" width="94%" alt="WZ Crypt Cyberpunk Banner">
@@ -11,312 +16,191 @@
 
 # WZ_CRYPT
 
-### Systems · Software · Artificial Intelligence
+### `SYSTEMS` · `SOFTWARE` · `ARTIFICIAL INTELLIGENCE`
 
 **Peter Benjamin Parker · Weihou Zeng**
 
 <br>
 
-<sub>
-ARCHITECTURE → COMPUTER SCIENCE → AI RESEARCH → INFORMATION TECHNOLOGY
-</sub>
+> **Designing software systems across code, data, interaction and intelligence.**
 
-<br><br>
+<br>
 
 <a href="https://github.com/PeterZG">
-  <img src="https://img.shields.io/badge/GitHub-PeterZG-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-PeterZG-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:weihouzeng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Profile%20Views&color=00BFA5&style=flat-square">
 
 <br><br>
 
-<sub>
-Designing systems across code, data, interaction and intelligence.
-</sub>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-03DAC5?style=flat-square">
+<img src="https://img.shields.io/badge/FOCUS-BACKEND-00B8D9?style=flat-square">
+<img src="https://img.shields.io/badge/FOCUS-AI-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/FOCUS-SYSTEMS-FF4ECD?style=flat-square">
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=03DAC5&style=flat-square">
+
+<br>
 
 </div>
 
 ---
 
-## 01 · PROFILE
+## `01 // PROFILE`
+
+### 👋 About
 
 I'm **Weihou Zeng**, also known as **Peter Benjamin Parker** and `WZ_Crypt`.
 
-My academic path began with **architectural design**, moved into **computer science**, continued through **AI-related graduate research**, and now extends into **information technology and software systems**.
+My path into technology did not begin with programming.
 
-That path shaped the way I think about technology.
+I started with **architectural design**, moved into **computer science**, continued through an **AI-oriented graduate research stage**, and later brought those perspectives together through **information technology and software engineering**.
 
-I see software not simply as code, but as an interaction between **structure, people, information, behaviour and computation**.
+That background influences how I think about software:
 
-Today, my main interests lie in:
+> **Not simply as code — but as a system of structure, behaviour, information and human interaction.**
 
-`Full-Stack Systems` · `Backend Engineering` · `Artificial Intelligence`
+Today, I am particularly interested in building practical systems across:
 
-`Human–AI Interaction` · `Social Computing` · `System Design`
-
-<br>
-
-> **Design the structure. Understand the behaviour. Build the system.**
-
----
-
-## 02 · ACADEMIC PATH
-
-### 2019 — 2021 · University of Melbourne
-
-**Bachelor of Design — Architecture**
-
-My first academic background was architectural design.
-
-It introduced me to thinking about **structure, space, users, constraints and experience** — ideas that still influence the way I approach software and system design today.
-
-`Architecture` · `Design Thinking` · `Human Experience`
-
-<br>
-
-### Late 2021 — Sep 2024 · UNSW Sydney
-
-**Computer Science**
-
-I transitioned from designing physical environments to designing computational systems.
-
-My study focused on programming, algorithms, software development and the foundations of computer science.
-
-`Computer Science` · `Software Development` · `Programming`
-
-<br>
-
-### 2025 · University of Melbourne
-
-**Graduate Research · Computing and Information Systems**
-
-Research interests centred around:
-
-**Human AI · Social Computing · Human–Computer Interaction**
-
-with an interest in intelligent and sociotechnical systems, human behaviour, digital interaction and the relationship between people and AI.
-
-`Human AI` · `Social Computing` · `HCI` · `Artificial Intelligence`
-
-<br>
-
-### 2026 · Monash University
-
-**Master of Information Technology**
-
-My current work brings together the technical and applied sides of computing through software engineering, full-stack development, databases, cloud systems and industry-oriented projects.
-
-`Software Engineering` · `Full Stack` · `Cloud` · `Data`
+**Full-Stack Engineering** · **Backend Systems** · **Artificial Intelligence**  
+**Human–AI Interaction** · **Social Computing** · **System Integration**
 
 <br>
 
 <div align="center">
 
-### `DESIGN → COMPUTATION → INTELLIGENCE`
-
-<sub>2019 — 2026</sub>
+<img src="https://img.shields.io/badge/DESIGN-STRUCTURE-03DAC5?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/CODE-COMPUTATION-00B8D9?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/AI-INTELLIGENCE-8B5CF6?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/SYSTEMS-INTEGRATION-FF4ECD?style=flat-square">
 
 </div>
 
 ---
 
-## 03 · WHAT I BUILD
+## `02 // ACADEMIC TRAJECTORY`
 
-### Full-Stack Systems
+<div align="center">
 
-I enjoy connecting the entire application flow:
+### `ARCHITECTURE → COMPUTER SCIENCE → AI RESEARCH → INFORMATION TECHNOLOGY`
 
-**Interface → Application Logic → API → Data → Infrastructure**
-
-Rather than treating frontend and backend as isolated areas, I am interested in how the complete system behaves as one product.
+</div>
 
 <br>
 
-### Backend & Integration
+### 🏛 University of Melbourne
 
-My strongest interest within full-stack development is the backend side:
+![2019–2021](https://img.shields.io/badge/2019--2021-03DAC5?style=flat-square)
 
-- REST APIs
-- application logic
-- data processing
-- service integration
-- databases
-- system architecture
+**Bachelor of Design — Architecture**
+
+My first academic direction was architectural design, where I developed an interest in **structure, spatial systems, users, constraints and human experience**.
+
+`Architecture` · `Design Thinking` · `Spatial Systems` · `Human Experience`
 
 <br>
 
-### Intelligent Applications
+### 💻 UNSW Sydney
 
-I am interested in AI when it becomes part of a useful software system.
+![Late 2021–Sep 2024](https://img.shields.io/badge/Late_2021--Sep_2024-00B8D9?style=flat-square)
 
-That includes applications involving:
+**Computer Science**
 
-- human–AI interaction
-- AI-assisted workflows
-- behavioural and social computing
-- intelligent interfaces
-- automation
-- decision support
+I transitioned from designing physical environments to computational systems, developing foundations in **programming, algorithms, software development and computer science**.
+
+`Computer Science` · `Programming` · `Algorithms` · `Software Development`
+
+<br>
+
+### 🧠 University of Melbourne
+
+![2025](https://img.shields.io/badge/2025-8B5CF6?style=flat-square)
+
+**Graduate Research Stage — Computing and Information Systems**
+
+Research interests centred around:
+
+### **Human AI · Social Computing · Human–Computer Interaction**
+
+with particular interest in the relationship between **intelligent systems, digital interaction, human behaviour and sociotechnical environments**.
+
+`Human AI` · `Social Computing` · `HCI` · `Artificial Intelligence`
+
+<br>
+
+### ⚙️ Monash University
+
+![2026](https://img.shields.io/badge/2026-FF4ECD?style=flat-square)
+
+**Master of Information Technology**
+
+My current work brings together **software engineering, full-stack development, databases, cloud systems and industry-oriented computing projects**.
+
+`Software Engineering` · `Full Stack` · `Cloud` · `Data` · `Industry Projects`
+
+<br>
+
+<div align="center">
+
+### `2019 ───────────── 2026`
+
+**DESIGN → COMPUTATION → INTELLIGENCE → SYSTEMS**
+
+</div>
 
 ---
 
-## 04 · SELECTED SYSTEMS
+## `03 // CURRENT PRACTICE`
 
-### 🛡️ Online Scam Identification & Remediation
+### ⚡ Full-Stack Systems
 
-**Human-centred scam identification and response system**
+Building applications where the full path matters:
 
-A software project exploring how technology can help users identify suspicious interactions, understand scam risks and receive practical remediation guidance.
+> **Interface → Application Logic → API → Data → Infrastructure**
 
-**Focus**
-
-`Online Safety` · `AI` · `Full Stack` · `Human-Centred Design`
-
-<details>
-<summary><b>View project scope</b></summary>
+I am interested in how those layers operate together as one coherent system rather than treating frontend and backend as isolated components.
 
 <br>
 
-The project explores the interaction between technical scam identification and usable remediation support.
+### ⚙️ Backend Engineering
 
-Areas of interest include:
+My strongest technical interest within full-stack development is the backend side.
 
-- scam identification
-- user-facing explanations
-- risk communication
-- remediation guidance
-- system architecture
-- frontend–backend integration
-- structured scam information
+**Current areas of focus:**
 
-</details>
+`REST APIs` · `Application Logic` · `Data Processing`  
+`Database Design` · `Service Integration` · `System Architecture`
 
 <br>
 
-### 🧭 CalmRoute
+### 🧠 Intelligent Applications
 
-**Sensory-Aware Route Planning System**
+I am particularly interested in AI when it becomes part of a **real software system** rather than remaining an isolated model.
 
-A route planning application exploring how environmental and sensory information can contribute to a more comfortable walking experience.
+Areas I continue to explore include:
 
-**Stack**
-
-`React` · `FastAPI` · `MySQL` · `REST API`
-
-<details>
-<summary><b>View project scope</b></summary>
+`Human–AI Interaction` · `AI-assisted Systems` · `Automation`  
+`Social Computing` · `Decision Support` · `Intelligent Interfaces`
 
 <br>
 
-Key areas included:
+### ◈ System Design
 
-- system architecture
-- prototype and wireframe design
-- user flows
-- frontend–backend integration
-- pedestrian data
-- environmental information
-- route planning
-- technical feasibility
+I enjoy thinking about how independently built components can be connected into systems that are:
 
-</details>
-
-<br>
-
-### 💊 DoseMate
-
-**Context-Aware Medication Assistant**
-
-A mobile application combining medication management, reminders, data visualisation and context-aware behaviour.
-
-**Stack**
-
-`Java` · `Android`
-
-<details>
-<summary><b>View project scope</b></summary>
-
-<br>
-
-Key areas included:
-
-- medication history
-- charts and visualisation
-- user profile
-- family contact
-- reminder scheduling
-- background tasks
-- context-awareness engine
-- sensor simulation
-
-</details>
-
-<br>
-
-### ☁️ Cloud Media Platform
-
-**Serverless Media Management System**
-
-A cloud-oriented platform supporting authentication, media upload, search, metadata operations and file-management workflows.
-
-**Focus**
-
-`Cloud Architecture` · `Serverless` · `APIs`
-
-<details>
-<summary><b>View project scope</b></summary>
-
-<br>
-
-Key areas included:
-
-- authentication
-- frontend integration
-- upload workflows
-- search
-- file details
-- metadata
-- media library
-- API integration
-
-</details>
-
-<br>
-
-### ♻️ Sustainable Web Platform
-
-**Reusable Item & Waste Reduction Application**
-
-A responsive web application centred around reusable items, filtering, validation and user interaction.
-
-**Stack**
-
-`Vue` · `JavaScript` · `HTML` · `CSS`
-
-<details>
-<summary><b>View project scope</b></summary>
-
-<br>
-
-Key areas included:
-
-- reactive state
-- computed filtering
-- responsive layout
-- validation
-- reusable components
-- interface design
-
-</details>
+**understandable · maintainable · scalable · useful**
 
 ---
 
-## 05 · TECHNOLOGY
+## `04 // TECHNOLOGY`
 
 <div align="center">
 
@@ -326,15 +210,27 @@ Key areas included:
 
 <br><br>
 
+`JAVA` &nbsp; `PYTHON` &nbsp; `JAVASCRIPT` &nbsp; `HTML` &nbsp; `CSS`
+
+<br><br>
+
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="Frontend">
 
 <br><br>
 
-### Backend
+`REACT` &nbsp; `VUE`
+
+<br><br>
+
+### Backend & APIs
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend">
+
+<br><br>
+
+`FASTAPI` &nbsp; `NODE.JS` &nbsp; `REST APIs`
 
 <br><br>
 
@@ -344,61 +240,232 @@ Key areas included:
 
 <br><br>
 
+`MYSQL` &nbsp; `POSTGRESQL` &nbsp; `MONGODB`
+
+<br><br>
+
 ### Tools & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Tools">
 
 <br><br>
 
-<sub>
-JAVA · PYTHON · JAVASCRIPT · REACT · VUE · FASTAPI · SQL · DOCKER
-</sub>
+`GIT` &nbsp; `GITHUB` &nbsp; `DOCKER` &nbsp; `VS CODE` &nbsp; `FIGMA`
 
 </div>
 
 ---
 
-## 06 · RESEARCH & INTERESTS
+## `05 // SELECTED SYSTEMS`
 
-### Human AI
+### 🛡️ 01 — Online Scam Identification & Remediation
 
-How people understand, interact with and collaborate with intelligent systems.
+**Human-Centred Online Safety System**
 
-<br>
+<img src="https://img.shields.io/badge/ONLINE-SAFETY-03DAC5?style=flat-square">
+<img src="https://img.shields.io/badge/FULL--STACK-SYSTEM-00B8D9?style=flat-square">
+<img src="https://img.shields.io/badge/HUMAN--CENTRED-DESIGN-8B5CF6?style=flat-square">
 
-### Social Computing
+A software project exploring how digital systems can support users in **recognising suspicious interactions, understanding online scam risks and accessing practical remediation guidance**.
 
-How digital and sociotechnical systems influence communication, communities and social interaction.
-
-<br>
-
-### Human–Computer Interaction
-
-How systems can become more understandable, useful and responsive to human needs.
+<details>
+<summary><b>▸ Explore project scope</b></summary>
 
 <br>
 
-### Artificial Intelligence
+**Project areas**
 
-How intelligent capabilities can be integrated into practical software rather than existing only as isolated models.
+- scam identification
+- risk communication
+- structured scam information
+- remediation guidance
+- system architecture
+- frontend–backend integration
+- human-centred interaction design
 
 <br>
 
-### Systems Engineering
+**Core idea**
 
-How multiple components, interfaces, data sources and services can be designed to operate coherently.
+> Scam prevention should not stop at identifying risk.  
+> A useful system should also help users understand **what happened and what to do next**.
+
+</details>
 
 <br>
+
+---
+
+### 🧭 02 — CalmRoute
+
+**Sensory-Aware Route Planning System**
+
+<img src="https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/FASTAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/REST-API-8B5CF6?style=flat-square">
+
+A route-planning application exploring how **pedestrian activity, environmental information and nearby points of interest** can contribute to more comfortable walking experiences.
+
+<details>
+<summary><b>▸ Explore project scope</b></summary>
+
+<br>
+
+**Key areas**
+
+- high-level system architecture
+- prototype and wireframe design
+- user flows
+- frontend–backend integration
+- pedestrian datasets
+- environmental information
+- route-planning logic
+- technical feasibility
+
+<br>
+
+**System flow**
+
+`React UI → FastAPI → Route/Data Services → MySQL`
+
+</details>
+
+<br>
+
+---
+
+### 💊 03 — DoseMate
+
+**Context-Aware Medication Assistant**
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/ANDROID-3DDC84?style=flat-square&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/CONTEXT-AWARENESS-8B5CF6?style=flat-square">
+
+A mobile medication application combining **medication management, reminders, visualisation and context-aware behaviour**.
+
+<details>
+<summary><b>▸ Explore project scope</b></summary>
+
+<br>
+
+**Key areas**
+
+- medication history
+- charts and visualisation
+- user profiles
+- family contacts
+- medication reminders
+- background scheduling
+- context-awareness engine
+- sensor simulation
+
+</details>
+
+<br>
+
+---
+
+### ☁️ 04 — Cloud Media Platform
+
+**Serverless Media Management System**
+
+<img src="https://img.shields.io/badge/CLOUD-ARCHITECTURE-00B8D9?style=flat-square">
+<img src="https://img.shields.io/badge/SERVERLESS-SYSTEMS-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/REST-APIs-FF4ECD?style=flat-square">
+
+A cloud-oriented application supporting **authentication, media uploads, search, metadata management and file workflows**.
+
+<details>
+<summary><b>▸ Explore project scope</b></summary>
+
+<br>
+
+**Key areas**
+
+- authentication
+- frontend integration
+- upload workflows
+- media search
+- file details
+- metadata
+- media library
+- API integration
+
+</details>
+
+<br>
+
+---
+
+### ♻️ 05 — Sustainable Web Platform
+
+**Reusable Item & Waste Reduction Application**
+
+<img src="https://img.shields.io/badge/VUE-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/RESPONSIVE-UI-03DAC5?style=flat-square">
+
+A responsive web application focused on **reusable items, search, filtering, validation and user interaction**.
+
+<details>
+<summary><b>▸ Explore project scope</b></summary>
+
+<br>
+
+**Key areas**
+
+- Vue reactive state
+- computed filtering
+- form validation
+- responsive layout
+- reusable components
+- user interaction
+
+</details>
+
+---
+
+## `06 // RESEARCH SIGNAL`
 
 <div align="center">
 
-`AI` · `HUMAN–AI` · `SOCIAL COMPUTING` · `HCI` · `SYSTEMS`
+<img src="https://img.shields.io/badge/HUMAN-AI-8B5CF6?style=for-the-badge">
+&nbsp;
+<img src="https://img.shields.io/badge/SOCIAL-COMPUTING-FF4ECD?style=for-the-badge">
+&nbsp;
+<img src="https://img.shields.io/badge/HCI-00B8D9?style=for-the-badge">
+&nbsp;
+<img src="https://img.shields.io/badge/INTELLIGENT-SYSTEMS-03DAC5?style=for-the-badge">
 
 </div>
 
+<br>
+
+### Human AI
+
+How people **understand, collaborate with and respond to intelligent systems**.
+
+### Social Computing
+
+How digital systems shape **communication, communities, interaction and collective behaviour**.
+
+### Human–Computer Interaction
+
+How software can become more **understandable, usable and responsive to human needs**.
+
+### Intelligent Systems
+
+How AI capabilities can be integrated into **real applications, workflows and decision environments**.
+
+<br>
+
+> **Intelligence becomes most interesting when it becomes part of a system people actually use.**
+
 ---
 
-## 07 · GITHUB CULTIVATION
+## `07 // GITHUB CULTIVATION`
 
 <div align="center">
 
@@ -410,75 +477,111 @@ How multiple components, interfaces, data sources and services can be designed t
 
 <br><br>
 
+<img src="https://img.shields.io/badge/01-BUILD-03DAC5?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/02-TEST-00B8D9?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/03-LEARN-8B5CF6?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/04-ITERATE-FF4ECD?style=flat-square">
+
+<br><br>
+
 ### `BUILD → TEST → LEARN → ITERATE`
 
-<sub>
-Continuous cultivation, one commit at a time.
-</sub>
+<sub>Continuous cultivation, one commit at a time.</sub>
 
 </div>
 
 ---
 
-## 08 · FROM ARCHITECTURE TO SOFTWARE
+## `08 // FROM ARCHITECTURE TO SOFTWARE`
 
-My background across architecture and computing gives me two different ways of thinking about systems.
+My academic path changed disciplines, but the underlying question stayed surprisingly similar:
 
-**Architecture** taught me to think about:
+### **How do complex systems become understandable and useful to people?**
 
-`Structure` · `People` · `Space` · `Constraints`
+<br>
 
-**Computer Science** added:
+🏛️ **ARCHITECTURE**
+
+`Structure` · `Space` · `People` · `Constraints`
+
+Architecture taught me to think about how individual components form a coherent whole.
+
+<br>
+
+💻 **COMPUTER SCIENCE**
 
 `Logic` · `Algorithms` · `Abstraction` · `Computation`
 
-**AI Research** introduced:
+Computer science changed the medium from physical structures to computational systems.
+
+<br>
+
+🧠 **AI RESEARCH**
 
 `Behaviour` · `Interaction` · `Intelligence` · `Social Systems`
 
-**Information Technology** connects them through:
+AI research introduced questions around human behaviour, intelligent agents and digital interaction.
 
-`Applications` · `Integration` · `Infrastructure` · `Real-World Systems`
+<br>
+
+⚙️ **INFORMATION TECHNOLOGY**
+
+`Applications` · `Integration` · `Infrastructure` · `Delivery`
+
+Information technology connects those perspectives through practical software systems.
 
 <br>
 
 <div align="center">
 
-### DESIGN × COMPUTATION × INTELLIGENCE
+### `DESIGN × COMPUTATION × INTELLIGENCE`
 
-<sub>
-Different disciplines. The same interest in complex systems.
-</sub>
+**Different disciplines. One continuing interest in complex systems.**
 
 </div>
 
 ---
 
-## 09 · HOW I WORK
+## `09 // HOW I BUILD`
 
-### 01 — Understand
+### `01` — Understand the Problem
 
-Start with the actual problem rather than the technology.
+Start with the actual problem rather than selecting technology first.
 
-### 02 — Design
+### `02` — Design the System
 
-Translate the problem into understandable flows, interfaces and system components.
+Translate requirements into **flows, components, interfaces and data relationships**.
 
-### 03 — Build
+### `03` — Build the Connections
 
-Turn those components into a functioning software system.
+Connect frontend, backend, APIs and data into a functioning system.
 
-### 04 — Test
+### `04` — Test the Assumptions
 
-Challenge assumptions and identify what does not work.
+Find what fails, what confuses users and what does not behave as expected.
 
-### 05 — Iterate
+### `05` — Iterate with Evidence
 
-Use evidence, feedback and experience to improve the next version.
+Use testing, feedback and observed behaviour to improve the next version.
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/UNDERSTAND-→-181717?style=flat-square">
+<img src="https://img.shields.io/badge/DESIGN-→-03DAC5?style=flat-square">
+<img src="https://img.shields.io/badge/BUILD-→-00B8D9?style=flat-square">
+<img src="https://img.shields.io/badge/TEST-→-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/ITERATE-∞-FF4ECD?style=flat-square">
+
+</div>
 
 ---
 
-## 10 · PHILOSOPHY
+## `10 // PHILOSOPHY`
 
 <div align="center">
 
@@ -491,9 +594,13 @@ Use evidence, feedback and experience to improve the next version.
 
 <br>
 
+<img src="./hideo_kojima.png" width="220" alt="Hideo Kojima">
+
+<br><br>
+
 Technology becomes meaningful when it expands what people can
 
-**create · understand · experience · accomplish**
+### **CREATE · UNDERSTAND · EXPERIENCE · ACCOMPLISH**
 
 <br>
 
@@ -501,15 +608,19 @@ Technology becomes meaningful when it expands what people can
 
 ---
 
-## 11 · CONNECT
+## `11 // CONNECT`
 
 <div align="center">
 
-### WZ_CRYPT
+### `WZ_CRYPT`
 
-**Systems · Software · Intelligence**
+**SYSTEMS · SOFTWARE · INTELLIGENCE**
 
 <br>
+
+**Peter Benjamin Parker · Weihou Zeng**
+
+<br><br>
 
 <a href="https://github.com/PeterZG">
   <img src="https://img.shields.io/badge/GITHUB-PETERZG-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -523,27 +634,29 @@ Technology becomes meaningful when it expands what people can
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=00BFA5&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=03DAC5&style=flat-square">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UNIVERSITY%20OF%20MELBOURNE-DESIGN-03DAC5?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/UNSW-COMPUTER%20SCIENCE-00B8D9?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/UNIMELB-AI%20RESEARCH-8B5CF6?style=flat-square">
+&nbsp;
+<img src="https://img.shields.io/badge/MONASH-INFORMATION%20TECHNOLOGY-FF4ECD?style=flat-square">
 
 <br><br><br>
 
-**Peter Benjamin Parker · Weihou Zeng**
+### `ARCHITECTURE → CS → AI → IT`
 
 <br>
 
-<sub>
-University of Melbourne · UNSW Sydney · Monash University
-</sub>
+> **Building systems at the intersection of design, computation and intelligence.**
 
-<br><br>
+<br>
 
-`ARCHITECTURE → CS → AI → IT`
-
-<br><br>
-
-<sub>
-Building systems at the intersection of design, computation and intelligence.
-</sub>
+<sub>WZ_CRYPT // Peter Benjamin Parker</sub>
 
 <br><br>
 
