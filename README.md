@@ -1,16 +1,23 @@
 <div align="center">
 
-<br>
-
-<sub>WZ_CRYPT / DIGITAL PRACTICE</sub>
-
-# SYSTEMS & INTELLIGENCE
-
-### Computation × Design × Artificial Intelligence
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2600&pause=1000&color=03DAC5&center=true&vCenter=true&width=900&height=70&lines=WZ_CRYPT+%2F%2F+SYSTEMS+%26+INTELLIGENCE;DESIGN+%C2%B7+CODE+%C2%B7+AI+%C2%B7+SYSTEMS;BUILD+%E2%86%92+LEARN+%E2%86%92+ITERATE"
+  alt="Typing SVG"
+/>
 
 <br>
+
+<img src="./chill.gif" width="94%" alt="Cyberpunk Banner">
+
+<br><br>
+
+# WZ_Crypt
+
+### Systems · Software · Artificial Intelligence
 
 **Peter Benjamin Parker · Weihou Zeng**
+
+<br>
 
 <sub>
 Architecture → Computer Science → AI Research → Information Technology
@@ -19,241 +26,200 @@ Architecture → Computer Science → AI Research → Information Technology
 <br><br>
 
 <a href="https://github.com/PeterZG">
-<img src="https://img.shields.io/badge/GitHub-PeterZG-111111?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-PeterZG-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:weihouzeng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-111111?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=111111&style=flat-square">
-
-<br><br>
-
-<img src="./chill.gif" width="92%" alt="WZ Crypt">
-
-<br><br>
-
-<sub>
-DESIGNING SOFTWARE SYSTEMS ACROSS CODE, DATA, INTERACTION AND INTELLIGENCE.
-</sub>
-
-<br><br>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Profile%20Views&color=00bfa5&style=flat-square">
 
 </div>
 
 ---
 
-## Profile
+## 👋 About Me
 
-My work sits at the intersection of **software engineering, system design and artificial intelligence**.
+I'm **Weihou Zeng**, also known as **Peter Benjamin Parker** and `WZ_Crypt`.
 
-I began in architecture and design before moving into computer science, AI-related research and information technology. That path shaped how I think about software: not simply as code, but as a combination of **structure, behaviour, interaction and experience**.
+My background crosses **architecture, computer science, artificial intelligence and information technology**.
 
-My main interests are in **full-stack systems, backend engineering, intelligent applications and human-centred technology**.
+I started in architectural design, later moved into computer science, explored AI-related research around social modelling, and now focus on building practical software systems across the full stack.
 
-<br>
+I am particularly interested in:
 
-**Current directions**
+- **Full-stack development**
+- **Backend systems and APIs**
+- **Artificial intelligence**
+- **System integration**
+- **Human–AI interaction**
+- **Social modelling and intelligent applications**
 
-`Full-Stack Systems` &nbsp; `Backend Engineering` &nbsp; `Artificial Intelligence`
-
-`System Design` &nbsp; `Social Modelling` &nbsp; `Human–AI Interaction`
-
-<br>
+I like working on systems where **design, software, data and intelligence** come together rather than treating them as separate areas.
 
 ---
 
-## Academic Trajectory
+## 🎓 Academic Journey
 
 ### University of Melbourne
 **Bachelor of Design — Architecture**
 
-My first academic background was in architectural design, developing an interest in structure, users, spatial systems and design thinking.
+My first academic direction was architectural design, where I developed an interest in structure, users, systems and the relationship between design decisions and human experience.
 
 <br>
 
 ### UNSW Sydney
 **Computer Science**
 
-Transitioned from physical systems to computational ones, studying software development, programming and computer science.
+I later moved from physical systems into computational systems, studying programming, software development and computer science.
 
 <br>
 
 ### University of Melbourne · 2025
-**Research Master's-stage study**
+**Research Master's-stage Study**
 
-Research direction centred on the intersection of:
+Research direction related to:
 
 **Artificial Intelligence × Social Modelling**
 
-with an interest in computational approaches to social behaviour and interaction.
+with an interest in how AI and computational approaches can be used to understand social behaviour, interaction and digital environments.
 
 <br>
 
 ### Monash University
 **Master of Information Technology**
 
-Current work brings together software engineering, full-stack development, systems, cloud technologies and applied computing.
+My current study brings together software engineering, full-stack development, databases, cloud technologies and applied computing.
 
 <br>
 
 <div align="center">
 
-**ARCHITECTURE → COMPUTATION → INTELLIGENCE**
+### `ARCHITECTURE → COMPUTATION → INTELLIGENCE`
 
 </div>
 
-<br>
-
 ---
 
-## Practice
-
-I am most interested in systems where multiple layers have to work together coherently.
-
-### Software Systems
-
-Building applications across frontend, backend, API and database layers.
-
-`React` `Vue` `FastAPI` `Node.js`
-
-<br>
-
-### Backend & Integration
-
-Designing application logic, REST APIs, data flows and integrations between services.
-
-`Python` `Java` `REST` `MySQL`
-
-<br>
-
-### Intelligent Systems
-
-Exploring how AI can be integrated into real applications rather than existing as an isolated model.
-
-`AI` `Social Modelling` `Automation`
-
-<br>
-
-### Human–Technology Interaction
-
-Interested in how people understand, adopt and interact with intelligent systems.
-
-`Human–AI Interaction` `Technology Adoption` `Social Computing`
-
-<br>
-
----
-
-## Technology
+## 🛠 Tech Stack
 
 <div align="center">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Languages">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,fastapi&theme=dark" alt="Frameworks">
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="Frontend">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker&theme=dark" alt="Infrastructure">
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend">
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools">
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases">
 
 <br><br>
 
-<sub>
-JAVA · PYTHON · JAVASCRIPT · REACT · VUE · FASTAPI · SQL · GIT
-</sub>
+### Tools & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Tools">
+
+<br><br>
+
+`Java` · `Python` · `JavaScript` · `React` · `Vue` · `FastAPI` · `SQL` · `Docker`
 
 </div>
 
-<br>
-
 ---
 
-## Selected Systems
+## 🚀 Selected Projects
 
-### 01 — CalmRoute
+### 🧭 CalmRoute
 
-**Sensory-Aware Route Planning**
+**Sensory-Aware Route Planning System**
 
-A route-planning system exploring how environmental information can be used to create more comfortable walking experiences.
-
-It integrates factors such as pedestrian activity, environmental conditions and nearby points of interest with route-planning functionality.
+A full-stack route planning application designed around environmental and sensory factors such as pedestrian activity, noise and nearby points of interest.
 
 `React` · `FastAPI` · `MySQL` · `REST API`
 
 <details>
-<summary>View project focus</summary>
+<summary><b>Project details</b></summary>
 
 <br>
 
-Areas of work included:
+Key areas included:
 
 - system architecture
-- prototype and interface design
-- user flows
-- API integration
-- data integration
-- route-planning logic
+- prototype and wireframe design
+- user flow
+- frontend–backend integration
+- data processing
+- route planning
 - technical feasibility
 
 </details>
 
 <br>
 
-### 02 — DoseMate
+### 💊 DoseMate
 
-**Context-Aware Medication System**
+**Context-Aware Medication Assistant**
 
-A mobile medication management application combining reminders, history, visualisation and context-aware behaviour.
+A mobile application combining medication tracking, reminders, visualisation and context-aware behaviour.
 
-`Android` · `Java`
+`Java` · `Android`
 
 <details>
-<summary>View project focus</summary>
+<summary><b>Project details</b></summary>
 
 <br>
 
-Areas of work included:
+Key areas included:
 
 - medication history
-- data visualisation
-- user profiles
-- reminder systems
-- contextual behaviour
+- charts and visualisation
+- profile features
+- family contact
+- notification logic
+- background reminders
+- context-awareness engine
 - sensor simulation
-- background scheduling
 
 </details>
 
 <br>
 
-### 03 — Cloud Media Platform
+### ☁️ Cloud Media Platform
 
-**Serverless Media Management Architecture**
+**Serverless Media Management System**
 
-A cloud-oriented system supporting authentication, uploads, search, metadata operations and media-management workflows.
+A cloud-oriented application supporting authentication, media upload, search, metadata management and file workflows.
 
 `Cloud` · `Serverless` · `REST APIs`
 
 <details>
-<summary>View project focus</summary>
+<summary><b>Project details</b></summary>
 
 <br>
 
-Areas of work included:
+Key areas included:
 
-- frontend integration
 - authentication
+- frontend integration
 - upload workflows
-- media search
-- file metadata
+- search
+- file detail
+- metadata
 - media library
 - API integration
 
@@ -261,117 +227,129 @@ Areas of work included:
 
 <br>
 
-### 04 — Sustainable Web Platform
+### ♻️ Sustainable Web Application
 
-**Reusable Item & Waste Reduction Application**
+**Reusable Item & Waste Reduction Platform**
 
-A responsive web application focused on reusable items, filtering, validation and user interaction.
+A responsive web application focused on reusable items, search, filtering, validation and user interaction.
 
 `Vue` · `JavaScript` · `HTML` · `CSS`
 
 <details>
-<summary>View project focus</summary>
+<summary><b>Project details</b></summary>
 
 <br>
 
-Areas of work included:
+Key areas included:
 
-- reactive state
+- Vue reactive state
 - computed filtering
-- responsive interfaces
-- validation
+- form validation
+- responsive layout
 - reusable components
 - user interaction
 
 </details>
 
-<br>
+---
+
+## 🧠 Current Interests
+
+### Full-Stack Systems
+
+Building applications where frontend interfaces, backend services and databases work as one coherent system.
+
+### Backend Engineering
+
+Designing APIs, application logic, integrations and data flows.
+
+### Artificial Intelligence
+
+Exploring how AI can become part of practical software systems rather than existing only as isolated models.
+
+### Social Modelling
+
+Interested in computational approaches to social behaviour, interaction and digital environments.
+
+### Human–AI Interaction
+
+Exploring how people understand, trust, adopt and interact with intelligent systems.
+
+### Emerging Technologies
+
+Following developments in AI, automation, cloud systems and new software architectures.
 
 ---
 
-## Research Interests
-
-My interest in artificial intelligence is primarily concerned with **what intelligent systems do in real social and technological environments**.
-
-Current areas I find particularly interesting include:
-
-**Artificial Intelligence**  
-Models and intelligent capabilities integrated into practical systems.
-
-**Social Modelling**  
-Computational representations of behaviour, interaction and social environments.
-
-**Human–AI Interaction**  
-How people understand, trust and work with intelligent systems.
-
-**Technology Adoption**  
-Why technologies succeed, fail or become embedded in everyday behaviour.
-
-**Intelligent Applications**  
-Software where AI contributes to an actual user-facing system rather than existing independently.
-
-<br>
-
-<div align="center">
-
-`INTELLIGENCE IS MOST INTERESTING WHEN IT BECOMES PART OF A SYSTEM.`
-
-</div>
-
-<br>
-
----
-
-## GitHub Cultivation
+## 📈 GitHub Cultivation
 
 <div align="center">
 
 <img
-src="https://github-immortality.vercel.app/api?username=PeterZG"
-width="88%"
-alt="GitHub Cultivation">
+  src="https://github-immortality.vercel.app/api?username=PeterZG"
+  width="88%"
+  alt="WZ Crypt GitHub Cultivation"
+/>
 
 <br><br>
 
-<sub>WZ_CRYPT / CULTIVATION RECORD</sub>
+### `BUILD → TEST → LEARN → ITERATE`
 
-<br><br>
-
-**BUILD · TEST · LEARN · ITERATE**
+<sub>
+Continuous cultivation, one commit at a time.
+</sub>
 
 </div>
 
-<br>
+---
+
+## ⚡ Development Approach
+
+**01 · Understand**
+
+Understand the problem before choosing the technology.
+
+**02 · Design**
+
+Translate requirements into clear flows, interfaces and system components.
+
+**03 · Build**
+
+Connect frontend, backend, APIs and data into a working application.
+
+**04 · Test**
+
+Challenge assumptions and identify problems before they reach users.
+
+**05 · Iterate**
+
+Use evidence and feedback to improve the next version.
 
 ---
 
-## Perspective
+## 🌐 Beyond Code
 
-My background across architecture and computing has left me interested in one recurring question:
+My background in architecture still influences how I approach software.
 
-### How do complex systems become understandable and useful to people?
+**Architecture** taught me to think about structure, people and constraints.
 
-Architecture approaches the question through **space and structure**.
+**Computer Science** taught me abstraction, logic and computation.
 
-Computer science approaches it through **logic and computation**.
+**AI Research** introduced questions around behaviour, intelligence and interaction.
 
-Artificial intelligence introduces **behaviour and adaptation**.
-
-Software engineering turns those ideas into **systems people can actually use**.
+**Information Technology** connects these perspectives through practical systems.
 
 <br>
 
 <div align="center">
 
-### DESIGN × COMPUTATION × INTELLIGENCE
+### `DESIGN × COMPUTATION × INTELLIGENCE`
 
 </div>
 
-<br>
-
 ---
 
-## Principle
+## 💬 Philosophy
 
 <div align="center">
 
@@ -384,7 +362,7 @@ Software engineering turns those ideas into **systems people can actually use**.
 
 <br>
 
-Technology is most meaningful when it expands what people can  
+Technology becomes meaningful when it expands what people can  
 **create, understand, experience or accomplish.**
 
 <br>
@@ -393,42 +371,40 @@ Technology is most meaningful when it expands what people can
 
 ---
 
-## Contact
+## 🔗 Connect with Me
 
 <div align="center">
 
-<br>
-
-### WZ_CRYPT
-
-<sub>SYSTEMS & INTELLIGENCE</sub>
-
-<br><br>
-
 <a href="https://github.com/PeterZG">
-<img src="https://img.shields.io/badge/GITHUB-PETERZG-111111?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-PETERZG-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;
 
 <a href="mailto:weihouzeng@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <br><br>
 
-**Peter Benjamin Parker · Weihou Zeng**
-
-<br>
-
-<sub>
-Architecture / Computer Science / Artificial Intelligence / Information Technology
-</sub>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=00bfa5&style=flat-square">
 
 <br><br><br>
 
-`BUILD → UNDERSTAND → REFINE`
+### `WZ_CRYPT`
+
+**Systems · Software · Intelligence**
+
+<br>
+
+<sub>Peter Benjamin Parker · Weihou Zeng</sub>
+
+<br><br>
+
+`BUILD → LEARN → ITERATE`
 
 <br><br>
 
 </div>
+
+![Wave](assets/wave_bottom.svg)
