@@ -1,473 +1,362 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=65&lines=WEIHOU+ZENG+%2F%2F+WZ_CRYPT;FULL-STACK+DEVELOPER;BUILD+%E2%86%92+TEST+%E2%86%92+LEARN+%E2%86%92+ITERATE" alt="Typing SVG">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=27&duration=2600&pause=900&color=00B8D9&center=true&vCenter=true&width=900&height=65&lines=PETER+BENJAMIN+PARKER+%2F%2F+WZ_CRYPT;FULL-STACK+SYSTEMS+%C2%B7+AI+%C2%B7+SOFTWARE;ARCHITECTURE+%E2%86%92+CS+%E2%86%92+AI+%E2%86%92+IT"
+  alt="WZ Crypt"
+/>
 
-<img src="./chill.gif" width="100%" alt="WZ Crypt Banner">
+<img src="./chill.gif" width="92%" alt="WZ Crypt Banner">
 
-<br>
+<br><br>
 
-# WZ_Crypt
+# Weihou Zeng
 
-**Full-Stack Developer · Backend Systems · AI Explorer**
+### Peter Benjamin Parker · `WZ_Crypt`
 
-Computer Science @ UNSW  
-Master of Information Technology @ Monash University
+**Full-Stack Development · Backend Systems · AI · Software Engineering**
 
 <br>
 
 <a href="https://github.com/PeterZG">
-<img src="https://img.shields.io/badge/GitHub-PeterZG-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-PeterZG-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 &nbsp;
 <a href="mailto:weihouzeng@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-weihouzeng%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Profile%20Views&color=00bcd4&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Profile%20Views&color=00AFC8&style=flat-square">
+
+<br><br>
+
+<sub>Designing ideas. Building systems. Exploring what comes next.</sub>
 
 </div>
 
----
+<br>
 
-## `01 // DEVELOPER PROFILE`
+## About
 
-<table>
-<tr>
-<td width="55%" valign="top">
+I'm **Weihou Zeng**, also known as **Peter Benjamin Parker** or `WZ_Crypt`.
 
-### About
+My academic path has moved across **architecture, computer science, AI research and information technology**. That combination shaped the way I approach software: not only as code, but as a system involving people, information, interaction and design.
 
-I'm **Weihou Zeng**, a developer with a background in Computer Science and Information Technology.
+I am particularly interested in building practical applications where **frontend interfaces, backend services, APIs, databases and intelligent systems** work together.
 
-I enjoy building practical software systems across the full stack, especially where **backend services, APIs, databases and user-facing applications** come together.
+Currently, I am exploring the intersection of **full-stack engineering, artificial intelligence, system design and emerging technologies**.
 
-My approach is simple:
+<br>
 
-> Build something useful.  
-> Understand how it works.  
-> Improve it until it works better.
+## Academic Journey
 
-</td>
+**Architecture → Computer Science → AI Research → Information Technology**
 
-<td width="45%" valign="top">
+<br>
 
-### System Info
+🎓 **University of Melbourne**  
+Bachelor of Design — Architecture
 
-<pre>
-name: Weihou Zeng
-alias: WZ_Crypt
+↓  
 
-focus:
-  - Full-Stack Development
-  - Backend Engineering
-  - System Integration
-  - Artificial Intelligence
+💻 **UNSW Sydney**  
+Computer Science
 
-currently:
-  status: Building
-  mode: Learning
-  location: Australia
-</pre>
+↓  
 
-</td>
-</tr>
-</table>
+🧠 **University of Melbourne · 2025**  
+Research Master's-stage study  
+Focus: **Artificial Intelligence × Social Modelling**
 
----
+↓  
 
-## `02 // CURRENT FOCUS`
+⚙️ **Monash University**  
+Master of Information Technology
 
-<table>
-<tr>
+<br>
 
-<td width="33%" valign="top">
+This interdisciplinary path has given me perspectives across **design thinking, software engineering, human behaviour, data and intelligent systems**.
 
-### ⚙ Backend
+<br>
 
-Designing APIs, application logic and service integrations.
+## Current Focus
 
-`FastAPI` `Node.js` `REST`
+**Building**  
+Full-stack applications that connect interface, service and data layers.
 
-</td>
+**Engineering**  
+Backend APIs, application architecture, databases and system integration.
 
-<td width="33%" valign="top">
+**Exploring**  
+Artificial intelligence, social modelling, intelligent applications and automation.
 
-### ◈ Full Stack
+**Thinking About**  
+How technology changes the way people interact with systems — and with each other.
 
-Connecting frontend interfaces with backend services and data.
-
-`React` `Vue` `JavaScript`
-
-</td>
-
-<td width="33%" valign="top">
-
-### ◎ Emerging Tech
-
-Exploring practical applications of AI and new software technologies.
-
-`AI` `Web3` `Automation`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `03 // TECH ARSENAL`
+<br>
 
 <div align="center">
 
-### Core Languages
+`FULL STACK` · `BACKEND` · `AI` · `SYSTEM DESIGN` · `SOCIAL COMPUTING` · `CLOUD`
+
+</div>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Languages">
 
 <br><br>
 
-### Frameworks & Runtime
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,vue,nodejs,fastapi&theme=dark" alt="Frameworks">
-
-<br><br>
-
-### Data & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker&theme=dark" alt="Data">
+<img src="https://skillicons.dev/icons?i=react,vue&theme=dark" alt="Frontend">
 
 <br><br>
 
-### Development Tools
+### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Tools">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs&theme=dark" alt="Backend">
 
-</div>
+<br><br>
 
----
+### Data
 
-## `04 // SELECTED WORK`
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases">
 
-<table>
+<br><br>
 
-<tr>
-<td width="50%" valign="top">
+### Tools & Infrastructure
 
-### 🧭 CalmRoute
-
-**Sensory-aware route planning system**
-
-A full-stack route planning application designed around environmental factors such as pedestrian density, noise and nearby points of interest.
-
-**Stack**
-
-`React` `FastAPI` `MySQL` `REST API`
-
-**Focus**
-
-`System Integration` `Route Planning` `Data Processing`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💊 DoseMate
-
-**Context-aware medication assistant**
-
-A mobile application exploring medication tracking, reminders, history visualisation and context-aware behaviour.
-
-**Stack**
-
-`Android` `Java` `Local Data`
-
-**Focus**
-
-`Mobile Development` `Notifications` `Context Awareness`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ☁ Cloud Media Platform
-
-**Serverless media management architecture**
-
-A cloud-oriented system supporting authentication, file upload, search, metadata management and media workflows.
-
-**Focus**
-
-`Cloud Architecture` `Serverless` `APIs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ♻ Sustainable Web App
-
-**Waste reduction & reusable item platform**
-
-A responsive full-stack web application centred around reusable items, filtering, validation and user interaction.
-
-**Stack**
-
-`Vue` `JavaScript` `HTML` `CSS`
-
-**Focus**
-
-`Responsive UI` `Reactive State` `Validation`
-
-</td>
-</tr>
-
-</table>
-
----
-
-## `05 // GITHUB CULTIVATION`
-
-<div align="center">
-
-<img src="https://github-immortality.vercel.app/api?username=PeterZG" width="88%" alt="WZ Crypt GitHub Cultivation">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma&theme=dark" alt="Tools">
 
 </div>
 
 <br>
 
-<table>
-<tr>
+## Selected Work
 
-<td align="center" width="25%">
+<details open>
+<summary><b>🧭 CalmRoute — Sensory-Aware Route Planning</b></summary>
 
-### `BUILD`
+<br>
 
-Turn ideas into working systems.
+A full-stack route planning system exploring how environmental information can improve the walking experience.
 
-</td>
+The system considers factors such as pedestrian activity, noise and nearby points of interest when presenting routes.
 
-<td align="center" width="25%">
+**Built with:**  
+`React` · `FastAPI` · `MySQL` · `REST APIs`
 
-### `TEST`
+**Worked on:**  
+System architecture · User flow · Prototype design · Data integration · Route planning
 
-Break assumptions before users do.
+</details>
 
-</td>
+<br>
 
-<td align="center" width="25%">
+<details>
+<summary><b>💊 DoseMate — Context-Aware Medication Assistant</b></summary>
 
-### `LEARN`
+<br>
 
-Understand what failed and why.
+A mobile application designed around medication management, reminders and context-aware behaviour.
 
-</td>
+Features included medication history, visualisation, reminder logic and contextual interaction.
 
-<td align="center" width="25%">
+**Built with:**  
+`Java` · `Android`
 
-### `ITERATE`
+**Worked on:**  
+History · Charts · Profile · Notifications · Context awareness · Sensor simulation
 
-Make the next version better.
+</details>
 
-</td>
+<br>
 
-</tr>
-</table>
+<details>
+<summary><b>☁️ Cloud Media Platform — Serverless Architecture</b></summary>
 
----
+<br>
 
-## `06 // OPERATING PRINCIPLES`
+A cloud-oriented media management platform supporting authentication, uploads, metadata, search and media workflows.
 
-<table>
-<tr>
+**Worked with:**  
+`Cloud Architecture` · `Serverless Systems` · `APIs`
 
-<td width="65%" valign="middle">
+**Worked on:**  
+Frontend integration · Authentication · Upload workflow · Search · Media library
 
-### “I'm not interested in technology itself.  
-### I'm interested in what it can do.”
+</details>
 
-— **Hideo Kojima**
+<br>
 
-Technology matters when it solves something, improves something or enables something that could not exist before.
+<details>
+<summary><b>♻️ Sustainable Web Application</b></summary>
 
-</td>
+<br>
 
-<td width="35%" align="center" valign="middle">
+A responsive web application focused on reusable items and waste reduction.
 
-<img src="./hideo_kojima.png" width="230" alt="Hideo Kojima">
+The application explored filtering, form validation, reactive interfaces and responsive layouts.
 
-</td>
+**Built with:**  
+`Vue` · `JavaScript` · `HTML` · `CSS`
 
-</tr>
-</table>
+**Worked on:**  
+Reactive state · Filtering · Validation · Responsive UI
 
----
+</details>
 
-## `07 // SYSTEM STATUS`
+<br>
 
-<pre>
-SYSTEM        WZ_CRYPT
-STATUS        ONLINE
-BUILD         STABLE
-MODE          DEVELOPMENT
-MISSION       BUILD USEFUL SOFTWARE
-UPTIME        ∞
-</pre>
+## AI & Research Interests
 
-<table>
-<tr>
+My interest in AI goes beyond model implementation.
 
-<td width="33%" align="center">
+I am especially interested in questions around:
 
-### CURRENTLY BUILDING
+- **AI and social modelling**
+- **Human–AI interaction**
+- **Technology adoption**
+- **Intelligent software systems**
+- **AI-assisted decision making**
+- **Behaviour and interaction in digital environments**
 
-Full-stack systems
+My earlier research-stage work at the **University of Melbourne in 2025** explored AI-related directions connected with **social modelling**, which continues to influence the way I think about intelligent systems today.
 
-`Frontend ↔ API ↔ Database`
+<br>
 
-</td>
-
-<td width="33%" align="center">
-
-### CURRENTLY LEARNING
-
-AI & system design
-
-`Architecture` `Automation`
-
-</td>
-
-<td width="33%" align="center">
-
-### CURRENTLY EXPLORING
-
-Emerging technologies
-
-`AI` `Web3` `Cloud`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `08 // DEVELOPMENT PHILOSOPHY`
-
-<table>
-<tr>
-
-<td width="25%" align="center">
-
-### 01
-
-**BUILD**
-
-Start with something real.
-
-</td>
-
-<td width="25%" align="center">
-
-### 02
-
-**TEST**
-
-Challenge every assumption.
-
-</td>
-
-<td width="25%" align="center">
-
-### 03
-
-**LEARN**
-
-Understand every failure.
-
-</td>
-
-<td width="25%" align="center">
-
-### 04
-
-**ITERATE**
-
-Make the next version better.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## `09 // INTERESTS`
+## GitHub Cultivation
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend-Engineering-00BCD4?style=flat-square">
-<img src="https://img.shields.io/badge/Full--Stack-Development-007ACC?style=flat-square">
-<img src="https://img.shields.io/badge/System-Design-6C63FF?style=flat-square">
-<img src="https://img.shields.io/badge/Artificial-Intelligence-8A2BE2?style=flat-square">
-<img src="https://img.shields.io/badge/Cloud-Architecture-FF9900?style=flat-square">
-<img src="https://img.shields.io/badge/Emerging-Tech-FF0080?style=flat-square">
+<img
+  src="https://github-immortality.vercel.app/api?username=PeterZG"
+  width="88%"
+  alt="WZ Crypt GitHub Cultivation"
+/>
+
+<br><br>
+
+**BUILD** → **TEST** → **LEARN** → **ITERATE**
+
+<br>
+
+<sub>Continuous development, one commit at a time.</sub>
 
 </div>
 
----
+<br>
 
-## `10 // CONNECT`
+## How I Build
 
-<table>
-<tr>
+**01 — Understand**
 
-<td width="50%" valign="top" align="center">
+Start with the actual problem before thinking about the technology.
 
-### GitHub
+**02 — Design**
 
-Code, projects and experiments.
+Turn requirements into understandable flows, interfaces and system components.
+
+**03 — Build**
+
+Connect frontend, backend, APIs and data into something that actually works.
+
+**04 — Test**
+
+Find assumptions that fail before they become user problems.
+
+**05 — Iterate**
+
+Use feedback and evidence to improve the next version.
 
 <br>
+
+## Beyond Code
+
+My background in architecture still influences how I approach technology.
+
+Architecture taught me to think about **space, structure, users and constraints**.
+
+Computer science taught me to think about **logic, abstraction and computation**.
+
+AI research introduced questions around **behaviour, intelligence and social systems**.
+
+Information technology brought those perspectives together through **real-world software systems**.
+
+<div align="center">
+
+<br>
+
+**DESIGN × COMPUTATION × INTELLIGENCE**
+
+</div>
+
+<br>
+
+## Philosophy
+
+> **“I'm not interested in technology itself. I'm interested in what it can do.”**
+>
+> — Hideo Kojima
+
+For me, technology becomes interesting when it changes what people can **create, understand or experience**.
+
+<br>
+
+## Now
+
+🛠 **Building**  
+Full-stack and backend-oriented software systems
+
+🧠 **Learning**  
+AI, software architecture and intelligent applications
+
+🔬 **Exploring**  
+Social computing, human–AI interaction and emerging technologies
+
+🌐 **Interested In**  
+Projects that connect technology with real human problems
+
+<br>
+
+## Connect
+
+<div align="center">
+
+### Find me online
 
 <a href="https://github.com/PeterZG">
-<img src="https://img.shields.io/badge/GITHUB-PETERZG-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GITHUB-PETERZG-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-</td>
-
-<td width="50%" valign="top" align="center">
-
-### Email
-
-Professional and technical conversations.
-
-<br>
+&nbsp;
 
 <a href="mailto:weihouzeng@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=00bcd4&style=flat-square">
 
 <br><br>
 
-<pre>
-WZ_CRYPT // DIGITAL CULTIVATION SYSTEM
-</pre>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=PROFILE%20VIEWS&color=00AFC8&style=flat-square">
 
-**BUILD → TEST → LEARN → ITERATE**
+<br><br><br>
+
+### `WZ_CRYPT`
+
+**Architecture → Computer Science → AI → Information Technology**
 
 <br>
 
-<sub>Turning ideas into systems, one iteration at a time.</sub>
+`BUILD → TEST → LEARN → ITERATE`
+
+<br><br>
+
+<sub>Peter Benjamin Parker // Weihou Zeng</sub>
 
 </div>
