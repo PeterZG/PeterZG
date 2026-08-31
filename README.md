@@ -1,63 +1,99 @@
 <div align="center">
 <img
-  src="https://gradient-svg-generator.vercel.app/api/svg?text=WZ_CRYPT&template=hologram-blue&height=92&duration=8s&color0=A5B4FC&color1=67E8F9"
+  src="https://gradient-svg-generator.vercel.app/api/svg?text=WZ_CRYPT&template=chrome-flow&height=86&duration=10s"
   width="100%"
   alt="WZ_Crypt"
+/><img
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
+  width="100%"
+  alt="Cyberpunk"
 />
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-**Full-Stack Development · Backend · AI · Blockchain**
-
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-PeterZG-161B22?style=flat-square&logo=github&logoColor=white"></a>
-<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-253858?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=256D85&style=flat-square">
-
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=flat-square&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=475569&style=flat-square">
 </div>
 
 ---
 
 ## About
 
-I started out in architecture, then moved into computer science.
+I started in **architecture**, then moved into **computer science**.
 
-These days I mostly work on **full-stack applications**, especially the backend side — APIs, databases, application logic and integration.
+These days I mostly build software, with a preference for the backend side — APIs, databases, application logic and integration.
 
-Outside development, I follow **AI, blockchain and the evolution of the web** pretty closely.
-
-<img
-  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
-  width="100%"
-  alt="Cyberpunk GIF"
-/>
+I also spend a lot of time following **AI, blockchain and the next generation of the web**.
 
 ---
 
 ## Education
 
-**2019—2021 · University of Melbourne**  
-*Bachelor of Design — Architecture*
+<table width="100%">
 
-My first field was architectural design, with a focus on space, structure and people.
+<tr>
+<td width="20%" align="center" valign="middle">
+<strong>2019—2021</strong>
+</td>
+<td width="80%" valign="middle">
 
-<br>
+<strong>University of Melbourne</strong><br>
+<em>Bachelor of Design — Architecture</em><br>
+<sub>Architecture, spatial design and people-centred thinking.</sub>
 
-**Late 2021—Sep 2024 · UNSW Sydney**  
-*Computer Science*
+</td>
+</tr>
 
-Moved into programming, algorithms and software development.
+<tr>
+<td width="20%" align="center" valign="middle">
+<strong>2021—2024</strong>
+</td>
+<td width="80%" valign="middle">
 
-<br>
+<strong>UNSW Sydney</strong><br>
+<em>Computer Science</em><br>
+<sub>Programming, algorithms and software development.</sub>
 
-**2025 · University of Melbourne**  
-*Graduate research stage in Computing and Information Systems*
+</td>
+</tr>
 
-Research interests around **Human AI, Social Computing and Human–Computer Interaction**, particularly trust, control and interaction between people and intelligent systems.
+<tr>
+<td width="20%" align="center" valign="middle">
+<strong>2025</strong>
+</td>
+<td width="80%" valign="middle">
+
+<strong>University of Melbourne</strong><br>
+<em>Graduate Research Stage — Computing and Information Systems</em><br>
+<sub>Human AI · Social Computing · Human–Computer Interaction</sub>
+
+</td>
+</tr>
+
+<tr>
+<td width="20%" align="center" valign="middle">
+<strong>2026</strong>
+</td>
+<td width="80%" valign="middle">
+
+<strong>Monash University</strong><br>
+<em>Master of Information Technology</em><br>
+<sub>Full-stack development, databases, cloud and industry practice.</sub>
+
+</td>
+</tr>
+
+</table>
 
 <details>
-<summary><b>Related University of Melbourne research</b></summary>
+<summary><b>2025 Research Notes</b></summary>
 
 <br>
+
+My research-stage interests were mainly around the human side of AI — trust, control and interaction between people and intelligent systems.
+
+Related University of Melbourne research includes:
 
 - Assisted Decision-Making
 - AI Risk Communication
@@ -70,37 +106,15 @@ Research interests around **Human AI, Social Computing and Human–Computer Inte
 
 </details>
 
-<br>
-
-**2026 · Monash University**  
-*Master of Information Technology*
-
-Applied software development, databases, full-stack systems, cloud technologies and industry work.
-
 ---
 
 ## Stack
 
 <div align="center">
 
-**Languages & Frameworks**
-
-<br>
-
 <img
-  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark&perline=9"
-  alt="Languages and Frameworks"
-/>
-
-<br><br>
-
-**Data & Tools**
-
-<br>
-
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=8"
-  alt="Data and Tools"
+  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs,mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=9"
+  alt="Tech Stack"
 />
 
 </div>
@@ -109,46 +123,22 @@ Applied software development, databases, full-stack systems, cloud technologies 
 
 ## Interests
 
-**AI**  
-Generative models, agents, automation and applied AI.
+**AI** — Generative AI, agents, automation and applied AI.
 
-**Blockchain**  
-Smart contracts, decentralised infrastructure and on-chain applications.
+**Blockchain** — Smart contracts, decentralised infrastructure and on-chain applications.
 
-**Web3+**  
-dApps, digital ownership, decentralised identity and what might come after today's web.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GENERATIVE_AI-161B22?style=flat-square">
-<img src="https://img.shields.io/badge/AI_AGENTS-253858?style=flat-square">
-<img src="https://img.shields.io/badge/BLOCKCHAIN-4338CA?style=flat-square">
-<img src="https://img.shields.io/badge/WEB3-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/DECENTRALISED_WEB-0E7490?style=flat-square">
-
-</div>
+**Web3 → Web5** — dApps, digital ownership, decentralised identity and newer ideas around a more user-controlled web.
 
 ---
 
-## GitHub Overview · GitHub 概览
+## Activity
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&theme=github_dark"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=PeterZG&bg_color=0B1020&color=94A3B8&line=7DD3FC&point=C4B5FD&area=true&area_color=312E81&hide_border=true&hide_title=true"
   width="100%"
-  alt="GitHub Profile Summary"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeterZG&theme=github_dark"
-  width="49%"
-  alt="GitHub Stats"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeterZG&theme=github_dark&utcOffset=10"
-  width="49%"
-  alt="GitHub Productive Time"
+  alt="GitHub Contribution Activity"
 />
 
 </div>
@@ -160,7 +150,7 @@ dApps, digital ownership, decentralised identity and what might come after today
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
-  width="94%"
+  width="96%"
   alt="GitHub Cultivation"
 />
 
@@ -175,32 +165,31 @@ dApps, digital ownership, decentralised identity and what might come after today
 <table width="100%">
 <tr>
 
-<td width="48%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
+
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
   width="100%"
   alt="Hideo Kojima"
 />
+
 </td>
 
-<td width="52%" valign="middle">
+<td width="50%" valign="middle">
 
-<blockquote>
+<sub>A QUOTE I KEEP AROUND</sub>
 
 <h2>
 “I'm not interested in<br>
-technology itself.<br><br>
-I'm interested in what<br>
-it can do.”
+technology itself.
+</h2>
+
+<h2>
+I'm interested in<br>
+what it can do.”
 </h2>
 
 <strong>— Hideo Kojima</strong>
-
-</blockquote>
-
-<br>
-
-<b>This one stuck with me.</b>
 
 </td>
 
