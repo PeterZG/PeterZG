@@ -1,49 +1,47 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:080B16,45:241B3B,72:3D2A5E,100:0E5C67&text=WZ_Crypt&fontSize=64&fontColor=D8C7E8&fontFamily=Georgia&fontAlignY=50&animation=fadeIn&stroke=171827&strokeWidth=1"
+  src="https://capsule-render.vercel.app/api?type=venom&height=125&color=0:020202,35:090A0C,68:191B1E,100:040404&text=WZ_Crypt&fontSize=60&fontColor=C8C1B5&fontFamily=Georgia&fontAlignY=51&stroke=454545&strokeWidth=1&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
+/><img
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
+  width="100%"
+  alt="Cyberpunk"
 />
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-**Full-Stack Development · Backend · AI · Blockchain**
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-171717?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-30343B?style=flat-square&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=4B5563&style=flat-square">
 
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-PeterZG-161B22?style=flat-square&logo=github&logoColor=white"></a>
-<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-35304A?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=315C67&style=flat-square">
 </div>
 
 ---
 
 ## About
 
-I started in **architecture**, then moved into **computer science**.
+I started in architecture, switched to computer science, and ended up much happier building software.
 
-Now I mostly build full-stack applications, with a preference for the backend side — **APIs, databases, application logic and integration**.
-
-Outside development, I follow **AI, blockchain and Web3+**.
-
-<img
-  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
-  width="100%"
-  alt="Cyberpunk"
-/>
+I lean toward backend work — **APIs, databases, application logic and integration**. Outside that, I keep up with **AI, blockchain and Web3** because those are the areas I genuinely enjoy following.
 
 ---
 
-## Education
+<details>
+<summary><b>Education</b> &nbsp; <sub>2019 — 2026</sub></summary>
+
+<br>
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-### 2019—2021
+<sub>2019 — 2021</sub>
 
-**University of Melbourne**
+### University of Melbourne
 
-*Bachelor of Design — Architecture*
+*Bachelor of Design · Architecture*
 
 Architecture, spatial design and people-centred thinking.
 
@@ -51,9 +49,9 @@ Architecture, spatial design and people-centred thinking.
 
 <td width="50%" valign="top">
 
-### Late 2021—Sep 2024
+<sub>LATE 2021 — SEP 2024</sub>
 
-**UNSW Sydney**
+### UNSW Sydney
 
 *Computer Science*
 
@@ -67,27 +65,21 @@ Programming, algorithms and software development.
 
 <td width="50%" valign="top">
 
-### 2025
+<sub>2025</sub>
 
-**University of Melbourne**
+### University of Melbourne
 
-*Graduate Research Stage — Computing and Information Systems*
+*Graduate Research · Computing and Information Systems*
 
-**Human AI · Human–Computer Interaction**
-
-Related University of Melbourne work:
-
-- **Balancing Autonomy and Control**
-- **Assisted Decision-Making**
-- **AI Risk Communication**
+The 2025 research stage aligned with Melbourne's **Human AI / HCI** work, including *Assisted Decision-Making*, *AI Risk Communication* and *Balancing Autonomy and Control*.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 2026
+<sub>2026</sub>
 
-**Monash University**
+### Monash University
 
 *Master of Information Technology*
 
@@ -98,6 +90,8 @@ Full-stack development, databases, cloud systems and industry practice.
 </tr>
 </table>
 
+</details>
+
 ---
 
 ## Stack
@@ -107,33 +101,29 @@ Full-stack development, databases, cloud systems and industry practice.
 
 <td width="50%" align="center" valign="middle">
 
-### Build
+<sub>BUILD</sub>
+
+<br><br>
 
 <img
   src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark&perline=5"
+  width="92%"
   alt="Development Stack"
 />
-
-<br>
-
-`Java` · `Python` · `JavaScript`  
-`React` · `Vue` · `FastAPI` · `Node.js`
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-### Data & Tools
+<sub>DATA / TOOLS</sub>
+
+<br><br>
 
 <img
   src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=4"
+  width="92%"
   alt="Data and Tools"
 />
-
-<br>
-
-`MySQL` · `PostgreSQL` · `MongoDB`  
-`Docker` · `Git` · `GitHub` · `Figma`
 
 </td>
 
@@ -147,33 +137,36 @@ Full-stack development, databases, cloud systems and industry practice.
 <table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
-### AI
+<sub>01 / ARTIFICIAL INTELLIGENCE</sub>
 
-Generative AI, agents and automation.
+<br><br>
 
-`GenAI` · `Agents`
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### Blockchain
-
-Smart contracts and decentralised infrastructure.
-
-`Blockchain` · `On-chain`
+**Generative AI**  
+**Agents · Automation**
 
 </td>
 
-<td width="33%" align="center" valign="top">
+<td width="33%" align="center" valign="middle">
 
-### Web3+
+<sub>02 / BLOCKCHAIN</sub>
 
-Digital ownership, dApps and decentralised identity.
+<br><br>
 
-`Web3` · `dApps` · `Identity`
+**Smart Contracts**  
+**Decentralised Systems**
+
+</td>
+
+<td width="33%" align="center" valign="middle">
+
+<sub>03 / WEB3+</sub>
+
+<br><br>
+
+**dApps · Digital Ownership**  
+**Decentralised Identity**
 
 </td>
 
@@ -182,22 +175,20 @@ Digital ownership, dApps and decentralised identity.
 
 ---
 
-## GitHub
+<details>
+<summary><b>GitHub</b> &nbsp; <sub>Activity / Cultivation 修仙</sub></summary>
+
+<br>
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=PeterZG&locale=en&hide_border=true&border_radius=12&background=0D1117&ring=8B7AC8&fire=4FA6A6&currStreakLabel=B9A7D4&sideLabels=AAB2C0&currStreakNum=E6E8EC&sideNums=E6E8EC&dates=657080&stroke=202637"
-  width="82%"
-  alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=PeterZG&locale=en&hide_border=true&border_radius=10&background=0D1117&ring=9CA3AF&fire=C5B89F&currStreakLabel=B8BDC7&sideLabels=8B949E&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&stroke=25282D"
+  width="76%"
+  alt="GitHub Activity"
 />
 
-</div>
-
-<details>
-<summary><b>Cultivation Mode · 修仙模式</b></summary>
-
-<div align="center">
+<br>
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
@@ -210,8 +201,6 @@ Digital ownership, dApps and decentralised identity.
 </details>
 
 ---
-
-## Perspective
 
 <table width="100%">
 <tr>
@@ -229,7 +218,7 @@ Digital ownership, dApps and decentralised identity.
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=330&color=0:0B0D16,50:181627,100:27203A&text=I'm%20not%20interested%20in-nl-technology%20itself.-nl-I'm%20interested%20in%20what%20it%20can%20do.&fontSize=25&fontColor=D6C9E6&fontFamily=Georgia&fontAlignY=40&desc=Hideo%20Kojima&descSize=18&descAlignY=78&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=rect&height=340&color=0:040404,52:0E0F11,100:1B1D20&text=%E2%80%9CI%27m%20not%20interested%20in-nl-technology%20itself.-nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=25&fontColor=C9C3B8&fontFamily=Georgia&animation=fadeIn&desc=%E2%80%94%20Hideo%20Kojima&descSize=17&descAlignY=84"
   width="100%"
   alt="Hideo Kojima Quote"
 />
