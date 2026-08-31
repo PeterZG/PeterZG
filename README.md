@@ -302,14 +302,6 @@ dApps & Decentralised Identity
 
 ### WZ_CRYPT
 
-<sub>◆</sub>
-
 <br>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=transparent&height=28"
-  width="100%"
-  alt=""
-/>
 
 </div>
