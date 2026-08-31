@@ -1,6 +1,6 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&color=0:E9EFF1,32:C3D0D5,68:8199A3,100:263740&text=WZ_CRYPT&fontSize=64&fontColor=090B0D&fontFamily=Palatino%20Linotype&fontAlignY=38&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=145&color=0:F3F5F6,30:D9E0E3,67:9EACB4,100:53636C&text=WZ_CRYPT&fontSize=62&fontColor=0A0C0E&fontFamily=Georgia&fontAlignY=51&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
 />
@@ -9,7 +9,7 @@
 
 <a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-17191C?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=526A75&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=596A73&style=flat-square">
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
@@ -38,25 +38,33 @@ I like the parts behind the interface — **APIs, databases, application logic a
 
 <td width="50%" valign="top">
 
-### University of Melbourne
+<h3>University of Melbourne</h3>
 
-**2019 — 2021**
+<strong>2019 — 2021</strong>
 
-*Bachelor of Design — Architecture*
+<br>
 
-Architecture and spatial design.
+<em>Bachelor of Design — Architecture</em>
+
+<br><br>
+
+Architecture · Spatial Design
 
 </td>
 
 <td width="50%" valign="top">
 
-### UNSW Sydney
+<h3>UNSW Sydney</h3>
 
-**Late 2021 — Sep 2024**
+<strong>Late 2021 — Sep 2024</strong>
 
-*Bachelor of Computer Science*
+<br>
 
-Programming, algorithms and software development.
+<em>Bachelor of Computer Science</em>
+
+<br><br>
+
+Programming · Algorithms · Software Development
 
 </td>
 
@@ -66,25 +74,33 @@ Programming, algorithms and software development.
 
 <td width="50%" valign="top">
 
-### University of Melbourne
+<h3>University of Melbourne</h3>
 
-**2025**
+<strong>2025</strong>
 
-*Graduate Research Stage — Computing and Information Systems*
+<br>
 
-The 2025 research stage sat closest to Melbourne's **Human AI / HCI** work, including *Assisted Decision-Making*, *AI Risk Communication* and *Balancing Autonomy and Control*.
+<em>Graduate Research — Computing and Information Systems</em>
+
+<br><br>
+
+Research context: <strong>Human AI / HCI</strong>, closest to Melbourne work such as <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Monash University
+<h3>Monash University</h3>
 
-**2026**
+<strong>2026</strong>
 
-*Master of Information Technology*
+<br>
 
-Full-stack development, databases, cloud and industry practice.
+<em>Master of Information Technology</em>
+
+<br><br>
+
+Full-Stack Development · Databases · Cloud · Industry Practice
 
 </td>
 
@@ -99,49 +115,45 @@ Full-stack development, databases, cloud and industry practice.
 
 <div align="center">
 
-### Languages & Low-Level
+### Languages
 
 <img
-  src="https://skill-icons-v2.vercel.app/api/icons?i=java,python,javascript,html,css,c,cpp,perl&theme=dark"
-  width="78%"
-  alt="Languages"
+  src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,bash,wasm&theme=dark&perline=9"
+  width="92%"
+  alt="Programming Languages"
 />
 
 <br>
 
-<img src="https://img.shields.io/badge/ASSEMBLY-17191C?style=for-the-badge">
-&nbsp;
-<img src="https://img.shields.io/badge/MIPS-263238?style=for-the-badge">
+<img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
+<img src="https://img.shields.io/badge/Assembly-252A30?style=for-the-badge">
+<img src="https://img.shields.io/badge/MIPS-3D474D?style=for-the-badge">
 
 <br><br>
 
 ### Web · Backend · Data
 
 <img
-  src="https://skill-icons-v2.vercel.app/api/icons?i=react,vue,nodejs,fastapi,mysql,postgresql,mongodb,docker,git,github,vscode,figma&theme=dark"
-  width="92%"
-  alt="Web Backend Data Tools"
+  src="https://skillicons.dev/icons?i=react,vue,nodejs,fastapi,mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=12"
+  width="100%"
+  alt="Web Backend and Data"
 />
 
 <br><br>
 
-### AI Tools
+### AI · Models · Tools
 
-<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Gemini-253858?style=for-the-badge&logo=googlegemini&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/Hugging_Face-3A3A3A?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+<img src="https://img.shields.io/badge/OpenAI-101010?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-1B1B1B?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/Gemini-27364A?style=for-the-badge&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging%20Face-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
 
 <br>
 
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub_Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white">
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-263238?style=for-the-badge&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-31363B?style=for-the-badge&logo=tensorflow&logoColor=FF9A00">
+<img src="https://img.shields.io/badge/PyTorch-3F454A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
 
 </div>
 
@@ -149,34 +161,23 @@ Full-stack development, databases, cloud and industry practice.
 
 ## Interests
 
-<div align="center">
+> **Artificial Intelligence** — Generative AI · Agents · Automation · Applied AI
 
-<img
-  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-Generative%20AI%20%C2%B7%20Agents%20%C2%B7%20Automation-111418?style=for-the-badge"
-/>
+> **Blockchain** — Smart Contracts · Decentralised Systems · On-chain Applications
 
-<br>
-
-<img
-  src="https://img.shields.io/badge/BLOCKCHAIN-Smart%20Contracts%20%C2%B7%20Decentralised%20Systems-27313A?style=for-the-badge"
-/>
-
-<br>
-
-<img
-  src="https://img.shields.io/badge/WEB3%2B-dApps%20%C2%B7%20Digital%20Ownership%20%C2%B7%20Identity-43545D?style=for-the-badge"
-/>
-
-</div>
+> **Web3+** — dApps · Digital Ownership · Decentralised Identity · Emerging Web Technologies
 
 ---
 
-<details>
-<summary><strong>GitHub Cultivation · 修仙记录</strong></summary>
-
-<br>
+## GitHub
 
 <div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
+  width="100%"
+  alt="GitHub Achievements"
+/>
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
@@ -186,11 +187,9 @@ Full-stack development, databases, cloud and industry practice.
 
 </div>
 
-</details>
-
 ---
 
-## On Technology
+## Hideo Kojima
 
 <table width="100%">
 <tr>
@@ -200,20 +199,26 @@ Full-stack development, databases, cloud and industry practice.
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
   width="100%"
-  height="360"
   alt="Hideo Kojima"
 />
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle" height="360">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,45:101316,100:23292D&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=46&fontColor=E4E8EA&fontFamily=Palatino%20Linotype&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
-  width="100%"
-  height="360"
-  alt="Hideo Kojima Quote"
-/>
+<h2>
+“I'm not interested in<br>
+technology itself.
+</h2>
+
+<h2>
+I'm interested in<br>
+what it can do.”
+</h2>
+
+<br>
+
+<strong>— Hideo Kojima</strong>
 
 </td>
 
@@ -221,7 +226,7 @@ Full-stack development, databases, cloud and industry practice.
 </table>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:263740,45:8199A3,100:E9EFF1"
+  src="https://capsule-render.vercel.app/api?type=slice&height=90&section=footer&reversal=true&color=0:53636C,48:9EACB4,100:E6EBED"
   width="100%"
   alt=""
 />
