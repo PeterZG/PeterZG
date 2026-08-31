@@ -1,8 +1,6 @@
-<!-- ===================== WZ_CRYPT ===================== -->
-
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:050816,38:172554,72:3B1D6E,100:0E7490&text=WZ_CRYPT&fontSize=62&fontColor=E6EDF3&fontAlignY=51&fontFamily=Trebuchet%20MS&animation=twinkling"
+  src="https://gradient-svg-generator.vercel.app/api/svg?text=WZ_CRYPT&template=hologram-blue&height=92&duration=8s&color0=A5B4FC&color1=67E8F9"
   width="100%"
   alt="WZ_Crypt"
 />
@@ -11,50 +9,53 @@
 
 **Full-Stack Development · Backend · AI · Blockchain**
 
-<a href="https://github.com/PeterZG">
-  <img src="https://img.shields.io/badge/GitHub-PeterZG-111827?style=flat-square&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:weihouzeng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-312E81?style=flat-square&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=0E7490&style=flat-square">
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-PeterZG-161B22?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-253858?style=flat-square&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=256D85&style=flat-square">
+
 </div>
 
 ---
 
 ## About
 
-I started out in architecture, moved into computer science, and eventually found myself spending most of my time building software.
+I started out in architecture, then moved into computer science.
 
-I enjoy the backend side of things most — **APIs, databases, application logic and integration**. Outside day-to-day development, I keep a close eye on **AI, blockchain and how the web is evolving**.
+These days I mostly work on **full-stack applications**, especially the backend side — APIs, databases, application logic and integration.
 
-<div align="center">
-<img src="./chill.gif" width="100%" alt="Cyberpunk">
-</div>
+Outside development, I follow **AI, blockchain and the evolution of the web** pretty closely.
+
+<img
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
+  width="100%"
+  alt="Cyberpunk GIF"
+/>
 
 ---
 
 ## Education
 
-### University of Melbourne
-**2019–2021 · Bachelor of Design — Architecture**
+**2019—2021 · University of Melbourne**  
+*Bachelor of Design — Architecture*
 
-Started with architectural design, with a focus on space, structure and how people interact with what we build.
+My first field was architectural design, with a focus on space, structure and people.
 
-### UNSW Sydney
-**Late 2021–Sep 2024 · Computer Science**
+<br>
 
-Moved into computing and software development, covering programming, algorithms and core computer science.
+**Late 2021—Sep 2024 · UNSW Sydney**  
+*Computer Science*
 
-### University of Melbourne
-**2025 · Graduate Research Stage — Computing and Information Systems**
+Moved into programming, algorithms and software development.
 
-Research interests around **Human AI, Social Computing and Human–Computer Interaction** — particularly trust, control and interaction between people and increasingly intelligent systems.
+<br>
+
+**2025 · University of Melbourne**  
+*Graduate research stage in Computing and Information Systems*
+
+Research interests around **Human AI, Social Computing and Human–Computer Interaction**, particularly trust, control and interaction between people and intelligent systems.
 
 <details>
-<summary><b>Related research at the University of Melbourne</b></summary>
+<summary><b>Related University of Melbourne research</b></summary>
 
 <br>
 
@@ -69,8 +70,10 @@ Research interests around **Human AI, Social Computing and Human–Computer Inte
 
 </details>
 
-### Monash University
-**2026 · Master of Information Technology**
+<br>
+
+**2026 · Monash University**  
+*Master of Information Technology*
 
 Applied software development, databases, full-stack systems, cloud technologies and industry work.
 
@@ -80,20 +83,25 @@ Applied software development, databases, full-stack systems, cloud technologies 
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark"
-  alt="Development Stack"
-/>
-
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark"
-  alt="Tools"
-/>
+**Languages & Frameworks**
 
 <br>
 
-`Java` · `Python` · `JavaScript` · `React` · `Vue` · `FastAPI` · `Node.js`  
-`MySQL` · `PostgreSQL` · `MongoDB` · `Docker` · `Git`
+<img
+  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark&perline=9"
+  alt="Languages and Frameworks"
+/>
+
+<br><br>
+
+**Data & Tools**
+
+<br>
+
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=8"
+  alt="Data and Tools"
+/>
 
 </div>
 
@@ -101,37 +109,64 @@ Applied software development, databases, full-stack systems, cloud technologies 
 
 ## Interests
 
-**AI** — Generative models, agents, automation and tools that can actually become part of useful software.
+**AI**  
+Generative models, agents, automation and applied AI.
 
-**Blockchain** — Smart contracts, decentralised infrastructure and on-chain applications.
+**Blockchain**  
+Smart contracts, decentralised infrastructure and on-chain applications.
 
-**Web3+** — dApps, digital ownership, decentralised identity and whatever comes after today's platform-heavy web.
+**Web3+**  
+dApps, digital ownership, decentralised identity and what might come after today's web.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-111827?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/AI%20AGENTS-172554?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/BLOCKCHAIN-312E81?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/WEB3-1D4ED8?style=flat-square">
-&nbsp;
-<img src="https://img.shields.io/badge/DECENTRALISED%20WEB-0E7490?style=flat-square">
+<img src="https://img.shields.io/badge/GENERATIVE_AI-161B22?style=flat-square">
+<img src="https://img.shields.io/badge/AI_AGENTS-253858?style=flat-square">
+<img src="https://img.shields.io/badge/BLOCKCHAIN-4338CA?style=flat-square">
+<img src="https://img.shields.io/badge/WEB3-2563EB?style=flat-square">
+<img src="https://img.shields.io/badge/DECENTRALISED_WEB-0E7490?style=flat-square">
 
 </div>
 
 ---
 
-## GitHub Cultivation
+## GitHub Overview · GitHub 概览
 
 <div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Summary"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PeterZG&theme=github_dark"
+  width="49%"
+  alt="GitHub Stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PeterZG&theme=github_dark&utcOffset=10"
+  width="49%"
+  alt="GitHub Productive Time"
+/>
+
+</div>
+
+<details>
+<summary><b>Cultivation Mode · 修仙模式</b></summary>
+
+<div align="center">
+
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
-  width="96%"
+  width="94%"
   alt="GitHub Cultivation"
 />
+
 </div>
+
+</details>
 
 ---
 
@@ -140,35 +175,34 @@ Applied software development, databases, full-stack systems, cloud technologies 
 <table width="100%">
 <tr>
 
-<td width="44%" align="center" valign="middle">
+<td width="48%" align="center" valign="middle">
 <img
-  src="./hideo_kojima.png"
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
   width="100%"
   alt="Hideo Kojima"
 />
 </td>
 
-<td width="56%" align="center" valign="middle">
-<img
-  src="https://quotes-github-readme.vercel.app/api?quote=I'm%20not%20interested%20in%20technology%20itself.%20I'm%20interested%20in%20what%20it%20can%20do.&author=Hideo%20Kojima&theme=radical&type=horizontal"
-  width="100%"
-  alt="Hideo Kojima Quote"
-/>
+<td width="52%" valign="middle">
+
+<blockquote>
+
+<h2>
+“I'm not interested in<br>
+technology itself.<br><br>
+I'm interested in what<br>
+it can do.”
+</h2>
+
+<strong>— Hideo Kojima</strong>
+
+</blockquote>
+
+<br>
+
+<b>This one stuck with me.</b>
+
 </td>
 
 </tr>
 </table>
-
----
-
-<div align="center">
-
-<a href="https://github.com/PeterZG">
-  <img src="https://img.shields.io/badge/GitHub-PeterZG-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:weihouzeng@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
