@@ -276,7 +276,7 @@ dApps & Decentralised Identity
 
 ---
 
-## On Technology
+## Inspiration
 
 <div align="center">
 
@@ -290,16 +290,14 @@ dApps & Decentralised Identity
   alt="Hideo Kojima Quote"
 />
 
-</div>
+<br><br>
 
-<div align="center">
+<sub>WZ_CRYPT · 2026</sub>
+
+<br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111518,50:73848D,100:DCE3E6"
-  width="100%"
-  alt=""
-/><img
-  src="https://capsule-render.vercel.app/api?type=venom&height=115&section=footer&reversal=true&color=0:080A0B,35:2B363C,68:788B94,100:E8ECEE"
+  src="https://capsule-render.vercel.app/api?type=venom&height=110&section=footer&reversal=true&color=0:080A0B,32:2B363C,66:7B8D95,100:E8ECEE"
   width="100%"
   alt=""
 />
