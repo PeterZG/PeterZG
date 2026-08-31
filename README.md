@@ -5,7 +5,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=145&section=header&color=0:F6F8F9,30:DCE3E6,66:A2B1B8,100:52656E&text=WZ_CRYPT&fontSize=64&fontColor=080A0B&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=145&section=header&color=0:F5F7F8,30:DCE3E6,65:A5B4BB,100:52656E&text=WZ_CRYPT&fontSize=64&fontColor=080A0B&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
 />
@@ -54,18 +54,19 @@ I like working behind the interface — **APIs, databases, application logic and
 <td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:101417,100:34464F&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:111619,100:354850&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=23&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne"
 />
 
 <h2>2019 — 2021</h2>
 
-<strong>Bachelor of Design</strong><br>
+<h3>Bachelor of Design</h3>
+
 <em>Architecture</em>
 
 <p>
-My first field was architectural design, with studio work around space, structure, visual communication and the way people use designed environments.
+Architecture studio, spatial design, visual communication and design development.
 </p>
 
 <code>Architecture</code>
@@ -77,17 +78,19 @@ My first field was architectural design, with studio work around space, structur
 <td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:101417,100:304A57&text=UNSW%20SYDNEY&fontSize=25&fontColor=EEF1F2&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:111619,100:304A57&text=UNSW%20SYDNEY&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="UNSW Sydney"
 />
 
 <h2>Late 2021 — Sep 2024</h2>
 
-<strong>Bachelor of Computer Science</strong>
+<h3>Bachelor of Computer Science</h3>
+
+<em>Computer Science</em>
 
 <p>
-This was the move into computing — programming, algorithms, software development and the foundations of computer science.
+Programming, algorithms, software development and core computing.
 </p>
 
 <code>Programming</code>
@@ -103,18 +106,19 @@ This was the move into computing — programming, algorithms, software developme
 <td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:111518,100:3C494F&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:111619,100:3C494F&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=23&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne Research"
 />
 
 <h2>2025</h2>
 
-<strong>Graduate Research Stage</strong><br>
+<h3>Graduate Research Stage</h3>
+
 <em>Computing and Information Systems</em>
 
 <p>
-A research-stage year closest to Melbourne's Human AI / HCI work, including <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
+The research stage sat around Melbourne's Human AI / HCI work, including <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
 </p>
 
 <code>Human AI</code>
@@ -125,17 +129,19 @@ A research-stage year closest to Melbourne's Human AI / HCI work, including <em>
 <td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:111518,100:465861&text=MONASH%20UNIVERSITY&fontSize=25&fontColor=EEF1F2&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=58&color=0:111619,100:465861&text=MONASH%20UNIVERSITY&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="Monash University"
 />
 
 <h2>2026</h2>
 
-<strong>Master of Information Technology</strong>
+<h3>Master of Information Technology</h3>
+
+<em>Information Technology</em>
 
 <p>
-Applied work across full-stack development, databases, cloud technologies and industry-based software projects.
+Full-stack development, databases, cloud technologies and industry-based software work.
 </p>
 
 <code>Full Stack</code>
@@ -214,17 +220,17 @@ Applied work across full-stack development, databases, cloud technologies and in
 
 <h2>
 Artificial Intelligence
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 Blockchain
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp; · &nbsp;&nbsp;
 Web3+
 </h2>
 
 <p>
 Generative AI & Agents
-&nbsp;&nbsp; · &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
 Smart Contracts & Decentralised Systems
-&nbsp;&nbsp; · &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; · &nbsp;&nbsp;&nbsp;
 dApps & Decentralised Identity
 </p>
 
@@ -235,16 +241,16 @@ dApps & Decentralised Identity
 ## GitHub
 
 <details>
-<summary><strong>Stats & Cultivation</strong></summary>
+<summary><strong>Profile Stats · 修仙记录</strong></summary>
 
 <br>
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EAED&text_color=AEB7BE&icon_color=8499A3&include_all_commits=true"
-  width="64%"
-  alt="GitHub Stats"
+  src="https://kgnio-profile-card.vercel.app/api/card?user=PeterZG&theme=ice"
+  width="82%"
+  alt="GitHub Profile Stats"
 />
 
 <br>
@@ -263,38 +269,24 @@ dApps & Decentralised Identity
 
 ## On Technology
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" valign="middle">
+<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="100%"
-  height="360"
+  width="49.5%"
   alt="Hideo Kojima"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,45:101316,100:22282C&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=49&fontColor=E4E7E9&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
-  width="100%"
-  height="360"
+/><img
+  src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=36&duration=1&pause=999999&color=DDE3E7&background=0B0F13&center=true&vCenter=true&multiline=true&repeat=false&width=1024&height=768&lines=%E2%80%9CI%27m+not+interested+in;technology+itself.;%20;I%27m+interested+in;what+it+can+do.%E2%80%9D;%20;%E2%80%94+Hideo+Kojima"
+  width="49.5%"
   alt="Hideo Kojima Quote"
 />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=110&section=footer&reversal=true&color=0:F6F8F9,30:DCE3E6,66:A2B1B8,100:52656E"
+  src="https://capsule-render.vercel.app/api?type=venom&height=105&section=footer&reversal=true&color=0:F5F7F8,30:DCE3E6,65:A5B4BB,100:52656E"
   width="100%"
   alt=""
 />
