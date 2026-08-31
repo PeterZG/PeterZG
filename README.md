@@ -1,22 +1,10 @@
-<!-- ===================================================== -->
-<!--                      WZ_CRYPT                         -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=rect&height=170&color=0:070B14,50:111827,100:172033&text=WZ_CRYPT&fontSize=64&fontColor=E2E8F0&fontAlignY=50"
-  alt="WZ Crypt"
-/>
-
-<br>
+<img src="./assets/wzcrypt-header.svg" width="100%" alt="WZ_Crypt">
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-<sub>Developer · Builder · Always curious about what's next.</sub>
-
-<br><br>
+**Full-Stack Development · Backend · AI · Blockchain**
 
 <a href="https://github.com/PeterZG">
   <img src="https://img.shields.io/badge/GitHub-PeterZG-111827?style=flat-square&logo=github&logoColor=white">
@@ -26,7 +14,9 @@
   <img src="https://img.shields.io/badge/Email-Contact-312E81?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=334155&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=0891B2&style=flat-square">
+
+<img src="./chill.gif" width="100%" alt="Cyberpunk">
 
 </div>
 
@@ -36,68 +26,35 @@
 
 Hi, I'm **Weihou**. I also use **Peter Benjamin Parker** online.
 
-I started in architecture before moving into computer science. These days I mostly work on software, especially the backend side of full-stack development.
+I started with architecture, later moved into computer science, and now mainly work around **full-stack development and backend systems**.
 
-I like working with **APIs, databases and application logic**, and I spend a lot of time following what is happening in **AI, blockchain and the next generation of the web**.
+I spend most of my tech time on **AI, blockchain and newer web technologies**, while still enjoying the practical side of software — APIs, databases and getting different parts of an application to work together.
 
-`Full Stack` · `Backend` · `AI` · `Blockchain` · `Web3+`
-
-<br>
-
-<div align="center">
-
-<img src="./chill.gif" width="100%" alt="Cyberpunk GIF">
-
-</div>
-
-<br>
+`Java` · `Python` · `JavaScript` · `React` · `Vue` · `FastAPI` · `SQL`
 
 ---
 
 ## Education
 
 ### University of Melbourne
+**2019–2021 · Bachelor of Design — Architecture**
 
-<img src="https://img.shields.io/badge/2019--2021-0F766E?style=flat-square">
-
-**Bachelor of Design — Architecture**
-
-Started with architectural design before moving into computing.
-
-`Architecture` · `Design` · `Spatial Thinking`
-
-<br>
+My first field was architectural design. It gave me a different way of looking at structure, constraints and how people use what we build.
 
 ### UNSW Sydney
+**Late 2021–Sep 2024 · Computer Science**
 
-<img src="https://img.shields.io/badge/Late%202021--Sep%202024-0369A1?style=flat-square">
-
-**Computer Science**
-
-Focused on programming, algorithms and software development.
-
-`Programming` · `Algorithms` · `Software Development`
-
-<br>
+Moved fully into computing, with a focus on programming, algorithms and software development.
 
 ### University of Melbourne
+**2025 · Graduate Research Stage — Computing and Information Systems**
 
-<img src="https://img.shields.io/badge/2025-6D28D9?style=flat-square">
+Research interests were around **Human AI, Social Computing and Human–Computer Interaction**.
 
-**Graduate Research Stage — Computing and Information Systems**
-
-Research interests around:
-
-**Human AI · Social Computing · Human–Computer Interaction**
-
-I was mainly interested in the human side of AI: how people use it, trust it and interact with increasingly intelligent systems.
+The part I cared about most was how people actually deal with AI — trust, control, interaction and the role intelligent systems play in digital environments.
 
 <details>
-<summary><b>Related research areas</b></summary>
-
-<br>
-
-Related University of Melbourne research includes:
+<summary><b>Related University of Melbourne research</b></summary>
 
 - Assisted Decision-Making
 - AI Risk Communication
@@ -106,21 +63,14 @@ Related University of Melbourne research includes:
 - Human-Agent Collaboration
 - Explainable Artificial Intelligence
 
-These are related research areas and projects, not projects I claim to have personally worked on.
+These are related University of Melbourne research areas and projects, not projects I claim to have personally worked on.
 
 </details>
 
-<br>
-
 ### Monash University
-
-<img src="https://img.shields.io/badge/2026-B91C1C?style=flat-square">
-
-**Master of Information Technology**
+**2026 · Master of Information Technology**
 
 Focused on practical software development, databases, full-stack applications, cloud systems and industry work.
-
-<br>
 
 <div align="center">
 
@@ -134,22 +84,11 @@ Focused on practical software development, databases, full-stack applications, c
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark"
-  alt="Development Stack"
-/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark" alt="Development">
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark" alt="Tools">
 
-<img
-  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark"
-  alt="Tools"
-/>
-
-<br><br>
-
-**Java · Python · JavaScript · React · Vue · FastAPI · Node.js**
-
+**Java · Python · JavaScript · React · Vue · FastAPI · Node.js**  
 **MySQL · PostgreSQL · MongoDB · Docker · Git**
 
 </div>
@@ -158,45 +97,35 @@ Focused on practical software development, databases, full-stack applications, c
 
 ## Interests
 
-### Artificial Intelligence
+### AI
 
-I follow **generative AI, agents and automation** pretty closely.
-
-What interests me most is seeing AI move from demos into things people actually use.
+I follow **generative AI, agents and automation**, especially tools that can become part of real software rather than staying as demos.
 
 `Generative AI` · `Agents` · `Automation`
 
-<br>
-
 ### Blockchain
 
-I'm interested in blockchain as infrastructure, not just cryptocurrency.
-
-The parts I pay attention to are **smart contracts, decentralised systems and on-chain applications**.
+I'm more interested in the infrastructure side than crypto prices — **smart contracts, decentralised systems and on-chain applications**.
 
 `Blockchain` · `Smart Contracts` · `Decentralised Systems`
 
-<br>
-
 ### Web3+
 
-I'm curious about where the web goes next — especially **digital ownership, dApps, decentralised identity** and newer ideas beyond Web3.
+I'm curious about how the web changes around **ownership, identity and decentralisation**, from Web3 to newer ideas that may come after it.
 
 `Web3` · `dApps` · `Digital Ownership` · `Decentralised Identity`
 
-<br>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-111827?style=flat-square">
+<img src="https://img.shields.io/badge/GENERATIVE_AI-0F172A?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/AI%20AGENTS-1E3A8A?style=flat-square">
+<img src="https://img.shields.io/badge/AI_AGENTS-1E3A8A?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/BLOCKCHAIN-312E81?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/WEB3-1D4ED8?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/DECENTRALISED%20WEB-0E7490?style=flat-square">
+<img src="https://img.shields.io/badge/DECENTRALISED_WEB-0E7490?style=flat-square">
 
 </div>
 
@@ -208,88 +137,67 @@ I'm curious about where the web goes next — especially **digital ownership, dA
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
-  width="90%"
+  width="94%"
   alt="GitHub Cultivation"
 />
-
-<br><br>
-
-**BUILD** &nbsp;&nbsp;·&nbsp;&nbsp; **TEST** &nbsp;&nbsp;·&nbsp;&nbsp; **LEARN** &nbsp;&nbsp;·&nbsp;&nbsp; **ITERATE**
 
 </div>
 
 ---
 
-## A Quote I Keep Around
-
-<br>
+## Hideo Kojima
 
 <table width="100%">
 <tr>
-
-<td width="42%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img
   src="./hideo_kojima.png"
-  width="320"
+  width="100%"
   alt="Hideo Kojima"
 />
 
 </td>
-
-<td width="58%" valign="middle">
+<td width="50%" valign="middle">
 
 <h2>
-“I'm not interested in technology itself.<br><br>
+“I'm not interested in technology itself.<br>
 I'm interested in what it can do.”
 </h2>
 
-<br>
+<h3>— Hideo Kojima</h3>
 
-<b>— Hideo Kojima</b>
+<p>
+That's also what keeps me interested in tech.
+</p>
 
-<br><br>
-
-That's probably the simplest way to describe why I like tech.
+<p>
+AI, blockchain or whatever comes next — the name matters less than what you can actually make with it.
+</p>
 
 </td>
-
 </tr>
 </table>
-
-<br>
 
 ---
 
 <div align="center">
 
-<br>
-
-### WZ_CRYPT
+## WZ_CRYPT
 
 **Peter Benjamin Parker · Weihou Zeng**
-
-<br>
 
 <a href="https://github.com/PeterZG">
   <img src="https://img.shields.io/badge/GitHub-PeterZG-111827?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 &nbsp;
-
 <a href="mailto:weihouzeng@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-312E81?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
-<br><br>
-
-<sub>Still building.</sub>
-
-<br><br><br>
 
 </div>
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:172033,50:111827,100:070B14"
+  src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:0E7490,45:312E81,100:08111F"
 />
