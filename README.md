@@ -1,21 +1,31 @@
+<!-- ====================================================== -->
+<!--                       WZ_CRYPT                         -->
+<!-- ====================================================== -->
+
 <div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=145&color=0:F3F5F6,30:D9E0E3,67:9EACB4,100:53636C&text=WZ_CRYPT&fontSize=62&fontColor=0A0C0E&fontFamily=Georgia&fontAlignY=51&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=slice&height=42&section=header&reversal=true&color=0:111418,45:526773,75:AAB8BF,100:E8ECEE"
+  width="100%"
+  alt=""
+/><img
+  src="https://capsule-render.vercel.app/api?type=venom&height=138&color=0:F3F5F6,32:DCE3E6,68:9AAAB2,100:536771&text=WZ_CRYPT&fontSize=61&fontColor=090B0D&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
 />
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-17191C?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-181A1D?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=596A73&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=526773&style=flat-square">
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
   width="100%"
   alt="Cyberpunk"
 />
+
 </div>
 
 ---
@@ -28,17 +38,22 @@ I like the parts behind the interface — **APIs, databases, application logic a
 
 ---
 
-<details>
-<summary><strong>Education</strong></summary>
+## Education
 
-<br>
+<details>
+<summary><strong>Open academic history</strong></summary>
 
 <table width="100%">
+
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>University of Melbourne</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:111820,100:354955&text=University%20of%20Melbourne&fontSize=21&fontColor=E8EDF0&fontFamily=Georgia"
+  width="100%"
+  alt="University of Melbourne"
+/>
 
 <strong>2019 — 2021</strong>
 
@@ -48,13 +63,18 @@ I like the parts behind the interface — **APIs, databases, application logic a
 
 <br><br>
 
-Architecture · Spatial Design
+`Architecture` · `Spatial Design`  
+`Design Thinking` · `Built Environment`
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>UNSW Sydney</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:101820,100:28465A&text=UNSW%20Sydney&fontSize=22&fontColor=E8EDF0&fontFamily=Georgia"
+  width="100%"
+  alt="UNSW Sydney"
+/>
 
 <strong>Late 2021 — Sep 2024</strong>
 
@@ -64,7 +84,8 @@ Architecture · Spatial Design
 
 <br><br>
 
-Programming · Algorithms · Software Development
+`Programming` · `Algorithms`  
+`Software Development` · `Computer Science`
 
 </td>
 
@@ -72,9 +93,13 @@ Programming · Algorithms · Software Development
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>University of Melbourne</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:15191D,100:3E4C53&text=University%20of%20Melbourne&fontSize=21&fontColor=E8EDF0&fontFamily=Georgia"
+  width="100%"
+  alt="University of Melbourne Research"
+/>
 
 <strong>2025</strong>
 
@@ -84,13 +109,21 @@ Programming · Algorithms · Software Development
 
 <br><br>
 
-Research context: <strong>Human AI / HCI</strong>, closest to Melbourne work such as <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
+`Human AI` · `HCI`
+
+<sub>
+Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Control
+</sub>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-<h3>Monash University</h3>
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:15181B,100:45545B&text=Monash%20University&fontSize=22&fontColor=E8EDF0&fontFamily=Georgia"
+  width="100%"
+  alt="Monash University"
+/>
 
 <strong>2026</strong>
 
@@ -100,11 +133,13 @@ Research context: <strong>Human AI / HCI</strong>, closest to Melbourne work suc
 
 <br><br>
 
-Full-Stack Development · Databases · Cloud · Industry Practice
+`Full Stack` · `Databases`  
+`Cloud` · `Industry Practice`
 
 </td>
 
 </tr>
+
 </table>
 
 </details>
@@ -119,17 +154,13 @@ Full-Stack Development · Databases · Cloud · Industry Practice
 
 <img
   src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp,bash,wasm&theme=dark&perline=9"
-  width="92%"
+  width="94%"
   alt="Programming Languages"
 />
 
-<br>
-
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
-<img src="https://img.shields.io/badge/Assembly-252A30?style=for-the-badge">
-<img src="https://img.shields.io/badge/MIPS-3D474D?style=for-the-badge">
-
-<br><br>
+<img src="https://img.shields.io/badge/Assembly-202428?style=for-the-badge">
+<img src="https://img.shields.io/badge/MIPS-39434A?style=for-the-badge">
 
 ### Web · Backend · Data
 
@@ -139,17 +170,12 @@ Full-Stack Development · Databases · Cloud · Industry Practice
   alt="Web Backend and Data"
 />
 
-<br><br>
-
 ### AI · Models · Tools
 
-<img src="https://img.shields.io/badge/OpenAI-101010?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/Claude-1B1B1B?style=for-the-badge&logo=anthropic&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/Gemini-27364A?style=for-the-badge&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Hugging%20Face-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
-
-<br>
-
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-31363B?style=for-the-badge&logo=tensorflow&logoColor=FF9A00">
@@ -161,11 +187,27 @@ Full-Stack Development · Databases · Cloud · Industry Practice
 
 ## Interests
 
-> **Artificial Intelligence** — Generative AI · Agents · Automation · Applied AI
+<div align="center">
 
-> **Blockchain** — Smart Contracts · Decentralised Systems · On-chain Applications
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:111418,100:26343D&text=Artificial%20Intelligence&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=Generative%20AI%20%C2%B7%20Agents%20%C2%B7%20Automation&descSize=15&descAlignY=72"
+  width="100%"
+  alt="Artificial Intelligence"
+/>
 
-> **Web3+** — dApps · Digital Ownership · Decentralised Identity · Emerging Web Technologies
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:15191D,100:35434A&text=Blockchain&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=Smart%20Contracts%20%C2%B7%20Decentralised%20Systems%20%C2%B7%20On-chain%20Applications&descSize=15&descAlignY=72"
+  width="100%"
+  alt="Blockchain"
+/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:1A1E22,100:46565E&text=Web3%2B&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=dApps%20%C2%B7%20Digital%20Ownership%20%C2%B7%20Decentralised%20Identity&descSize=15&descAlignY=72"
+  width="100%"
+  alt="Web3+"
+/>
+
+</div>
 
 ---
 
@@ -174,7 +216,7 @@ Full-Stack Development · Databases · Cloud · Industry Practice
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=12"
+  src="https://github-profile-trophy.vercel.app/?username=PeterZG&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10"
   width="100%"
   alt="GitHub Achievements"
 />
@@ -189,7 +231,7 @@ Full-Stack Development · Databases · Cloud · Industry Practice
 
 ---
 
-## Hideo Kojima
+## On Technology
 
 <table width="100%">
 <tr>
@@ -204,21 +246,13 @@ Full-Stack Development · Databases · Cloud · Industry Practice
 
 </td>
 
-<td width="50%" align="center" valign="middle" height="360">
+<td width="50%" align="center" valign="middle">
 
-<h2>
-“I'm not interested in<br>
-technology itself.
-</h2>
-
-<h2>
-I'm interested in<br>
-what it can do.”
-</h2>
-
-<br>
-
-<strong>— Hideo Kojima</strong>
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:060708,48:111416,100:242A2E&text=%E2%80%9CI%27m%20not%20interested%20in-nl-technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=43&fontColor=E3E7E9&fontFamily=Georgia&fontAlignY=43&desc=%E2%80%94%20Hideo%20Kojima&descSize=22&descAlignY=82"
+  width="100%"
+  alt="Hideo Kojima Quote"
+/>
 
 </td>
 
@@ -226,7 +260,7 @@ what it can do.”
 </table>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=slice&height=90&section=footer&reversal=true&color=0:53636C,48:9EACB4,100:E6EBED"
+  src="https://capsule-render.vercel.app/api?type=slice&height=76&section=footer&color=0:111418,45:526773,75:AAB8BF,100:E8ECEE"
   width="100%"
   alt=""
 />
