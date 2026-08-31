@@ -66,7 +66,7 @@ I like working behind the interface — **APIs, databases, application logic and
 <em>Architecture</em>
 
 <p>
-Architecture studio, spatial design, visual communication and design development.
+My first degree was in architecture, with studio work in spatial design, visual communication and the built environment.
 </p>
 
 <code>Architecture</code>
@@ -90,7 +90,7 @@ Architecture studio, spatial design, visual communication and design development
 <em>Computer Science</em>
 
 <p>
-Programming, algorithms, software development and core computing.
+I then moved fully into computing, focusing on programming, algorithms, software development and core computer science.
 </p>
 
 <code>Programming</code>
@@ -113,16 +113,17 @@ Programming, algorithms, software development and core computing.
 
 <h2>2025</h2>
 
-<h3>Graduate Research Stage</h3>
+<h3>Research Master's-stage Study</h3>
 
 <em>Computing and Information Systems</em>
 
 <p>
-The research stage sat around Melbourne's Human AI / HCI work, including <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
+This research-stage year sat closest to Melbourne's Human AI / HCI work, including themes such as <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
 </p>
 
 <code>Human AI</code>
 <code>HCI</code>
+<code>Social Modelling Context</code>
 
 </td>
 
@@ -141,7 +142,7 @@ The research stage sat around Melbourne's Human AI / HCI work, including <em>Ass
 <em>Information Technology</em>
 
 <p>
-Full-stack development, databases, cloud technologies and industry-based software work.
+My current study focuses on full-stack development, databases, cloud technologies and applied industry work.
 </p>
 
 <code>Full Stack</code>
@@ -241,16 +242,16 @@ dApps & Decentralised Identity
 ## GitHub
 
 <details>
-<summary><strong>Profile Stats · 修仙记录</strong></summary>
+<summary><strong>Profile Overview · 修仙记录</strong></summary>
 
 <br>
 
 <div align="center">
 
 <img
-  src="https://kgnio-profile-card.vercel.app/api/card?user=PeterZG&theme=ice"
-  width="82%"
-  alt="GitHub Profile Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&theme=default"
+  width="100%"
+  alt="GitHub Profile Overview"
 />
 
 <br>
@@ -269,19 +270,27 @@ dApps & Decentralised Identity
 
 ## On Technology
 
-<div align="center">
+<table width="100%">
+<tr>
 
+<td width="50%" valign="top">
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="49.5%"
+  width="100%"
   alt="Hideo Kojima"
-/><img
-  src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=36&duration=1&pause=999999&color=DDE3E7&background=0B0F13&center=true&vCenter=true&multiline=true&repeat=false&width=1024&height=768&lines=%E2%80%9CI%27m+not+interested+in;technology+itself.;%20;I%27m+interested+in;what+it+can+do.%E2%80%9D;%20;%E2%80%94+Hideo+Kojima"
-  width="49.5%"
+/>
+</td>
+
+<td width="50%" valign="top">
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=768&width=1024&color=0:050607,45:101316,100:22282C&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=48&fontColor=E4E7E9&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
+  width="100%"
   alt="Hideo Kojima Quote"
 />
+</td>
 
-</div>
+</tr>
+</table>
 
 <div align="center">
 
