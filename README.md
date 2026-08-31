@@ -278,50 +278,30 @@ dApps & Decentralised Identity
 
 ## On Technology
 
-<table width="100%" cellspacing="0" cellpadding="0">
-
-<tr>
-
-<td
-  width="50%"
-  align="center"
-  valign="middle"
-  bgcolor="#000000"
->
+<div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="100%"
+  src="https://images.weserv.nl/?url=raw.githubusercontent.com%2FPeterZG%2FPeterZG%2Fmain%2Fhideo_kojima.png&w=640&h=480&fit=cover&output=png"
+  width="49.5%"
   alt="Hideo Kojima"
-/>
-
-</td>
-
-<td
-  width="50%"
-  align="center"
-  valign="middle"
-  bgcolor="#20272B"
->
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,45:101316,100:20272B&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=49&fontColor=E4E7E9&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
-  width="100%"
+/><img
+  src="https://images.weserv.nl/?url=https%3A%2F%2Fcapsule-render.vercel.app%2Fapi%3Ftype%3Drect%26height%3D900%26color%3D0%3A07090B%2C55%3A13181C%2C100%3A20272B%26text%3D%25E2%2580%259CI%2527m%2520not%2520interested-nl-in%2520technology%2520itself.-nl--nl-I%2527m%2520interested%2520in-nl-what%2520it%2520can%2520do.%25E2%2580%259D%26fontSize%3D50%26fontColor%3DE9ECEF%26fontFamily%3DGeorgia%26fontAlignY%3D42%26desc%3D%25E2%2580%2594%2520Hideo%2520Kojima%26descSize%3D24%26descAlignY%3D82&w=640&h=480&fit=cover&output=png"
+  width="49.5%"
   alt="Hideo Kojima Quote"
 />
 
-</td>
-
-</tr>
-
-</table>
+</div>
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:202A30,35:52656E,68:A5B4BB,100:E7ECEE"
+  src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:111518,50:73848D,100:DCE3E6"
   width="100%"
-  alt="Footer"
+  alt=""
+/><img
+  src="https://capsule-render.vercel.app/api?type=venom&height=115&section=footer&reversal=true&color=0:080A0B,35:2B363C,68:788B94,100:E8ECEE"
+  width="100%"
+  alt=""
 />
 
 </div>
