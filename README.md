@@ -5,16 +5,22 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=145&section=header&color=0:F7F9FA,34:DDE5E8,68:A6B5BC,100:53656E&text=WZ_CRYPT&fontSize=64&fontColor=08090A&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=145&section=header&color=0:F6F8F9,30:DCE3E6,66:A2B1B8,100:52656E&text=WZ_CRYPT&fontSize=64&fontColor=080A0B&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
 />
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-181A1D?style=flat-square&logo=github&logoColor=white"></a>
-<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=53656E&style=flat-square">
+<a href="https://github.com/PeterZG">
+  <img src="https://img.shields.io/badge/GitHub-181A1D?style=flat-square&logo=github&logoColor=white">
+</a>
+&nbsp;
+<a href="mailto:weihouzeng@gmail.com">
+  <img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white">
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=52656E&style=flat-square">
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
@@ -37,7 +43,7 @@ I like working behind the interface — **APIs, databases, application logic and
 ## Education
 
 <details>
-<summary><strong>Show academic history</strong></summary>
+<summary><strong>Academic History</strong></summary>
 
 <br>
 
@@ -45,39 +51,48 @@ I like working behind the interface — **APIs, databases, application logic and
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=62&color=0:101417,100:3A4A52&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=27&fontColor=F0F3F4&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:101417,100:34464F&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne"
 />
 
-<h3>2019 — 2021</h3>
+<h2>2019 — 2021</h2>
 
-<strong>Bachelor of Design — Architecture</strong>
+<strong>Bachelor of Design</strong><br>
+<em>Architecture</em>
 
-<br>
+<p>
+My first field was architectural design, with studio work around space, structure, visual communication and the way people use designed environments.
+</p>
 
-Architecture · Spatial Design · Design Studio
+<code>Architecture</code>
+<code>Spatial Design</code>
+<code>Design Studio</code>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=62&color=0:101417,100:314B59&text=UNSW%20SYDNEY&fontSize=28&fontColor=F0F3F4&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:101417,100:304A57&text=UNSW%20SYDNEY&fontSize=25&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="UNSW Sydney"
 />
 
-<h3>Late 2021 — Sep 2024</h3>
+<h2>Late 2021 — Sep 2024</h2>
 
 <strong>Bachelor of Computer Science</strong>
 
-<br>
+<p>
+This was the move into computing — programming, algorithms, software development and the foundations of computer science.
+</p>
 
-Programming · Algorithms · Software Development
+<code>Programming</code>
+<code>Algorithms</code>
+<code>Software Development</code>
 
 </td>
 
@@ -85,43 +100,47 @@ Programming · Algorithms · Software Development
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=62&color=0:111518,100:404C52&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=27&fontColor=F0F3F4&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:111518,100:3C494F&text=UNIVERSITY%20OF%20MELBOURNE&fontSize=24&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne Research"
 />
 
-<h3>2025</h3>
+<h2>2025</h2>
 
-<strong>Graduate Research — Computing and Information Systems</strong>
+<strong>Graduate Research Stage</strong><br>
+<em>Computing and Information Systems</em>
 
-<br>
+<p>
+A research-stage year closest to Melbourne's Human AI / HCI work, including <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
+</p>
 
-Human AI · Human–Computer Interaction
-
-<br>
-
-Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Control
+<code>Human AI</code>
+<code>HCI</code>
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=62&color=0:111518,100:46575F&text=MONASH%20UNIVERSITY&fontSize=28&fontColor=F0F3F4&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=rect&height=60&color=0:111518,100:465861&text=MONASH%20UNIVERSITY&fontSize=25&fontColor=EEF1F2&fontFamily=Georgia"
   width="100%"
   alt="Monash University"
 />
 
-<h3>2026</h3>
+<h2>2026</h2>
 
 <strong>Master of Information Technology</strong>
 
-<br>
+<p>
+Applied work across full-stack development, databases, cloud technologies and industry-based software projects.
+</p>
 
-Full Stack · Databases · Cloud · Industry Practice
+<code>Full Stack</code>
+<code>Databases</code>
+<code>Cloud</code>
 
 </td>
 
@@ -145,9 +164,15 @@ Full Stack · Databases · Cloud · Industry Practice
   alt="Programming Languages"
 />
 
+<br>
+
 <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/Assembly-202428?style=for-the-badge">
+&nbsp;
 <img src="https://img.shields.io/badge/MIPS-39434A?style=for-the-badge">
+
+<br><br>
 
 ### Web · Backend · Data
 
@@ -157,16 +182,26 @@ Full Stack · Databases · Cloud · Industry Practice
   alt="Web Backend Data"
 />
 
+<br><br>
+
 ### AI · Models · Tools
 
 <img src="https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/Gemini-27364A?style=for-the-badge&logo=googlegemini&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/Hugging%20Face-333333?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
 
+<br>
+
 <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/GitHub%20Copilot-24292F?style=for-the-badge&logo=githubcopilot&logoColor=white">
+&nbsp;
 <img src="https://img.shields.io/badge/TensorFlow-31363B?style=for-the-badge&logo=tensorflow&logoColor=FF9A00">
+&nbsp;
 <img src="https://img.shields.io/badge/PyTorch-3F454A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
 
 </div>
@@ -179,19 +214,19 @@ Full Stack · Databases · Cloud · Industry Practice
 
 <h2>
 Artificial Intelligence
-&nbsp;&nbsp; ◆ &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 Blockchain
-&nbsp;&nbsp; ◆ &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 Web3+
 </h2>
 
-<h3>
+<p>
 Generative AI & Agents
 &nbsp;&nbsp; · &nbsp;&nbsp;
 Smart Contracts & Decentralised Systems
 &nbsp;&nbsp; · &nbsp;&nbsp;
 dApps & Decentralised Identity
-</h3>
+</p>
 
 </div>
 
@@ -199,13 +234,20 @@ dApps & Decentralised Identity
 
 ## GitHub
 
+<details>
+<summary><strong>Stats & Cultivation</strong></summary>
+
+<br>
+
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&theme=transparent&title_color=111827&text_color=374151&bg_color=F4F6F8&border_color=D7DEE2&icon_color=53656E&chart_color=718791"
-  width="100%"
-  alt="GitHub Profile Summary"
+  src="https://github-readme-stats.vercel.app/api?username=PeterZG&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EAED&text_color=AEB7BE&icon_color=8499A3&include_all_commits=true"
+  width="64%"
+  alt="GitHub Stats"
 />
+
+<br>
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
@@ -214,6 +256,8 @@ dApps & Decentralised Identity
 />
 
 </div>
+
+</details>
 
 ---
 
@@ -226,8 +270,8 @@ dApps & Decentralised Identity
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="460"
-  height="345"
+  width="100%"
+  height="360"
   alt="Hideo Kojima"
 />
 
@@ -236,9 +280,9 @@ dApps & Decentralised Identity
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,48:101316,100:242A2E&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=40&fontColor=E2E6E8&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=22&descAlignY=82"
-  width="460"
-  height="345"
+  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,45:101316,100:22282C&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=49&fontColor=E4E7E9&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
+  width="100%"
+  height="360"
   alt="Hideo Kojima Quote"
 />
 
@@ -247,8 +291,12 @@ dApps & Decentralised Identity
 </tr>
 </table>
 
+<div align="center">
+
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=105&section=footer&reversal=true&color=0:F7F9FA,34:DDE5E8,68:A6B5BC,100:53656E"
+  src="https://capsule-render.vercel.app/api?type=venom&height=110&section=footer&reversal=true&color=0:F6F8F9,30:DCE3E6,66:A2B1B8,100:52656E"
   width="100%"
   alt=""
 />
+
+</div>
