@@ -1,6 +1,11 @@
-<div align="center">
+<!-- ===================== WZ_CRYPT ===================== -->
 
-<img src="./assets/wzcrypt-header.svg" width="100%" alt="WZ_Crypt">
+<div align="center">
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=145&color=0:050816,38:172554,72:3B1D6E,100:0E7490&text=WZ_CRYPT&fontSize=62&fontColor=E6EDF3&fontAlignY=51&fontFamily=Trebuchet%20MS&animation=twinkling"
+  width="100%"
+  alt="WZ_Crypt"
+/>
 
 ### Peter Benjamin Parker · Weihou Zeng
 
@@ -14,23 +19,20 @@
   <img src="https://img.shields.io/badge/Email-Contact-312E81?style=flat-square&logo=gmail&logoColor=white">
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=0891B2&style=flat-square">
-
-<img src="./chill.gif" width="100%" alt="Cyberpunk">
-
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=0E7490&style=flat-square">
 </div>
 
 ---
 
 ## About
 
-Hi, I'm **Weihou**. I also use **Peter Benjamin Parker** online.
+I started out in architecture, moved into computer science, and eventually found myself spending most of my time building software.
 
-I started with architecture, later moved into computer science, and now mainly work around **full-stack development and backend systems**.
+I enjoy the backend side of things most — **APIs, databases, application logic and integration**. Outside day-to-day development, I keep a close eye on **AI, blockchain and how the web is evolving**.
 
-I spend most of my tech time on **AI, blockchain and newer web technologies**, while still enjoying the practical side of software — APIs, databases and getting different parts of an application to work together.
-
-`Java` · `Python` · `JavaScript` · `React` · `Vue` · `FastAPI` · `SQL`
+<div align="center">
+<img src="./chill.gif" width="100%" alt="Cyberpunk">
+</div>
 
 ---
 
@@ -39,22 +41,22 @@ I spend most of my tech time on **AI, blockchain and newer web technologies**, w
 ### University of Melbourne
 **2019–2021 · Bachelor of Design — Architecture**
 
-My first field was architectural design. It gave me a different way of looking at structure, constraints and how people use what we build.
+Started with architectural design, with a focus on space, structure and how people interact with what we build.
 
 ### UNSW Sydney
 **Late 2021–Sep 2024 · Computer Science**
 
-Moved fully into computing, with a focus on programming, algorithms and software development.
+Moved into computing and software development, covering programming, algorithms and core computer science.
 
 ### University of Melbourne
 **2025 · Graduate Research Stage — Computing and Information Systems**
 
-Research interests were around **Human AI, Social Computing and Human–Computer Interaction**.
-
-The part I cared about most was how people actually deal with AI — trust, control, interaction and the role intelligent systems play in digital environments.
+Research interests around **Human AI, Social Computing and Human–Computer Interaction** — particularly trust, control and interaction between people and increasingly intelligent systems.
 
 <details>
-<summary><b>Related University of Melbourne research</b></summary>
+<summary><b>Related research at the University of Melbourne</b></summary>
+
+<br>
 
 - Assisted Decision-Making
 - AI Risk Communication
@@ -63,20 +65,14 @@ The part I cared about most was how people actually deal with AI — trust, cont
 - Human-Agent Collaboration
 - Explainable Artificial Intelligence
 
-These are related University of Melbourne research areas and projects, not projects I claim to have personally worked on.
+<sub>These are related research areas and projects, not projects I claim to have personally worked on.</sub>
 
 </details>
 
 ### Monash University
 **2026 · Master of Information Technology**
 
-Focused on practical software development, databases, full-stack applications, cloud systems and industry work.
-
-<div align="center">
-
-`ARCHITECTURE → CS → AI RESEARCH → IT`
-
-</div>
+Applied software development, databases, full-stack systems, cloud technologies and industry work.
 
 ---
 
@@ -84,12 +80,20 @@ Focused on practical software development, databases, full-stack applications, c
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark" alt="Development">
+<img
+  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark"
+  alt="Development Stack"
+/>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark" alt="Tools">
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark"
+  alt="Tools"
+/>
 
-**Java · Python · JavaScript · React · Vue · FastAPI · Node.js**  
-**MySQL · PostgreSQL · MongoDB · Docker · Git**
+<br>
+
+`Java` · `Python` · `JavaScript` · `React` · `Vue` · `FastAPI` · `Node.js`  
+`MySQL` · `PostgreSQL` · `MongoDB` · `Docker` · `Git`
 
 </div>
 
@@ -97,35 +101,23 @@ Focused on practical software development, databases, full-stack applications, c
 
 ## Interests
 
-### AI
+**AI** — Generative models, agents, automation and tools that can actually become part of useful software.
 
-I follow **generative AI, agents and automation**, especially tools that can become part of real software rather than staying as demos.
+**Blockchain** — Smart contracts, decentralised infrastructure and on-chain applications.
 
-`Generative AI` · `Agents` · `Automation`
-
-### Blockchain
-
-I'm more interested in the infrastructure side than crypto prices — **smart contracts, decentralised systems and on-chain applications**.
-
-`Blockchain` · `Smart Contracts` · `Decentralised Systems`
-
-### Web3+
-
-I'm curious about how the web changes around **ownership, identity and decentralisation**, from Web3 to newer ideas that may come after it.
-
-`Web3` · `dApps` · `Digital Ownership` · `Decentralised Identity`
+**Web3+** — dApps, digital ownership, decentralised identity and whatever comes after today's platform-heavy web.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GENERATIVE_AI-0F172A?style=flat-square">
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-111827?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/AI_AGENTS-1E3A8A?style=flat-square">
+<img src="https://img.shields.io/badge/AI%20AGENTS-172554?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/BLOCKCHAIN-312E81?style=flat-square">
 &nbsp;
 <img src="https://img.shields.io/badge/WEB3-1D4ED8?style=flat-square">
 &nbsp;
-<img src="https://img.shields.io/badge/DECENTRALISED_WEB-0E7490?style=flat-square">
+<img src="https://img.shields.io/badge/DECENTRALISED%20WEB-0E7490?style=flat-square">
 
 </div>
 
@@ -134,13 +126,11 @@ I'm curious about how the web changes around **ownership, identity and decentral
 ## GitHub Cultivation
 
 <div align="center">
-
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
-  width="94%"
+  width="96%"
   alt="GitHub Cultivation"
 />
-
 </div>
 
 ---
@@ -149,43 +139,29 @@ I'm curious about how the web changes around **ownership, identity and decentral
 
 <table width="100%">
 <tr>
-<td width="50%" align="center" valign="middle">
 
+<td width="44%" align="center" valign="middle">
 <img
   src="./hideo_kojima.png"
   width="100%"
   alt="Hideo Kojima"
 />
-
 </td>
-<td width="50%" valign="middle">
 
-<h2>
-“I'm not interested in technology itself.<br>
-I'm interested in what it can do.”
-</h2>
-
-<h3>— Hideo Kojima</h3>
-
-<p>
-That's also what keeps me interested in tech.
-</p>
-
-<p>
-AI, blockchain or whatever comes next — the name matters less than what you can actually make with it.
-</p>
-
+<td width="56%" align="center" valign="middle">
+<img
+  src="https://quotes-github-readme.vercel.app/api?quote=I'm%20not%20interested%20in%20technology%20itself.%20I'm%20interested%20in%20what%20it%20can%20do.&author=Hideo%20Kojima&theme=radical&type=horizontal"
+  width="100%"
+  alt="Hideo Kojima Quote"
+/>
 </td>
+
 </tr>
 </table>
 
 ---
 
 <div align="center">
-
-## WZ_CRYPT
-
-**Peter Benjamin Parker · Weihou Zeng**
 
 <a href="https://github.com/PeterZG">
   <img src="https://img.shields.io/badge/GitHub-PeterZG-111827?style=for-the-badge&logo=github&logoColor=white">
@@ -196,8 +172,3 @@ AI, blockchain or whatever comes next — the name matters less than what you ca
 </a>
 
 </div>
-
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=85&section=footer&color=0:0E7490,45:312E81,100:08111F"
-/>
