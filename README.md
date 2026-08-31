@@ -1,72 +1,95 @@
 <div align="center">
 <img
-  src="https://scribesvg.vercel.app/api/render?lines=WZ_CRYPT&layout=raw&font=Bodoni%20Moda&size=72&gradient=050505,17191C,374151,0A0A0B&background=D7E1E5&cursor=none&speed=55&deleteSpeed=999999&pause=12000&textGlow=0&center=true&attribution=false"
+  src="https://capsule-render.vercel.app/api?type=venom&height=138&color=0:E9EFF2,48:B8C8D0,78:7F97A3,100:526773&text=WZ_CRYPT&fontSize=58&fontColor=101316&fontFamily=Segoe%20UI&fontAlignY=50&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
-/><img
-  src="https://gradient-svg-generator.vercel.app/api/svg?template=fog-rolling&height=32&duration=12s&color0=D7E1E5&color1=8296A3&color2=1E2B34"
-  width="100%"
-  alt=""
-/><img
-  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
-  width="100%"
-  alt="Cyberpunk"
 />
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-17191C?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-181A1D?style=flat-square&logo=github&logoColor=white"></a>
 <a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=52616B&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=526773&style=flat-square">
 
+<img
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
+  width="100%"
+  alt="Cyberpunk"
+/>
 </div>
 
 ---
 
 ## About
 
-I started in **architecture**, moved into **computer science**, and now mostly build full-stack applications with a backend focus.
+I started in **architecture**, moved into **computer science**, and now mostly work on full-stack applications with a backend focus.
 
-I like working on the parts behind the interface — **APIs, databases, application logic and integration**.
+I like the parts behind the interface — **APIs, databases, application logic and integration**.
 
 ---
 
-## Education
-
 <details>
-<summary><strong>View academic history</strong></summary>
+<summary><strong>Education</strong></summary>
 
 <br>
 
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 ### University of Melbourne
-**2019 — 2021**  
+
+**2019 — 2021**
+
 *Bachelor of Design — Architecture*
 
 Architecture and spatial design.
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### UNSW Sydney
-**Late 2021 — Sep 2024**  
-*Computer Science*
+
+**Late 2021 — Sep 2024**
+
+*Bachelor of Computer Science*
 
 Programming, algorithms and software development.
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### University of Melbourne
-**2025**  
-*Graduate Research — Computing and Information Systems*
 
-The research stage was connected with Melbourne's **Human AI / HCI** work, including *Assisted Decision-Making*, *AI Risk Communication* and *Balancing Autonomy and Control*.
+**2025**
 
----
+*Graduate Research Stage — Computing and Information Systems*
+
+The research stage was closest to Melbourne's **Human AI / HCI** work, particularly *Assisted Decision-Making*, *AI Risk Communication* and *Balancing Autonomy and Control*.
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Monash University
-**2026**  
+
+**2026**
+
 *Master of Information Technology*
 
-Full-stack development, databases, cloud systems and industry practice.
+Full-stack development, databases, cloud and industry practice.
+
+</td>
+
+</tr>
+</table>
 
 </details>
 
@@ -77,7 +100,7 @@ Full-stack development, databases, cloud systems and industry practice.
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs,mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=17"
+  src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs,mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=9"
   width="100%"
   alt="Tech Stack"
 />
@@ -88,21 +111,68 @@ Full-stack development, databases, cloud systems and industry practice.
 
 ## Interests
 
-### Artificial Intelligence
-Generative AI · Agents · Automation · Applied AI
+<table width="100%">
 
-### Blockchain
-Smart Contracts · Decentralised Systems · On-chain Applications
+<tr>
+<td width="28%" align="center">
 
-### Web3+
-dApps · Digital Ownership · Decentralised Identity · Emerging Web Technologies
+<img
+  src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-111418?style=for-the-badge"
+  width="90%"
+  alt="Artificial Intelligence"
+/>
+
+</td>
+
+<td width="72%" valign="middle">
+
+**Generative AI · Agents · Automation · Applied AI**
+
+</td>
+</tr>
+
+<tr>
+<td width="28%" align="center">
+
+<img
+  src="https://img.shields.io/badge/BLOCKCHAIN-252A30?style=for-the-badge"
+  width="90%"
+  alt="Blockchain"
+/>
+
+</td>
+
+<td width="72%" valign="middle">
+
+**Smart Contracts · Decentralised Systems · On-chain Applications**
+
+</td>
+</tr>
+
+<tr>
+<td width="28%" align="center">
+
+<img
+  src="https://img.shields.io/badge/WEB3%2B-465761?style=for-the-badge"
+  width="90%"
+  alt="Web3+"
+/>
+
+</td>
+
+<td width="72%" valign="middle">
+
+**dApps · Digital Ownership · Decentralised Identity**
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## GitHub
-
 <details>
-<summary><strong>Cultivation Mode · 修仙模式</strong></summary>
+<summary><strong>GitHub Cultivation · 修仙记录</strong></summary>
 
 <div align="center">
 
@@ -118,7 +188,7 @@ dApps · Digital Ownership · Decentralised Identity · Emerging Web Technologie
 
 ---
 
-## Favorite Quote
+## Perspective
 
 <div align="center">
 
@@ -127,7 +197,7 @@ dApps · Digital Ownership · Decentralised Identity · Emerging Web Technologie
   width="49.5%"
   alt="Hideo Kojima"
 /><img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:060708,48:101214,100:252A2F&text=%E2%80%9CI%27m%20not%20interested%20in%20technology%20itself.-nl--nl-I%27m%20interested%20in%20what%20it%20can%20do.%E2%80%9D&fontSize=39&fontColor=E4E7EA&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=22&descAlignY=78"
+  src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=34&duration=1&pause=999999&color=D9DEE3&background=090B0E&center=true&vCenter=true&multiline=true&repeat=false&width=1024&height=768&lines=%E2%80%9CI%27m+not+interested+in+technology+itself.%E2%80%9D;%E2%80%9CI%27m+interested+in+what+it+can+do.%E2%80%9D;%E2%80%94+Hideo+Kojima"
   width="49.5%"
   alt="Hideo Kojima Quote"
 />
