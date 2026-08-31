@@ -1,15 +1,13 @@
-<!-- ====================================================== -->
-<!--                       WZ_CRYPT                         -->
-<!-- ====================================================== -->
+<!-- ========================= WZ_CRYPT ========================= -->
 
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=slice&height=42&section=header&reversal=true&color=0:111418,45:526773,75:AAB8BF,100:E8ECEE"
+  src="https://capsule-render.vercel.app/api?type=slice&height=46&section=header&color=0:E9EDF0,35:B7C4CA,68:70838D,100:202A30"
   width="100%"
   alt=""
 /><img
-  src="https://capsule-render.vercel.app/api?type=venom&height=138&color=0:F3F5F6,32:DCE3E6,68:9AAAB2,100:536771&text=WZ_CRYPT&fontSize=61&fontColor=090B0D&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=venom&height=140&color=0:F1F4F5,30:D7DEE1,67:9AABB3,100:536771&text=WZ_CRYPT&fontSize=62&fontColor=090A0B&fontFamily=Georgia&fontAlignY=50&animation=fadeIn"
   width="100%"
   alt="WZ Crypt"
 />
@@ -41,51 +39,42 @@ I like the parts behind the interface — **APIs, databases, application logic a
 ## Education
 
 <details>
-<summary><strong>Open academic history</strong></summary>
+<summary><strong>Explore academic background</strong></summary>
+
+<br>
 
 <table width="100%">
-
 <tr>
 
 <td width="50%" align="center" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:111820,100:354955&text=University%20of%20Melbourne&fontSize=21&fontColor=E8EDF0&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=soft&height=66&color=0:12171B,100:35454D&text=University%20of%20Melbourne&fontSize=20&fontColor=E7ECEE&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne"
 />
 
-<strong>2019 — 2021</strong>
+### 2019 — 2021
 
-<br>
+*Bachelor of Design — Architecture*
 
-<em>Bachelor of Design — Architecture</em>
-
-<br><br>
-
-`Architecture` · `Spatial Design`  
-`Design Thinking` · `Built Environment`
+**Architecture · Spatial Design**
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:101820,100:28465A&text=UNSW%20Sydney&fontSize=22&fontColor=E8EDF0&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=soft&height=66&color=0:12171B,100:314752&text=UNSW%20Sydney&fontSize=21&fontColor=E7ECEE&fontFamily=Georgia"
   width="100%"
   alt="UNSW Sydney"
 />
 
-<strong>Late 2021 — Sep 2024</strong>
+### Late 2021 — Sep 2024
 
-<br>
+*Bachelor of Computer Science*
 
-<em>Bachelor of Computer Science</em>
-
-<br><br>
-
-`Programming` · `Algorithms`  
-`Software Development` · `Computer Science`
+**Programming · Algorithms · Software Development**
 
 </td>
 
@@ -96,20 +85,16 @@ I like the parts behind the interface — **APIs, databases, application logic a
 <td width="50%" align="center" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:15191D,100:3E4C53&text=University%20of%20Melbourne&fontSize=21&fontColor=E8EDF0&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=soft&height=66&color=0:15191C,100:3B484E&text=University%20of%20Melbourne&fontSize=20&fontColor=E7ECEE&fontFamily=Georgia"
   width="100%"
   alt="University of Melbourne Research"
 />
 
-<strong>2025</strong>
+### 2025
 
-<br>
+*Graduate Research — Computing and Information Systems*
 
-<em>Graduate Research — Computing and Information Systems</em>
-
-<br><br>
-
-`Human AI` · `HCI`
+**Human AI · HCI**
 
 <sub>
 Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Control
@@ -120,26 +105,20 @@ Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Cont
 <td width="50%" align="center" valign="top">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=soft&height=72&color=0:15181B,100:45545B&text=Monash%20University&fontSize=22&fontColor=E8EDF0&fontFamily=Georgia"
+  src="https://capsule-render.vercel.app/api?type=soft&height=66&color=0:15191C,100:46555C&text=Monash%20University&fontSize=21&fontColor=E7ECEE&fontFamily=Georgia"
   width="100%"
   alt="Monash University"
 />
 
-<strong>2026</strong>
+### 2026
 
-<br>
+*Master of Information Technology*
 
-<em>Master of Information Technology</em>
-
-<br><br>
-
-`Full Stack` · `Databases`  
-`Cloud` · `Industry Practice`
+**Full Stack · Databases · Cloud · Industry Practice**
 
 </td>
 
 </tr>
-
 </table>
 
 </details>
@@ -189,23 +168,11 @@ Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Cont
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:111418,100:26343D&text=Artificial%20Intelligence&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=Generative%20AI%20%C2%B7%20Agents%20%C2%B7%20Automation&descSize=15&descAlignY=72"
-  width="100%"
-  alt="Artificial Intelligence"
-/>
+### **Artificial Intelligence**　／　**Blockchain**　／　**Web3+**
 
-<img
-  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:15191D,100:35434A&text=Blockchain&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=Smart%20Contracts%20%C2%B7%20Decentralised%20Systems%20%C2%B7%20On-chain%20Applications&descSize=15&descAlignY=72"
-  width="100%"
-  alt="Blockchain"
-/>
-
-<img
-  src="https://capsule-render.vercel.app/api?type=soft&height=82&color=0:1A1E22,100:46565E&text=Web3%2B&fontSize=26&fontColor=E7EAED&fontFamily=Georgia&desc=dApps%20%C2%B7%20Digital%20Ownership%20%C2%B7%20Decentralised%20Identity&descSize=15&descAlignY=72"
-  width="100%"
-  alt="Web3+"
-/>
+<sub>
+GENERATIVE AI & AGENTS　·　SMART CONTRACTS & DECENTRALISED SYSTEMS　·　DIGITAL OWNERSHIP & IDENTITY
+</sub>
 
 </div>
 
@@ -233,34 +200,24 @@ Assisted Decision-Making · AI Risk Communication · Balancing Autonomy and Cont
 
 ## On Technology
 
-<table width="100%">
-<tr>
-
-<td width="50%" align="center" valign="middle">
+<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="100%"
+  width="49.5%"
+  height="360"
   alt="Hideo Kojima"
-/>
-
-</td>
-
-<td width="50%" align="center" valign="middle">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:060708,48:111416,100:242A2E&text=%E2%80%9CI%27m%20not%20interested%20in-nl-technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=43&fontColor=E3E7E9&fontFamily=Georgia&fontAlignY=43&desc=%E2%80%94%20Hideo%20Kojima&descSize=22&descAlignY=82"
-  width="100%"
+/><img
+  src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&size=30&duration=1&pause=999999&color=E5E7E9&background=080A0C&center=true&vCenter=true&multiline=true&repeat=false&width=960&height=720&lines=%E2%80%9CI%27m+not+interested+in;%20technology+itself.;%20;%20I%27m+interested+in;%20what+it+can+do.%E2%80%9D;%20;%E2%80%94+Hideo+Kojima"
+  width="49.5%"
+  height="360"
   alt="Hideo Kojima Quote"
 />
 
-</td>
-
-</tr>
-</table>
+</div>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=slice&height=76&section=footer&color=0:111418,45:526773,75:AAB8BF,100:E8ECEE"
+  src="https://capsule-render.vercel.app/api?type=slice&height=76&section=footer&reversal=true&color=0:202A30,32:70838D,65:B7C4CA,100:E9EDF0"
   width="100%"
   alt=""
 />
