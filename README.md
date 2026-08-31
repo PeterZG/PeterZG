@@ -242,19 +242,22 @@ dApps & Decentralised Identity
 ## GitHub
 
 <details>
-<summary><strong>Profile Overview · 修仙记录</strong></summary>
-
-<br>
+<summary><strong>Profile</strong></summary>
 
 <div align="center">
 
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&theme=default"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PeterZG&name=PeterZG&theme=github_dark&title_color=F1F5F7&text_color=C7D1D6&bg_color=0B1014&border_color=2A363D&icon_color=8EABB8&chart_color=73C4D5&animation=draw&duration=2.2"
   width="100%"
-  alt="GitHub Profile Overview"
+  alt="GitHub Profile"
 />
 
-<br>
+</div>
+
+<details>
+<summary><strong>Cultivation Mode · 修仙模式</strong></summary>
+
+<div align="center">
 
 <img
   src="https://github-immortality.vercel.app/api?username=PeterZG"
@@ -266,35 +269,23 @@ dApps & Decentralised Identity
 
 </details>
 
+</details>
+
 ---
 
 ## On Technology
 
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-<img
-  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
-  width="100%"
-  alt="Hideo Kojima"
-/>
-</td>
-
-<td width="50%" valign="top">
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=768&width=1024&color=0:050607,45:101316,100:22282C&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=48&fontColor=E4E7E9&fontFamily=Georgia&fontAlignY=42&desc=%E2%80%94%20Hideo%20Kojima&descSize=24&descAlignY=82"
-  width="100%"
-  alt="Hideo Kojima Quote"
-/>
-</td>
-
-</tr>
-</table>
-
 <div align="center">
 
 <img
+  src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/hideo_kojima.png"
+  width="49.5%"
+  alt="Hideo Kojima"
+/><img
+  src="https://capsule-render.vercel.app/api?type=rect&height=675&color=0:050607,46:111518,100:20272B&text=%E2%80%9CI%27m%20not%20interested-nl-in%20technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=43&fontColor=E8ECEE&fontFamily=Georgia&fontAlignY=41&desc=%E2%80%94%20Hideo%20Kojima&descSize=22&descAlignY=82"
+  width="49.5%"
+  alt="Hideo Kojima Quote"
+/><img
   src="https://capsule-render.vercel.app/api?type=venom&height=105&section=footer&reversal=true&color=0:F5F7F8,30:DCE3E6,65:A5B4BB,100:52656E"
   width="100%"
   alt=""
