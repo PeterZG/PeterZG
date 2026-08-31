@@ -1,8 +1,12 @@
 <div align="center">
 <img
-  src="https://capsule-render.vercel.app/api?type=venom&height=125&color=0:020202,35:090A0C,68:191B1E,100:040404&text=WZ_Crypt&fontSize=60&fontColor=C8C1B5&fontFamily=Georgia&fontAlignY=51&stroke=454545&strokeWidth=1&animation=fadeIn"
+  src="https://scribesvg.vercel.app/api/render?lines=WZ_CRYPT&layout=card&font=Cormorant%20Garamond&size=58&gradient=08090B,343A40,111827&background=DCE5E9&cursor=none&speed=140&deleteSpeed=60&pause=6000&textGlow=0&center=true&attribution=false"
   width="100%"
   alt="WZ Crypt"
+/><img
+  src="https://gradient-svg-generator.vercel.app/api/svg?gradientType=fogRolling&height=34&duration=10s&color0=0B1320&color1=607785&color2=C9D6DC"
+  width="100%"
+  alt=""
 /><img
   src="https://raw.githubusercontent.com/PeterZG/PeterZG/main/chill.gif"
   width="100%"
@@ -11,9 +15,9 @@
 
 ### Peter Benjamin Parker · Weihou Zeng
 
-<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-171717?style=flat-square&logo=github&logoColor=white"></a>
-<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-30343B?style=flat-square&logo=gmail&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=4B5563&style=flat-square">
+<a href="https://github.com/PeterZG"><img src="https://img.shields.io/badge/GitHub-Profile-181A1D?style=flat-square&logo=github&logoColor=white"></a>
+<a href="mailto:weihouzeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-374151?style=flat-square&logo=gmail&logoColor=white"></a>
+<img src="https://komarev.com/ghpvc/?username=PeterZG&label=Views&color=52606D&style=flat-square">
 
 </div>
 
@@ -21,39 +25,39 @@
 
 ## About
 
-I started in architecture, switched to computer science, and ended up much happier building software.
+I started in **architecture**, switched to **computer science**, and eventually ended up building software.
 
-I lean toward backend work — **APIs, databases, application logic and integration**. Outside that, I keep up with **AI, blockchain and Web3** because those are the areas I genuinely enjoy following.
+Most of my development work leans toward the backend — **APIs, databases, application logic and integration**. I also keep a close eye on **AI, blockchain and Web3**.
 
 ---
 
 <details>
-<summary><b>Education</b> &nbsp; <sub>2019 — 2026</sub></summary>
-
-<br>
+<summary><strong>Education</strong> &nbsp; <sub>2019 — 2026</sub></summary>
 
 <table width="100%">
 <tr>
 
 <td width="50%" valign="top">
 
-<sub>2019 — 2021</sub>
+<h3>University of Melbourne</h3>
 
-### University of Melbourne
+<strong>2019 — 2021</strong><br>
+<em>Bachelor of Design — Architecture</em>
 
-*Bachelor of Design · Architecture*
+<br>
 
-Architecture, spatial design and people-centred thinking.
+Architecture and spatial design.
 
 </td>
 
 <td width="50%" valign="top">
 
-<sub>LATE 2021 — SEP 2024</sub>
+<h3>UNSW Sydney</h3>
 
-### UNSW Sydney
+<strong>Late 2021 — Sep 2024</strong><br>
+<em>Computer Science</em>
 
-*Computer Science*
+<br>
 
 Programming, algorithms and software development.
 
@@ -65,25 +69,27 @@ Programming, algorithms and software development.
 
 <td width="50%" valign="top">
 
-<sub>2025</sub>
+<h3>University of Melbourne</h3>
 
-### University of Melbourne
+<strong>2025</strong><br>
+<em>Graduate Research — Computing and Information Systems</em>
 
-*Graduate Research · Computing and Information Systems*
+<br>
 
-The 2025 research stage aligned with Melbourne's **Human AI / HCI** work, including *Assisted Decision-Making*, *AI Risk Communication* and *Balancing Autonomy and Control*.
+That year my graduate research sat around <strong>Human AI / HCI</strong>, close to Melbourne work such as <em>Assisted Decision-Making</em>, <em>AI Risk Communication</em> and <em>Balancing Autonomy and Control</em>.
 
 </td>
 
 <td width="50%" valign="top">
 
-<sub>2026</sub>
+<h3>Monash University</h3>
 
-### Monash University
+<strong>2026</strong><br>
+<em>Master of Information Technology</em>
 
-*Master of Information Technology*
+<br>
 
-Full-stack development, databases, cloud systems and industry practice.
+Full-stack development, databases, cloud and industry practice.
 
 </td>
 
@@ -99,29 +105,25 @@ Full-stack development, databases, cloud systems and industry practice.
 <table width="100%">
 <tr>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<sub>BUILD</sub>
-
-<br><br>
+<h2>Development</h2>
 
 <img
   src="https://skillicons.dev/icons?i=java,python,js,html,css,react,vue,fastapi,nodejs&theme=dark&perline=5"
-  width="92%"
+  width="96%"
   alt="Development Stack"
 />
 
 </td>
 
-<td width="50%" align="center" valign="middle">
+<td width="50%" align="center" valign="top">
 
-<sub>DATA / TOOLS</sub>
-
-<br><br>
+<h2>Data & Tooling</h2>
 
 <img
   src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,github,vscode,figma&theme=dark&perline=4"
-  width="92%"
+  width="96%"
   alt="Data and Tools"
 />
 
@@ -137,36 +139,30 @@ Full-stack development, databases, cloud systems and industry practice.
 <table width="100%">
 <tr>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center" valign="top">
 
-<sub>01 / ARTIFICIAL INTELLIGENCE</sub>
+<h2>Artificial Intelligence</h2>
 
-<br><br>
-
-**Generative AI**  
-**Agents · Automation**
+<strong>Generative AI</strong><br>
+Agents · Automation
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center" valign="top">
 
-<sub>02 / BLOCKCHAIN</sub>
+<h2>Blockchain</h2>
 
-<br><br>
-
-**Smart Contracts**  
-**Decentralised Systems**
+<strong>Smart Contracts</strong><br>
+Decentralised Systems
 
 </td>
 
-<td width="33%" align="center" valign="middle">
+<td width="33%" align="center" valign="top">
 
-<sub>03 / WEB3+</sub>
+<h2>Web3+</h2>
 
-<br><br>
-
-**dApps · Digital Ownership**  
-**Decentralised Identity**
+<strong>dApps · Ownership</strong><br>
+Decentralised Identity
 
 </td>
 
@@ -175,32 +171,21 @@ Full-stack development, databases, cloud systems and industry practice.
 
 ---
 
-<details>
-<summary><b>GitHub</b> &nbsp; <sub>Activity / Cultivation 修仙</sub></summary>
-
-<br>
+## Contributions
 
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=PeterZG&locale=en&hide_border=true&border_radius=10&background=0D1117&ring=9CA3AF&fire=C5B89F&currStreakLabel=B8BDC7&sideLabels=8B949E&currStreakNum=E5E7EB&sideNums=E5E7EB&dates=6B7280&stroke=25282D"
-  width="76%"
-  alt="GitHub Activity"
-/>
-
-<br>
-
-<img
-  src="https://github-immortality.vercel.app/api?username=PeterZG"
-  width="96%"
-  alt="GitHub Cultivation"
+  src="https://ssr-contributions-svg.vercel.app/_/PeterZG?chart=3dbar&format=svg&weeks=40&gradient=true&animation=wave&scale=2.2&light=14&gap=1.4&dark=true&colors=111827,334155,64748B,94A3B8,E2E8F0"
+  width="100%"
+  alt="GitHub Contributions"
 />
 
 </div>
 
-</details>
-
 ---
+
+## Hideo Kojima
 
 <table width="100%">
 <tr>
@@ -218,7 +203,7 @@ Full-stack development, databases, cloud systems and industry practice.
 <td width="50%" align="center" valign="middle">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&height=340&color=0:040404,52:0E0F11,100:1B1D20&text=%E2%80%9CI%27m%20not%20interested%20in-nl-technology%20itself.-nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=25&fontColor=C9C3B8&fontFamily=Georgia&animation=fadeIn&desc=%E2%80%94%20Hideo%20Kojima&descSize=17&descAlignY=84"
+  src="https://capsule-render.vercel.app/api?type=rect&height=900&color=0:050607,48:111316,100:252A2F&text=%E2%80%9CI%27m%20not%20interested%20in-nl-technology%20itself.-nl--nl-I%27m%20interested%20in-nl-what%20it%20can%20do.%E2%80%9D&fontSize=50&fontColor=D7DADD&fontFamily=Georgia&fontAlignY=43&desc=HIDEO%20KOJIMA&descSize=21&descAlignY=82&animation=fadeIn"
   width="100%"
   alt="Hideo Kojima Quote"
 />
