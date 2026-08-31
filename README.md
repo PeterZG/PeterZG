@@ -288,10 +288,28 @@ dApps & Decentralised Identity
   src="https://images.weserv.nl/?url=https%3A%2F%2Fcapsule-render.vercel.app%2Fapi%3Ftype%3Drect%26height%3D900%26color%3D0%3A07090B%2C55%3A13181C%2C100%3A20272B%26text%3D%25E2%2580%259CI%2527m%2520not%2520interested-nl-in%2520technology%2520itself.-nl--nl-I%2527m%2520interested%2520in-nl-what%2520it%2520can%2520do.%25E2%2580%259D%26fontSize%3D54%26fontColor%3DE9ECEF%26fontFamily%3DGeorgia%26fontAlignY%3D42%26desc%3D%25E2%2580%2594%2520Hideo%2520Kojima%26descSize%3D25%26descAlignY%3D82&w=640&h=480&fit=cover&output=png"
   width="49.5%"
   alt="Hideo Kojima Quote"
-/><img
-  src="https://capsule-render.vercel.app/api?type=rect&height=96&color=0:07090B,45:1D252A,78:394A52,100:667983&text=WZ_CRYPT%20%C2%B7%202026&fontSize=28&fontColor=E8ECEE&fontFamily=Georgia&fontAlignY=49"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:F4F6F7,22:B7C1C6,50:384247,78:B7C1C6,100:F4F6F7"
+  width="72%"
+  alt=""
+/>
+
+<br>
+
+### WZ_CRYPT
+
+<sub>◆</sub>
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=transparent&height=28"
   width="100%"
-  alt="WZ Crypt 2026"
+  alt=""
 />
 
 </div>
